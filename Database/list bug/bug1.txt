@@ -1,0 +1,137 @@
+host             code  server                hostname
+----             ----  ------                --------
+95.217.58.108    200   nginx                 app.axisworld.co.id.jpn.info.tm
+65.60.10.226     404                         time.rizlen91.nazuka.net
+95.217.58.108    302   nginx                 info.tm
+59.106.13.119    200   nginx                 ichicat.com
+223.224.4.17     301   proxygen-bolt         external.fcmb6-1.fna.fbcdn.net
+223.224.4.34     403   proxygen-bolt         media.fcmb6-1.fna.whatsapp.net
+223.224.4.17     301   proxygen-bolt         scontent.fcmb6-1.fna.fbcdn.net
+27.50.65.231     301   nginx                 genesisfx.com.au
+223.255.137.117  200   openresty             betafac.com
+115.236.118.54   200   nginx                 netease.com
+54.161.222.85    404                         ceeture.com
+34.205.242.146   404                         traff-5.hugedomains.com
+34.205.242.146   404                         hdr-nlb7-aebd5d615260636b.elb.us-east-1.amazonaws.com
+223.255.225.34   301   proxygen-bolt         z-p3-scontent.fcgk2-1.fna.fbcdn.net
+49.49.0.80                                   andynat.3bbddns.com
+223.255.228.55   403   Apache/2.4.6 (CentOS) PHP/5.4.16  coredps1.tri.co.id
+223.223.182.225                              blog.china.com
+49.48.50.133                                 fernchonburi.3bbddns.com
+224.1.1.1                                    lz0.gstatic.com
+224.0.0.22                                   igmp.mcast.net
+223.223.182.225                              sembahlah.china.com
+223.223.182.225                              telcom.china.com
+76.223.54.146    404   openresty             itunes-apple.com
+223.206.187.130                              vpn569257026.opengw.net
+216.120.147.200  200   openresty             235.id.co.three.mx
+20.222.5.15      200                         137.com
+216.120.147.200  200   openresty             three.mx
+205.178.189.131  301   Sun-ONE-Web-Server/6.1  kinderberryhillchilddevelopment.com
+3.19.116.195     404                         bioident.com
+188.114.97.0     301   cloudflare            kikusui.com
+185.230.63.171   301                         7buddhas.com
+3.18.7.81        404                         traff-3.hugedomains.com
+76.223.54.146    404   openresty             981001.com
+3.18.7.81        404                         hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
+188.114.97.0     301   cloudflare            abests.com
+85.214.199.91    200   nginx                 alpaca-pisco-peru.com
+216.12.166.231   301   Apache                0455dz.com
+172.121.84.126   301   nginx                 adksoccer.com
+64.190.63.111    403   NginX                 annuairepro.com
+35.215.99.239    301   nginx                 americasmall.com
+89.31.143.1      200   UD Forwarding 3.1     archiater.com
+76.223.54.146    404   openresty             anjetta.com
+223.255.163.81                               kaleidoscopefabrics.com
+172.190.167.245  404   nginx                 mue1-shasta-mrs-prod01.eastus.cloudapp.azure.com
+81.19.145.91     301   Apache                asvkainz.com
+154.64.242.237   403   nginx                 asiayili.com
+223.255.225.76                               subs09a-223-255-225-76.three.co.id
+223.255.229.63                               jkt1.speedtest.tri.co.id
+250.134.246.140                              betabeats.com
+host             code  server                hostname
+----             ----  ------                --------
+104.21.85.120    301   cloudflare            merdeka99.com
+104.21.51.145    301   cloudflare            free-proxy-list.net
+188.114.97.0     301   cloudflare            www.sekolah.me
+188.114.97.0     301   cloudflare            sekolah.me
+172.67.205.162   301   cloudflare            hexa-x.eu
+104.21.58.169    301   cloudflare            wallpaperwaifu.com
+104.21.50.114    409   cloudflare            www.936826.fun.cdn.cloudflare.net
+172.67.163.82    301   cloudflare            www.ranksays.com
+104.21.38.67     200   cloudflare            daofile.com
+188.114.97.0     301   cloudflare            airtelcongo.com
+188.114.97.0     301   cloudflare            www.airtelcongo.com
+172.67.205.209   200   cloudflare            www.mc1.a2z.az
+104.21.85.115    301   cloudflare            slma.lk
+45.33.30.197     200   openresty/1.13.6.1    likeid567.com
+188.114.97.0     301   cloudflare            abests.com
+172.67.206.21    406   cloudflare            selaluada.com
+172.67.206.21    406   cloudflare            m.selaluada.com
+104.21.52.253    406   cloudflare            poin.selaluada.com
+188.114.96.0     301   cloudflare            hackwise.mx
+188.114.96.0     301   cloudflare            www.daltronpng.com
+188.114.97.0     200   cloudflare            lazada.net
+188.114.96.0     200   cloudflare            www.lazada.net
+172.67.206.21    406   cloudflare            shop.selaluada.com
+172.67.206.21    406   cloudflare            staging.selaluada.com
+188.114.96.0     301   cloudflare            ongtoto.com
+188.114.96.0     301   cloudflare            argim.net
+188.114.96.0     302   cloudflare            www.argim.net
+188.114.97.0     301   cloudflare            whatsapp1.com
+104.21.61.61     302   cloudflare            m.do.co
+104.21.22.185    302   cloudflare            mediacf.gameloft.com
+172.67.206.220   301   cloudflare            ency-educ.com
+188.114.97.0     301   cloudflare            filmapik.pro
+104.21.22.185    302   cloudflare            www.mediacf.gameloft.com
+188.114.96.0     301   cloudflare            mancosa.ac.za
+64.91.249.20     302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9  cienpelis.net
+188.114.97.0     403   cloudflare            opm.gov.jm
+64.91.249.20     302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9  thevideos.us
+172.67.207.28    200   cloudflare            aikatu.jp
+host             code  server                hostname
+----             ----  ------                --------
+104.21.50.114    409   cloudflare            www.936826.fun.cdn.cloudflare.net
+188.114.96.0     301   cloudflare            airtelcongo.com
+104.21.10.121    301   cloudflare            www.ranksays.com
+104.21.51.145    301   cloudflare            free-proxy-list.net
+188.114.97.0     301   cloudflare            www.airtelcongo.com
+172.67.205.209   200   cloudflare            www.mc1.a2z.az
+188.114.96.0     301   cloudflare            abests.com
+172.67.206.21    406   cloudflare            selaluada.com
+104.21.52.253    406   cloudflare            m.selaluada.com
+172.67.206.21    406   cloudflare            shop.selaluada.com
+104.21.52.253    406   cloudflare            poin.selaluada.com
+104.21.52.253    406   cloudflare            staging.selaluada.com
+188.114.96.0     301   cloudflare            www.daltronpng.com
+188.114.96.0     301   cloudflare            hackwise.mx
+188.114.97.0     200   cloudflare            www.lazada.net
+188.114.97.0     200   cloudflare            lazada.net
+188.114.96.0     301   cloudflare            ongtoto.com
+188.114.96.0     301   cloudflare            whatsapp1.com
+104.21.22.185    302   cloudflare            mediacf.gameloft.com
+188.114.97.0     301   cloudflare            argim.net
+104.21.61.61     302   cloudflare            m.do.co
+104.21.22.185    302   cloudflare            www.mediacf.gameloft.com
+188.114.96.0     302   cloudflare            www.argim.net
+64.91.249.20     302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9  cienpelis.net
+104.21.37.96     301   cloudflare            ency-educ.com
+188.114.97.0     301   cloudflare            mancosa.ac.za
+188.114.97.1     301   cloudflare            filmapik.pro
+188.114.96.0     301   cloudflare            cib.az
+188.114.96.0     301   cloudflare            plexanet.org
+188.114.97.0     403   cloudflare            opm.gov.jm
+18.239.94.82     301   CloudFront            www.harianhaluan.com
+172.67.158.134   200   cloudflare            www.dailynews.lk
+64.91.249.20     302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9  thevideos.us
+18.239.94.65     301   CloudFront            damzqkg2je2hq.cloudfront.net
+104.26.9.59      200   cloudflare            api.myip.com
+104.26.9.59      301   cloudflare            www.myip.com
+188.114.96.0     200   cloudflare            korek.com
+188.114.96.0     301   cloudflare            www.thingsmobile.com
+188.114.96.0     200   cloudflare            www.korek.com
+104.21.22.212    200   cloudflare            aikatu.jp
+172.67.207.181                               v2ray.clarolte.com
+185.120.222.148                              shirazsong.in
+188.114.96.0                                 imap.korek.com
+185.143.234.122                              atinad.com

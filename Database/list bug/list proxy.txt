@@ -1,0 +1,656 @@
+198.244.212.57 = ns31514033.ip-198-244-212.eu
+199.249.230.189 = tor100.quintex.com
+65.109.224.248 = static.248.224.109.65.clients.your-server.de.
+ ns3.second-ns.de.
+ ns.second-ns.com.
+ ns1.your-server.de
+172.217.194.95 = si-in-f95.1e100.net
+199.232.46.0 = NOT FOUND
+65.109.224.248 = static.248.224.109.65.clients.your-server.de.
+ ns3.second-ns.de.
+ ns.second-ns.com.
+ ns1.your-server.de
+198.244.212.57 = ns31514033.ip-198-244-212.eu
+130.61.220.149 = NOT FOUND
+95.215.45.138 = devnode.lumag.spb.ru.
+ ns1.yourserver.se.
+ ns2.yourserver.se
+148.251.151.125 = niklasl.com.
+ ns1.your-server.de.
+ ns3.second-ns.de.
+ ns.second-ns.com
+172.17.224.1 = NOT FOUND
+74.208.189.124 = ip74-208-189-124.pbiaas.com
+65.109.224.248 = NOT FOUND
+198.244.212.57 = NOT FOUND
+172.253.118.95 = sl-in-f95.1e100.net
+172.217.194.95 = si-in-f95.1e100.net
+74.125.68.95 = sc-in-f95.1e100.net
+74.125.130.95 = sb-in-f95.1e100.net
+74.125.24.95 = sf-in-f95.1e100.net
+65.109.224.248 = static.248.224.109.65.clients.your-server.de.
+ ns3.second-ns.de.
+ ns.second-ns.com.
+ ns1.your-server.de
+74.125.68.95 = sc-in-f95.1e100.net
+10.0.2.2 = NOT FOUND
+198.244.212.57 = ns31514033.ip-198-244-212.eu
+74.125.130.95 = sb-in-f95.1e100.net
+74.125.24.95 = sf-in-f95.1e100.net
+142.250.4.95 = sm-in-f95.1e100.net
+142.251.12.95 = se-in-f95.1e100.net
+142.251.10.95 = sd-in-f95.1e100.net
+64.233.170.95 = sg-in-f95.1e100.net
+127.9.9.1 = NOT FOUND
+127.0.0.10 = NOT FOUND
+192.168.1.4 = NOT FOUND
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+34.111.24.1 = 1.24.111.34.bc.googleusercontent.com
+142.251.36.110 = prg03s11-in-f14.1e100.net
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+142.251.36.86 = prg03s10-in-f22.1e100.net
+34.239.73.113 = ec2-34-239-73-113.compute-1.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com
+95.100.146.48 = a95-100-146-48.deploy.static.akamaitechnologies.com
+20.54.232.160 = NOT FOUND
+34.117.237.239 = 239.237.117.34.bc.googleusercontent.com
+131.253.33.254 = NOT FOUND
+34.149.207.176 = 176.207.149.34.bc.googleusercontent.com
+13.107.3.254 = NOT FOUND
+20.45.236.83 = NOT FOUND
+192.229.221.95 = NOT FOUND
+204.79.197.222 = NOT FOUND
+40.114.177.156 = NOT FOUND
+95.100.146.19 = a95-100-146-19.deploy.static.akamaitechnologies.com
+34.120.208.123 = 123.208.120.34.bc.googleusercontent.com
+188.114.96.9 = NOT FOUND
+13.107.213.45 = NOT FOUND
+142.251.36.106 = prg03s11-in-f10.1e100.net
+64.233.170.94 = sg-in-f94.1e100.net
+13.107.42.14 = NOT FOUND
+192.0.73.2 = NOT FOUND
+23.212.110.136 = a23-212-110-136.deploy.static.akamaitechnologies.com
+23.212.110.178 = a23-212-110-178.deploy.static.akamaitechnologies.com
+13.107.6.254 = NOT FOUND
+13.107.213.254 = NOT FOUND
+23.195.104.131 = a23-195-104-131.deploy.static.akamaitechnologies.com
+91.108.56.121 = NOT FOUND
+91.108.56.132 = NOT FOUND
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+142.251.36.142 = prg03s12-in-f14.1e100.net
+99.86.4.76 = server-99-86-4-76.fra6.r.cloudfront.net.
+ x2.amazonaws.com.
+ x3.amazonaws.org.
+ x4.amazonaws.org.
+ pdns1.ultradns.net.
+ x1.amazonaws.com
+142.251.36.131 = prg03s12-in-f3.1e100.net
+142.251.36.106 = prg03s11-in-f10.1e100.net
+51.11.192.49 = NOT FOUND
+23.195.104.88 = a23-195-104-88.deploy.static.akamaitechnologies.com
+23.212.110.184 = a23-212-110-184.deploy.static.akamaitechnologies.com
+13.107.43.14 = NOT FOUND
+52.123.128.254 = NOT FOUND
+20.217.24.32 = NOT FOUND
+192.229.221.95 = NOT FOUND
+95.100.146.51 = a95-100-146-51.deploy.static.akamaitechnologies.com
+91.108.56.121 = NOT FOUND
+91.108.56.132 = NOT FOUND
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+34.120.208.123 = 123.208.120.34.bc.googleusercontent.com
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+44.209.73.139 = ec2-44-209-73-139.compute-1.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com
+142.251.36.106 = prg03s11-in-f10.1e100.net
+188.114.97.9 = NOT FOUND
+142.251.36.131 = prg03s12-in-f3.1e100.net
+34.111.24.1 = 1.24.111.34.bc.googleusercontent.com
+104.16.123.175 = NOT FOUND
+142.251.37.106 = prg03s13-in-f10.1e100.net
+23.195.104.131 = a23-195-104-131.deploy.static.akamaitechnologies.com
+91.108.56.121 = NOT FOUND
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+34.117.237.239 = 239.237.117.34.bc.googleusercontent.com
+91.108.56.132 = NOT FOUND
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+34.120.208.123 = 123.208.120.34.bc.googleusercontent.com
+34.107.221.82 = 82.221.107.34.bc.googleusercontent.com
+34.117.237.239 = 239.237.117.34.bc.googleusercontent.com
+192.229.221.95 = NOT FOUND
+35.244.181.201 = 201.181.244.35.bc.googleusercontent.com
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+104.18.14.101 = NOT FOUND
+18.66.97.96 = server-18-66-97-96.fra56.r.cloudfront.net.
+ x1.amazonaws.com.
+ x2.amazonaws.com.
+ x3.amazonaws.org.
+ x4.amazonaws.org.
+ pdns1.ultradns.net
+44.209.73.139 = ec2-44-209-73-139.compute-1.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com
+44.207.24.131 = ec2-44-207-24-131.compute-1.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com
+142.251.36.131 = prg03s12-in-f3.1e100.net
+142.251.36.106 = prg03s11-in-f10.1e100.net
+188.114.97.9 = NOT FOUND
+142.251.36.68 = prg03s10-in-f4.1e100.net
+34.111.24.1 = 1.24.111.34.bc.googleusercontent.com
+104.16.123.175 = NOT FOUND
+142.251.37.106 = prg03s13-in-f10.1e100.net
+23.212.110.184 = a23-212-110-184.deploy.static.akamaitechnologies.com
+23.212.110.168 = a23-212-110-168.deploy.static.akamaitechnologies.com
+23.195.104.131 = a23-195-104-131.deploy.static.akamaitechnologies.com
+91.108.56.121 = NOT FOUND
+91.108.56.132 = NOT FOUND
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+34.111.24.1 = 1.24.111.34.bc.googleusercontent.com
+142.251.36.106 = prg03s11-in-f10.1e100.net
+91.108.56.121 = NOT FOUND
+34.117.237.239 = 239.237.117.34.bc.googleusercontent.com
+23.195.104.131 = a23-195-104-131.deploy.static.akamaitechnologies.com
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+91.108.56.132 = NOT FOUND
+23.212.110.185 = a23-212-110-185.deploy.static.akamaitechnologies.com
+95.100.146.19 = a95-100-146-19.deploy.static.akamaitechnologies.com
+149.154.175.55 = NOT FOUND
+23.212.110.184 = a23-212-110-184.deploy.static.akamaitechnologies.com
+13.107.4.254 = NOT FOUND
+152.199.19.161 = NOT FOUND
+4.150.240.254 = NOT FOUND
+204.79.197.222 = NOT FOUND
+172.27.96.1 = NOT FOUND
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+13.107.136.254 = NOT FOUND
+131.253.33.254 = NOT FOUND
+204.79.197.254 = NOT FOUND
+204.79.197.222 = NOT FOUND
+34.107.221.82 = 82.221.107.34.bc.googleusercontent.com
+142.251.36.74 = prg03s10-in-f10.1e100.net
+142.251.36.106 = prg03s11-in-f10.1e100.net
+23.212.110.185 = a23-212-110-185.deploy.static.akamaitechnologies.com
+52.123.129.254 = NOT FOUND
+13.107.253.254 = NOT FOUND
+13.107.237.254 = NOT FOUND
+23.195.104.131 = a23-195-104-131.deploy.static.akamaitechnologies.com
+13.107.246.45 = NOT FOUND
+13.107.3.254 = NOT FOUND
+13.107.42.254 = NOT FOUND
+142.251.36.67 = prg03s10-in-f3.1e100.net
+192.168.56.1 = NOT FOUND
+172.27.96.1 = NOT FOUND
+192.168.1.4 = NOT FOUND
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+142.251.36.74 = prg03s10-in-f10.1e100.net
+142.251.36.106 = prg03s11-in-f10.1e100.net
+23.212.110.184 = a23-212-110-184.deploy.static.akamaitechnologies.com
+23.195.104.88 = a23-195-104-88.deploy.static.akamaitechnologies.com
+142.251.36.131 = prg03s12-in-f3.1e100.net
+92.205.161.164 = 164.161.205.92.host.secureserver.net.
+ ans02.domaincontrol.com.
+ ans01.domaincontrol.com
+136.243.92.194 = static.194.92.243.136.clients.your-server.de.
+ ns1.your-server.de.
+ ns3.second-ns.de.
+ ns.second-ns.com
+172.27.96.1 = NOT FOUND
+192.168.1.4 = NOT FOUND
+192.168.56.1 = NOT FOUND
+127.9.9.1 = NOT FOUND
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+142.251.36.74 = prg03s10-in-f10.1e100.net
+142.251.36.106 = prg03s11-in-f10.1e100.net
+23.212.110.184 = a23-212-110-184.deploy.static.akamaitechnologies.com
+23.195.104.88 = a23-195-104-88.deploy.static.akamaitechnologies.com
+142.251.36.131 = prg03s12-in-f3.1e100.net
+92.205.161.164 = 164.161.205.92.host.secureserver.net.
+ ans01.domaincontrol.com.
+ ans02.domaincontrol.com
+136.243.92.194 = static.194.92.243.136.clients.your-server.de.
+ ns3.second-ns.de.
+ ns.second-ns.com.
+ ns1.your-server.de
+127.0.0.25 = NOT FOUND
+127.3.3.3 = NOT FOUND
+34.117.237.239 = 239.237.117.34.bc.googleusercontent.com
+34.239.73.113 = ec2-34-239-73-113.compute-1.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com
+34.120.208.123 = 123.208.120.34.bc.googleusercontent.com
+52.222.236.12 = server-52-222-236-12.fra56.r.cloudfront.net.
+ pdns1.ultradns.net.
+ x1.amazonaws.com.
+ x2.amazonaws.com.
+ x3.amazonaws.org.
+ x4.amazonaws.org
+51.132.193.105 = NOT FOUND
+146.75.118.133 = NOT FOUND
+104.17.24.14 = NOT FOUND
+104.21.87.240 = NOT FOUND
+2.16.2.73 = a2-16-2-73.deploy.static.akamaitechnologies.com
+142.251.36.138 = prg03s12-in-f10.1e100.net
+142.251.36.110 = prg03s11-in-f14.1e100.net
+157.240.30.18 = edge-star-shv-01-prg1.facebook.com
+157.240.30.35 = edge-star-mini-shv-01-prg1.facebook.com
+192.229.221.95 = NOT FOUND
+142.251.37.109 = prg03s13-in-f13.1e100.net
+142.251.37.99 = prg03s13-in-f3.1e100.net
+104.26.7.139 = NOT FOUND
+104.18.11.248 = NOT FOUND
+40.114.178.124 = NOT FOUND
+34.111.24.1 = 1.24.111.34.bc.googleusercontent.com
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+87.106.239.199 = srv02.cyberbunker.biz
+89.58.4.118 = v2202212170218212883.supersrv.de.
+ third-dns.netcup.net.
+ root-dns.netcup.net.
+ second-dns.netcup.net
+95.100.146.48 = a95-100-146-48.deploy.static.akamaitechnologies.com
+23.195.104.88 = a23-195-104-88.deploy.static.akamaitechnologies.com
+92.205.161.164 = 164.161.205.92.host.secureserver.net.
+ ans02.domaincontrol.com.
+ ans01.domaincontrol.com
+185.246.210.129  = unn-185-246-210-129.datapacket.com
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+213.252.245.153 = 14997-26178.bacloud.info.
+ ns2.ist.lt.
+ ns1.ist.lt
+104.244.72.20 = hermes.ripperscorner.net
+104.149.139.137 = cyberphunk.org
+93.184.221.240 = NOT FOUND
+23.205.191.135 = a23-205-191-135.deploy.static.akamaitechnologies.com
+34.149.100.209 = 209.100.149.34.bc.googleusercontent.com
+23.195.104.88 = a23-195-104-88.deploy.static.akamaitechnologies.com
+142.251.36.131 = prg03s12-in-f3.1e100.net
+34.117.237.239 = 239.237.117.34.bc.googleusercontent.com
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+142.251.37.110 = prg03s13-in-f14.1e100.net
+23.195.104.88 = a23-195-104-88.deploy.static.akamaitechnologies.com
+23.212.110.185 = a23-212-110-185.deploy.static.akamaitechnologies.com
+13.107.237.254 = NOT FOUND
+52.113.196.254 = NOT FOUND
+20.123.29.87 = NOT FOUND
+204.79.197.222 = NOT FOUND
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+213.252.245.153 = 14997-26178.bacloud.info.
+ ns1.ist.lt.
+ ns2.ist.lt
+127.0.0.55 = NOT FOUND
+172.27.96.1 = NOT FOUND
+192.168.1.4 = NOT FOUND
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+103.225.66.96 = ip66-96.metrotvnews.com.
+ ns1.metrotvnews.com
+34.239.73.113 = ec2-34-239-73-113.compute-1.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com
+34.117.237.239 = 239.237.117.34.bc.googleusercontent.com
+34.120.208.123 = 123.208.120.34.bc.googleusercontent.com
+104.18.20.239 = NOT FOUND
+104.17.110.184 = NOT FOUND
+36.92.236.239 = NOT FOUND
+104.18.3.57 = NOT FOUND
+104.16.45.48 = NOT FOUND
+104.18.26.8 = NOT FOUND
+138.199.37.230 = 138-199-37-230.bunnyinfra.net
+104.17.47.39 = NOT FOUND
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+34.149.100.209 = 209.100.149.34.bc.googleusercontent.com
+172.67.148.10 = NOT FOUND
+23.195.104.131 = a23-195-104-131.deploy.static.akamaitechnologies.com
+23.212.110.162 = a23-212-110-162.deploy.static.akamaitechnologies.com
+52.165.164.15 = NOT FOUND
+104.21.47.134 = NOT FOUND
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+34.159.84.40 = 40.84.159.34.bc.googleusercontent.com
+104.18.18.192 = NOT FOUND
+34.239.73.113 = ec2-34-239-73-113.compute-1.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com
+216.239.32.180 = NOT FOUND
+23.195.104.131 = a23-195-104-131.deploy.static.akamaitechnologies.com
+104.21.47.134 = NOT FOUND
+34.149.100.209 = 209.100.149.34.bc.googleusercontent.com
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+185.246.210.129 = unn-185-246-210-129.datapacket.com
+172.30.240.1 = NOT FOUND
+172.31.224.1 = NOT FOUND
+192.168.1.4 = NOT FOUND
+118.98.44.100 = NOT FOUND
+23.195.104.139 = a23-195-104-139.deploy.static.akamaitechnologies.com
+204.79.197.203 = a-0003.a-msedge.net
+152.195.38.76 = NOT FOUND
+34.160.176.28 = 28.176.160.34.bc.googleusercontent.com
+34.141.51.245 = 245.51.141.34.bc.googleusercontent.com
+74.125.24.95 = sf-in-f95.1e100.net
+207.211.208.151 = unn-207-211-208-151.datapacket.com
+172.253.118.95 = sl-in-f95.1e100.net
+204.79.197.200 = a-0001.a-msedge.net
+13.89.178.27 = NOT FOUND
+34.149.149.62 = 62.149.149.34.bc.googleusercontent.com
+74.125.200.94 = sa-in-f94.1e100.net
+104.208.16.88 = NOT FOUND
+204.79.197.222 = NOT FOUND
+52.98.241.162 = NOT FOUND
+40.99.9.98 = NOT FOUND
+23.195.104.131 = a23-195-104-131.deploy.static.akamaitechnologies.com
+40.126.35.88 = NOT FOUND
+52.152.90.172 = NOT FOUND
+40.119.240.74 = NOT FOUND
+52.156.99.28 = NOT FOUND
+52.165.164.15 = NOT FOUND
+23.78.216.152 = a23-78-216-152.deploy.static.akamaitechnologies.com
+34.149.202.126 = 126.202.149.34.bc.googleusercontent.com
+34.149.207.176 = 176.207.149.34.bc.googleusercontent.com
+23.78.218.80 = a23-78-218-80.deploy.static.akamaitechnologies.com
+142.251.36.106 = prg03s11-in-f10.1e100.net
+104.18.24.129 = NOT FOUND
+1.1.1.1 = one.one.one.one
+18.155.68.98 = server-18-155-68-98.sin52.r.cloudfront.net.
+ x3.amazonaws.org.
+ x4.amazonaws.org.
+ pdns1.ultradns.net.
+ x1.amazonaws.com.
+ x2.amazonaws.com
+54.192.150.106 = server-54-192-150-106.sin2.r.cloudfront.net.
+ pdns1.ultradns.net.
+ x1.amazonaws.com.
+ x2.amazonaws.com.
+ x3.amazonaws.org.
+ x4.amazonaws.org
+13.107.42.16 = NOT FOUND
+36.86.63.182 = NOT FOUND
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+23.39.4.33 = a23-39-4-33.deploy.static.akamaitechnologies.com
+38.106.231.204 = 38.106.231.204.ptr.centrax.com
+34.117.237.239 = 239.237.117.34.bc.googleusercontent.com
+35.244.181.201 = 201.181.244.35.bc.googleusercontent.com
+34.107.221.82 = 82.221.107.34.bc.googleusercontent.com
+34.120.208.123 = 123.208.120.34.bc.googleusercontent.com
+34.149.100.209 = 209.100.149.34.bc.googleusercontent.com
+34.160.144.191 = 191.144.160.34.bc.googleusercontent.com
+23.49.60.209 = a23-49-60-209.deploy.static.akamaitechnologies.com
+64.185.227.155 = 64-185-227-155.static.webnx.com.
+ ns3.webnx.com.
+ ns1.webnx.com.
+ ns2.webnx.com.
+ ns4.webnx.com
+23.59.80.225 = a23-59-80-225.deploy.static.akamaitechnologies.com
+96.17.189.43 = a96-17-189-43.deploy.static.akamaitechnologies.com
+34.117.223.223 = 223.223.117.34.bc.googleusercontent.com
+104.16.251.88 = NOT FOUND
+104.18.211.61 = NOT FOUND
+23.49.60.167 = a23-49-60-167.deploy.static.akamaitechnologies.com
+104.18.15.101 = NOT FOUND
+185.93.1.244 = 185-93-1-244.bunnyinfra.net
+54.230.112.118 = server-54-230-112-118.mrs52.r.cloudfront.net.
+ x3.amazonaws.org.
+ x4.amazonaws.org.
+ pdns1.ultradns.net.
+ x1.amazonaws.com.
+ x2.amazonaws.com
+54.198.171.20 = ec2-54-198-171-20.compute-1.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com
+44.194.4.3 = ec2-44-194-4-3.compute-1.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com
+104.16.144.246 = NOT FOUND
+52.222.226.205 = server-52-222-226-205.fra56.r.cloudfront.net.
+ x1.amazonaws.com.
+ x2.amazonaws.com.
+ x3.amazonaws.org.
+ x4.amazonaws.org.
+ pdns1.ultradns.net
+104.18.16.79 = NOT FOUND
+3.234.93.142 = ec2-3-234-93-142.compute-1.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com
+104.70.235.83 = a104-70-235-83.deploy.static.akamaitechnologies.com
+13.224.161.18 = server-13-224-161-18.hkg54.r.cloudfront.net.
+ x2.amazonaws.com.
+ x3.amazonaws.org.
+ x4.amazonaws.org.
+ pdns1.ultradns.net.
+ x1.amazonaws.com
+184.51.136.140 = a184-51-136-140.deploy.static.akamaitechnologies.com
+172.67.20.158 = NOT FOUND
+104.89.118.49 = a104-89-118-49.deploy.static.akamaitechnologies.com
+23.78.217.66 = a23-78-217-66.deploy.static.akamaitechnologies.com
+20.44.197.112 = NOT FOUND
+74.125.24.91 = sf-in-f91.1e100.net
+3.0.12.16 = ec2-3-0-12-16.ap-southeast-1.compute.amazonaws.com.
+ ns4-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+ ns1-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+ ns2-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+ ns3-24-ap-southeast-1.ec2-rdns.amazonaws.com
+23.195.104.96 = a23-195-104-96.deploy.static.akamaitechnologies.com
+152.199.39.108 = NOT FOUND
+54.251.81.199 = ec2-54-251-81-199.ap-southeast-1.compute.amazonaws.com.
+ ns3-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+ ns4-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+ ns1-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+ ns2-24-ap-southeast-1.ec2-rdns.amazonaws.com
+5.45.60.61 = filerep-squared-prod-002.prg5.ff.avast.com
+23.195.104.113 = a23-195-104-113.deploy.static.akamaitechnologies.com
+20.198.2.181 = NOT FOUND
+208.95.112.1 = ip-api.com.
+ a1.uberns.com.
+ b1.uberns.com
+135.148.34.70 = us15.default-host.net
+23.202.33.129 = a23-202-33-129.deploy.static.akamaitechnologies.com
+104.89.118.131 = a104-89-118-131.deploy.static.akamaitechnologies.com
+23.202.33.209 = a23-202-33-209.deploy.static.akamaitechnologies.com
+74.125.200.100 = sa-in-f100.1e100.net
+152.199.40.78 = NOT FOUND
+104.244.42.129 = NOT FOUND
+76.76.21.21 = NOT FOUND
+104.21.71.245 = NOT FOUND
+47.251.49.246 = NOT FOUND
+34.72.218.64 = 64.218.72.34.bc.googleusercontent.com
+104.18.20.239 = NOT FOUND
+104.22.53.252 = NOT FOUND
+104.17.111.184 = NOT FOUND
+104.18.2.57 = NOT FOUND
+104.16.45.48 = NOT FOUND
+104.18.26.8 = NOT FOUND
+117.18.232.200 = NOT FOUND
+13.107.213.59 = NOT FOUND
+20.205.243.168 = NOT FOUND
+23.32.29.89 = a23-32-29-89.deploy.static.akamaitechnologies.com
+52.98.33.162 = NOT FOUND
+13.107.21.239 = NOT FOUND
+20.198.162.78 = NOT FOUND
+192.168.56.1 = NOT FOUND
+172.24.224.1 = NOT FOUND
+23.195.104.120 = a23-195-104-120.deploy.static.akamaitechnologies.com
+51.11.168.232 = NOT FOUND
+34.149.149.62 = 62.149.149.34.bc.googleusercontent.com
+52.168.112.67 = NOT FOUND
+20.3.187.198 = NOT FOUND
+20.189.173.7 = NOT FOUND
+142.250.4.95 = sm-in-f95.1e100.net
+204.79.197.203 = a-0003.a-msedge.net
+118.98.30.232 = NOT FOUND
+204.79.197.222 = NOT FOUND
+204.79.197.200 = a-0001.a-msedge.net
+4.150.240.254 = NOT FOUND
+52.152.90.172 = NOT FOUND
+13.107.246.59 = NOT FOUND
+204.79.197.254 = NOT FOUND
+13.107.4.254 = NOT FOUND
+13.107.246.254 = NOT FOUND
+52.108.8.254 = NOT FOUND
+52.113.196.254 = NOT FOUND
+150.171.32.254 = NOT FOUND
+20.245.99.252 = NOT FOUND
+117.18.232.200 = NOT FOUND
+64.233.170.95 = sg-in-f95.1e100.net
+118.98.97.146 = NOT FOUND
+20.140.147.201 = NOT FOUND
+52.98.40.34 = NOT FOUND
+20.198.2.181 = NOT FOUND
+23.220.172.134 = a23-220-172-134.deploy.static.akamaitechnologies.com
+20.44.220.42 = NOT FOUND
+40.119.240.74 = NOT FOUND
+18.64.18.58 = server-18-64-18-58.cgk50.r.cloudfront.net.
+ pdns1.ultradns.net.
+ x1.amazonaws.com.
+ x2.amazonaws.com.
+ x3.amazonaws.org.
+ x4.amazonaws.org
+38.106.231.204 = 38.106.231.204.ptr.centrax.com
+18.64.37.114 = server-18-64-37-114.cgk50.r.cloudfront.net.
+ pdns1.ultradns.net.
+ x1.amazonaws.com.
+ x2.amazonaws.com.
+ x3.amazonaws.org.
+ x4.amazonaws.org
+36.86.63.182 = NOT FOUND
+47.251.49.246 = NOT FOUND
+23.195.104.139 = a23-195-104-139.deploy.static.akamaitechnologies.com
+23.195.104.152 = a23-195-104-152.deploy.static.akamaitechnologies.com
+23.195.104.107 = a23-195-104-107.deploy.static.akamaitechnologies.com
+34.159.15.168 = 168.15.159.34.bc.googleusercontent.com
+23.195.104.96 = a23-195-104-96.deploy.static.akamaitechnologies.com
+23.195.104.146 = a23-195-104-146.deploy.static.akamaitechnologies.com
+207.211.208.152 = unn-207-211-208-152.datapacket.com
+23.195.104.113 = a23-195-104-113.deploy.static.akamaitechnologies.com
+23.195.104.131 = a23-195-104-131.deploy.static.akamaitechnologies.com
+104.70.237.118 = a104-70-237-118.deploy.static.akamaitechnologies.com
+34.117.223.223 = 223.223.117.34.bc.googleusercontent.com
+36.86.63.180 = NOT FOUND
+13.107.13.254 = NOT FOUND
+152.199.43.62 = NOT FOUND
+208.95.112.1 = ip-api.com.
+ a1.uberns.com.
+ b1.uberns.com
+20.70.174.252 = NOT FOUND
+135.148.34.70 = us15.default-host.net
+74.125.130.100 = sb-in-f100.1e100.net
+34.160.176.28 = 28.176.160.34.bc.googleusercontent.com
+152.199.40.78 = NOT FOUND
+20.198.119.143 = NOT FOUND
+192.168.42.177 = NOT FOUND
+34.159.37.72 = 72.37.159.34.bc.googleusercontent.com
+162.159.136.234 = NOT FOUND
+13.226.120.42 = server-13-226-120-42.hkg62.r.cloudfront.net.
+ x2.amazonaws.com.
+ x3.amazonaws.org.
+ x4.amazonaws.org.
+ pdns1.ultradns.net.
+ x1.amazonaws.com
+34.72.218.64 = 64.218.72.34.bc.googleusercontent.com
+23.195.104.88 = a23-195-104-88.deploy.static.akamaitechnologies.com
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+34.117.237.239 = 239.237.117.34.bc.googleusercontent.com
+34.120.208.123 = 123.208.120.34.bc.googleusercontent.com
+34.107.221.82 = 82.221.107.34.bc.googleusercontent.com
+35.244.181.201 = 201.181.244.35.bc.googleusercontent.com
+34.160.144.191 = 191.144.160.34.bc.googleusercontent.com
+34.149.100.209 = 209.100.149.34.bc.googleusercontent.com
+23.49.60.209 = a23-49-60-209.deploy.static.akamaitechnologies.com
+152.195.38.76 = NOT FOUND
+104.18.21.239 = NOT FOUND
+104.18.14.101 = NOT FOUND
+104.17.110.184 = NOT FOUND
+54.240.160.132 = server-54-240-160-132.hkg62.r.cloudfront.net.
+ x3.amazonaws.org.
+ x4.amazonaws.org.
+ pdns1.ultradns.net.
+ x1.amazonaws.com.
+ x2.amazonaws.com
+74.125.24.94 = sf-in-f94.1e100.net
+34.111.24.1 = 1.24.111.34.bc.googleusercontent.com
+142.251.12.94 = se-in-f94.1e100.net
+64.233.170.102 = sg-in-f102.1e100.net
+142.251.10.104 = sd-in-f104.1e100.net
+36.92.236.239 = NOT FOUND
+74.125.130.119 = sb-in-f119.1e100.net
+104.79.99.141 = a104-79-99-141.deploy.static.akamaitechnologies.com
+74.125.200.136 = sa-in-f136.1e100.net
+172.217.194.113 = si-in-f113.1e100.net
+36.92.228.140 = NOT FOUND
+142.251.12.95 = se-in-f95.1e100.net
+172.67.148.10 = NOT FOUND
+192.168.42.129 = NOT FOUND
+23.207.188.129 = a23-207-188-129.deploy.static.akamaitechnologies.com
+13.107.21.200 = NOT FOUND
+52.98.33.162 = NOT FOUND
+204.79.197.222 = NOT FOUND
+91.108.56.121 = NOT FOUND
+91.108.56.132 = NOT FOUND
+117.18.232.200 = NOT FOUND
+13.107.253.254 = NOT FOUND
+52.113.196.254 = NOT FOUND
+149.154.167.91 = NOT FOUND
+149.154.167.41 = NOT FOUND
+52.123.128.254 = NOT FOUND
+13.107.6.254 = NOT FOUND
+13.107.18.254 = NOT FOUND
+207.211.208.153 = unn-207-211-208-153.datapacket.com
+20.198.119.143 = NOT FOUND
+192.168.56.1 = NOT FOUND
+172.19.176.1 = NOT FOUND
+172.19.208.1 = NOT FOUND
+172.31.32.1 = NOT FOUND
+192.168.42.177 = NOT FOUND
+34.159.37.72 = 72.37.159.34.bc.googleusercontent.com
+162.159.136.234 = NOT FOUND
+34.117.65.55 = 55.65.117.34.bc.googleusercontent.com
+91.108.56.132 = NOT FOUND
+91.108.56.121 = NOT FOUND
+172.217.194.95 = si-in-f95.1e100.net
+207.211.208.153 = unn-207-211-208-153.datapacket.com
+172.67.172.102 = NOT FOUND
+198.244.212.57 = ns31514033.ip-198-244-212.eu
+130.61.220.149 = NOT FOUND
+65.109.224.248 = static.248.224.109.65.clients.your-server.de.
+ ns1.your-server.de.
+ ns3.second-ns.de.
+ ns.second-ns.com
+23.195.104.88 = a23-195-104-88.deploy.static.akamaitechnologies.com
+192.168.42.129 = NOT FOUND
+34.72.218.64 = 64.218.72.34.bc.googleusercontent.com
+23.62.212.108 = a23-62-212-108.deploy.static.akamaitechnologies.com
+172.67.148.10 = NOT FOUND
+199.249.230.189 = tor100.quintex.com
+3.230.101.226 = ec2-3-230-101-226.compute-1.amazonaws.com.
+ ns4-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns1-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns2-24-us-east-1.ec2-rdns.amazonaws.com.
+ ns3-24-us-east-1.ec2-rdns.amazonaws.com

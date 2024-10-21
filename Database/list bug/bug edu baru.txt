@@ -1,0 +1,537 @@
+ DNS: cta.ruangguru.com/f0089a9a -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/eda46863 -> IP: 104.18.3.2
+ DNS: www.altaschool.id/ -> IP: 172.67.155.115
+ DNS: cta.ruangguru.com/5bd49ba8 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/122ce08e -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/58d9291c -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/a62db054 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/80adabb5 -> IP: 104.18.3.2
+ DNS: kampus.ruangguru.com/kampus -> IP: 104.18.2.2
+ DNS: www.facebook.com/ruanggurucom/ -> IP: 157.240.218.35
+ DNS: www.english -> IP: 36.86.63.182
+ DNS: www.brainacademy.id/branch -> IP: 104.21.11.243
+ DNS: play.google.com/store/apps/details -> IP: 74.125.200.113
+ DNS: cta.ruangguru.com/bfa7e39e -> IP: 104.18.2.2
+ DNS: bayar.ruangguru.com/top/package -> IP: 104.18.3.2
+ DNS: www.instagram.com/ruangguru/ -> IP: 31.13.68.174
+ DNS: career.ruangguru.com/ -> IP: 104.18.3.2
+ DNS: roboguru.ruangguru.com/ -> IP: 104.18.2.2
+ DNS: pengajar.ruangguru.com/ -> IP: 104.18.2.2
+ DNS: layanan.ruangguru.com/hc -> IP: 104.16.51.111
+ DNS: www.ruangguru.com/company -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/1a14b81f -> IP: 104.18.2.2
+ DNS: skillacademy.com/ -> IP: 104.18.25.139
+ DNS: cta.ruangguru.com/1215b0d8 -> IP: 104.18.2.2
+ DNS: bayar.ruangguru.com/ -> IP: 104.18.3.2
+ DNS: www.kalananti.id/ -> IP: 172.67.202.109
+ DNS: www.linkedin.com/company/ruangguru -> IP: 13.107.42.14
+ DNS: www.ruangguru.com/about -> IP: 104.18.3.2
+ DNS: www.brainacademy.id/ -> IP: 104.21.11.243
+ DNS: www.ruangguru.com/beasiswa -> IP: 104.18.3.2
+ DNS: twitter.com/ruangguru/ -> IP: 104.244.42.193
+ DNS: www.ruangguru.com/blog -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/cara -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/ -> IP: 104.18.3.2
+ DNS: wa.me/ -> IP: 157.240.218.60
+ DNS: www.ruangguru.com/privat -> IP: 104.18.2.2
+ DNS: api.whatsapp.com/send/ -> IP: 157.240.218.60
+ DNS: www.ruangguru.com/bantuan -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/contact -> IP: 104.18.2.2
+ DNS: ticketing.ruangguru.com/help -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/for -> IP: 104.18.3.2
+ DNS: apps.apple.com/id/app/ruangguru -> IP: 23.220.172.25
+ DNS: www.ruangguru.com/cicilan -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/blibli -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/cerebrofort -> IP: 104.18.2.2
+ DNS: www.brainacademy.id -> IP: 104.21.11.243
+ DNS: appgallery.huawei.com/ -> IP: 159.138.102.231
+ DNS: roboguru.ruangguru.com -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/0849abdf -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/bisnis -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/dafa -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/promo/aladinmall -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/event -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/privacy -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/press -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/program -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/bodypack -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/bni -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/jiera -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/bca -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/cimb -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/brain -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/tokopediabelajar -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/kredivo -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/exsport -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/holikaholika -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/loyalty -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/promo/roboguru -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/ocbc -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/jansport -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/promo/nature -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/roboguruplus -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/tokopedia -> IP: 104.18.3.2
+ DNS: www.youtube.com/ruangguru -> IP: 74.125.24.136
+ DNS: www.ruangguru.com/ruangbelajar/perpanjang -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/promo/smattliving -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/ruangbelajar -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/promo/shopeemall -> IP: 104.18.3.2
+ DNS: newsroom.tiktok.com/en -> IP: 23.195.104.130
+ DNS: www.tiktok.com/about -> IP: 23.219.204.194
+ DNS: www.ruangguru.com/terms -> IP: 104.18.3.2
+ DNS: developers.tiktok.com/ -> IP: 23.195.104.145
+ DNS: www.tiktok.com/about/contact -> IP: 23.219.204.194
+ DNS: www.ruangguru.com/ruanguji -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/promo/shopee -> IP: 104.18.3.2
+ DNS: newsroom.tiktok.com/in -> IP: 23.195.104.130
+ DNS: www.tiktok.com/browse -> IP: 23.219.204.194
+ DNS: www.tiktok.com/ -> IP: 23.219.204.194
+ DNS: www.tiktok.com/legal/law -> IP: 23.219.204.187
+ DNS: www.tiktok.com/community -> IP: 23.219.204.194
+ DNS: effecthouse.tiktok.com/ -> IP: 118.98.30.240
+ DNS: www.tiktok.com/legal/cookie -> IP: 23.219.204.194
+ DNS: www.tiktok.com/creators/creator -> IP: 23.219.204.194
+ DNS: www.ruangguru.com/ruangkelas -> IP: 104.18.3.2
+ DNS: www.tiktok.com/transparency -> IP: 23.219.204.193
+ DNS: www.ruangguru.com/testimoni -> IP: 104.18.3.2
+ DNS: www.tiktok.com/legal/copyright -> IP: 23.219.204.193
+ DNS: careers.tiktok.com/ -> IP: 23.195.104.74
+ DNS: www.tiktok.com/legal/privacy -> IP: 23.219.204.192
+ DNS: www.ruangguru.com/utbk -> IP: 104.18.2.2
+ DNS: www.tiktok.com/tiktok -> IP: 23.219.204.193
+ DNS: www.bytedance.com/ -> IP: 23.195.104.113
+ DNS: www.tiktok.com/safety/id -> IP: 23.219.204.193
+ DNS: www.ruangpeduli.org/ -> IP: 172.67.149.165
+ DNS: www.ruangguru.com/promo/ruangbelajar -> IP: 104.18.3.2
+ DNS: support.google.com/youtube/answer/2801973 -> IP: 172.253.118.100
+ DNS: support.google.com/youtube/answer/2801939 -> IP: 172.253.118.100
+ DNS: support.google.com/youtube/answer/2801964 -> IP: 172.253.118.100
+ DNS: www.tiktok.com/business/ -> IP: 23.219.204.193
+ DNS: support.google.com/youtube/answer/2801947 -> IP: 172.253.118.100
+ DNS: www.ruangkerja.id/ -> IP: 104.18.9.115
+ DNS: support.google.com/youtube/answer/2802002 -> IP: 172.253.118.100
+ DNS: support.google.com/youtube/answer/10835034 -> IP: 172.253.118.100
+ DNS: support.google.com/youtube/answer/10834785 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/9229472 -> IP: 172.253.118.100
+ DNS: support.google.com/youtube/answer/2801999 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/2802032 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/3399767 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/2950063 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/2802268 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/2802027 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/7554338 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/2802167 -> IP: 142.251.10.113
+ DNS: www.tiktok.com/forgood -> IP: 23.219.204.193
+ DNS: www.schoters.com/id -> IP: 18.64.37.8
+ DNS: support.google.com/youtube/answer/2802008 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/9054257 -> IP: 74.125.130.100
+ DNS: support.google.com/youtube/answer/185111 -> IP: 142.251.10.113
+ DNS: ruangguru.onelink.me/blPk/102f481f -> IP: 18.161.49.50
+ DNS: support.google.com/youtube/answer/9229980 -> IP: 142.251.10.113
+ DNS: www.schoters.com/id/ -> IP: 18.64.37.129
+ DNS: blog.youtube/inside -> IP: 216.239.34.21
+ DNS: www.tiktok.com/embed -> IP: 23.219.204.193
+ DNS: support.google.com/youtube/answer/7667605 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/9713446 -> IP: 142.251.10.113
+ DNS: support.tiktok.com/ -> IP: 23.195.104.144
+ DNS: www.tiktok.com/legal/terms -> IP: 23.219.204.187
+ DNS: www.ruangguru.com/ruangpengajar -> IP: 104.18.2.2
+ DNS: www.tiktok.com/accessibility -> IP: 23.219.204.187
+ DNS: support.google.com/youtube/answer/9229611 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/174084 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/9891785 -> IP: 142.251.10.113
+ DNS: support.google.com/youtube/answer/2801981 -> IP: 74.125.130.100
+ DNS: support.google.com/youtube/answer/10072685 -> IP: 74.125.130.100
+ DNS: ruangguru.onelink.me/blPk/497c1eaf -> IP: 18.161.49.8
+ DNS: blog.skillacademy.com/ -> IP: 104.18.25.139
+ DNS: support.google.com/youtube/answer/2802245 -> IP: 74.125.130.100
+ DNS: bit.ly/SA -> IP: 67.199.248.11
+ DNS: careermentoring.skillacademy.com/ -> IP: 104.18.24.139
+ DNS: bantuan.skillacademy.com/hc/id -> IP: 104.16.53.111
+ DNS: mitra.skillacademy.com/ -> IP: 104.18.24.139
+ DNS: promo.skillacademy.com/ -> IP: 104.18.25.139
+ DNS: skillacademy.com/c -> IP: 104.18.24.139
+ DNS: skillacademy.com/gamification -> IP: 104.18.24.139
+ DNS: skillacademy.com/search/mobile -> IP: 104.18.24.139
+ DNS: skillacademy.com/sertifikat -> IP: 104.18.24.139
+ DNS: www.schoters.com/id/program/study -> IP: 18.64.37.129
+ DNS: www.facebook.com/profile.php -> IP: 157.240.217.35
+ DNS: www.whatsapp.com/join -> IP: 31.13.68.60
+ DNS: www.whatsapp.com/privacy -> IP: 157.240.218.60
+ DNS: camp.skillacademy.com/ -> IP: 104.18.25.139
+ DNS: event.skillacademy.com/ -> IP: 104.18.24.139
+ DNS: www.instagram.com/roboguru.id -> IP: 157.240.217.174
+ DNS: www.instagram.com/skillacademy.id -> IP: 157.240.218.174
+ DNS: blog.whatsapp.com/ -> IP: 157.240.218.60
+ DNS: www.facebook.com/brand/resources/whatsapp/whatsapp -> IP: 157.240.217.35
+ DNS: ruangguru.onelink.me/blPk/f24306ac -> IP: 18.161.49.72
+ DNS: skillacademy.com/topic/editor -> IP: 104.18.24.139
+ DNS: enterprise.skillacademy.com/ -> IP: 104.18.25.139
+ DNS: skillacademy.com/casn -> IP: 104.18.24.139
+ DNS: skillacademy.com/vouchers/verification/method -> IP: 104.18.24.139
+ DNS: skillacademy.com/offline -> IP: 104.18.25.139
+ DNS: skillacademy.com/webinar -> IP: 104.18.24.139
+ DNS: skillacademy.com/prakerja/status -> IP: 104.18.24.139
+ DNS: twitter.com/whatsapp -> IP: 104.244.42.65
+ DNS: www.whatsapp.com/ -> IP: 157.240.217.60
+ DNS: www.linkedin.com/company/skillacademy -> IP: 13.107.42.14
+ DNS: www.instagram.com/whatsapp/ -> IP: 31.13.68.174
+ DNS: www.whatsapp.com/android -> IP: 31.13.68.60
+ DNS: www.whatsapp.com/community -> IP: 31.13.68.60
+ DNS: www.whatsapp.com/about -> IP: 157.240.217.60
+ DNS: faq.whatsapp.com/ -> IP: 31.13.68.60
+ DNS: www.whatsapp.com/stayconnected -> IP: 31.13.68.60
+ DNS: www.whatsapp.com/expressyourself -> IP: 31.13.68.60
+ DNS: www.whatsapp.com/coronavirus -> IP: 31.13.68.60
+ DNS: www.whatsapp.com/security -> IP: 31.13.68.60
+ DNS: www.whatsapp.com/security/advisories -> IP: 157.240.217.60
+ DNS: www.youtube.com/channel/UCAuerig2N -> IP: 74.125.24.136
+ DNS: cta.ruangguru.com/bec23b20 -> IP: 104.18.2.2
+ DNS: www.whatsapp.com/legal/ -> IP: 157.240.217.60
+ DNS: web.whatsapp.com/ -> IP: 157.240.217.60
+ DNS: www.whatsapp.com/download -> IP: 157.240.217.60
+ DNS: cta.ruangguru.com/6fece0aa -> IP: 104.18.2.2
+ DNS: www.whatsapp.com/contact -> IP: 157.240.217.60
+ DNS: cta.ruangguru.com/87a9f954 -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/a5b52c22 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/f3339d5f -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/e51825a8 -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/67cd4a9c -> IP: 104.18.3.2
+ DNS: business.whatsapp.com/ -> IP: 31.13.68.1
+ DNS: www.altaschool.id/home -> IP: 172.67.155.115
+ DNS: www.altaschool.id/bilingual -> IP: 172.67.155.115
+ DNS: www.altaschool.id/faq -> IP: 172.67.155.115
+ DNS: www.altaschool.id/promo -> IP: 104.21.13.90
+ DNS: www.altaschool.id/privacy -> IP: 172.67.155.115
+ DNS: www.altaschool.id/paud -> IP: 172.67.155.115
+ DNS: www.altaschool.id/smp -> IP: 104.21.13.90
+ DNS: www.altaschool.id/blog -> IP: 172.67.155.115
+ DNS: www.altaschool.id/kelas -> IP: 172.67.155.115
+ DNS: www.altaschool.id/referral -> IP: 172.67.155.115
+ DNS: bayar.ruangguru.com/packages -> IP: 104.18.2.2
+ DNS: www.instagram.com/altaschool.id/ -> IP: 157.240.218.174
+ DNS: www.altaschool.id/sd -> IP: 104.21.13.90
+ DNS: www.altaschool.id/school -> IP: 104.21.13.90
+ DNS: twitter.com/brainacademyid -> IP: 104.244.42.193
+ DNS: www.altaschool.id/sma -> IP: 172.67.155.115
+ DNS: www.brainacademy.id/faq -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/blog -> IP: 104.21.11.243
+ DNS: www.altaschool.id/terms -> IP: 104.21.13.90
+ DNS: cta.ruangguru.com/7330c94f -> IP: 104.18.2.2
+ DNS: www.brainacademy.id/bac -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/beasiswa -> IP: 104.21.11.243
+ DNS: www.altaschool.id/tentang -> IP: 104.21.13.90
+ DNS: kelas.brainacademy.id/ -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/kebijakan -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/online/parents -> IP: 104.21.11.243
+ DNS: www.altaschool.id/sekolah -> IP: 104.21.13.90
+ DNS: www.brainacademy.id/multi -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/online/regular -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/sd -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/online/elite -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/online/beasiswa -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/kedinasan -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/online/premium -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/parents -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/smp -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/online/ -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/syarat -> IP: 104.21.11.243
+ DNS: bayar.ruangguru.com/npf/packages -> IP: 104.18.3.2
+ DNS: www.brainacademy.id/tentang -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/winning -> IP: 104.21.11.243
+ DNS: www.facebook.com/brainacademy.id/ -> IP: 31.13.68.35
+ DNS: www.brainacademy.id/kontak -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/sma -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/sma/ujian -> IP: 172.67.193.31
+ DNS: www.brainacademy.id/sma/utbk -> IP: 104.21.11.243
+ DNS: www.brainacademy.id/pengembangan -> IP: 172.67.193.31
+ DNS: www.ruangguru.com/kompetisi -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/download -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/layanan -> IP: 104.18.2.2
+ DNS: bayar.kalananti.id/top/home -> IP: 104.21.22.37
+ DNS: www.ruangguru.com/konsultan -> IP: 104.18.2.2
+ DNS: www.youtube.com/embed/oiG5TuCCc5M -> IP: 142.250.4.91
+ DNS: www.instagram.com/brainacademy.id/ -> IP: 31.13.68.174
+ DNS: www.linkedin.com/company/brainacademy -> IP: 13.107.42.14
+ DNS: www.kalananti.id/blog/ -> IP: 172.67.202.109
+ DNS: www.altaschool.id/cara -> IP: 104.21.13.90
+ DNS: www.kalananti.id/faq/ -> IP: 172.67.202.109
+ DNS: www.youtube.com/embed/p -> IP: 142.250.4.91
+ DNS: www.brainacademy.id/kata -> IP: 104.21.11.243
+ DNS: g.page/kalananti -> IP: 216.239.32.27
+ DNS: www.kalananti.id/hubungi -> IP: 172.67.202.109
+ DNS: www.kalananti.id/privacy -> IP: 172.67.202.109
+ DNS: www.kalananti.id/about -> IP: 172.67.202.109
+ DNS: www.kalananti.id/syarat -> IP: 172.67.202.109
+ DNS: cdn -> IP: 
+ DNS: www.instagram.com/kalananti/ -> IP: 31.13.68.174
+ DNS: www.kalananti.id/competition/ -> IP: 172.67.202.109
+ DNS: www.kalananti.id/partnership/ -> IP: 172.67.202.109
+ DNS: www.kalananti.id/center -> IP: 172.67.202.109
+ DNS: www.kalananti.id/partnership -> IP: 172.67.202.109
+ DNS: web.facebook.com/kalananti.id -> IP: 31.13.68.1
+ DNS: www.youtube.com/channel/UCYDgV -> IP: 142.250.4.136
+ DNS: www.kalananti.id/private -> IP: 172.67.202.109
+ DNS: www.kalananti.id/trial -> IP: 172.67.202.109
+ DNS: cta.ruangguru.com/98f09c6e -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/beasiswa/bkk -> IP: 104.18.3.2
+ DNS: www.kalananti.id/private/ -> IP: 172.67.202.109
+ DNS: twitter.com/ruangkerja -> IP: 104.244.42.65
+ DNS: api.ruangkerja.id/docs/prologue/introduction/ -> IP: 104.18.9.115
+ DNS: www.ruangguru.com/beasiswa/paket -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/beasiswa/kelas -> IP: 104.18.3.2
+ DNS: lms.ruangkerja.id/ -> IP: 104.18.8.115
+ DNS: www.linkedin.com/company/kalananti/ -> IP: 13.107.42.14
+ DNS: www.kalananti.id/center/ -> IP: 172.67.202.109
+ DNS: apps.apple.com/id/app/ruangkerja/id1404710632 -> IP: 23.220.172.25
+ DNS: www.ruangkerja.id/blog -> IP: 104.18.8.115
+ DNS: www.facebook.com/ruangkerjabyruangguru -> IP: 157.240.218.35
+ DNS: www.linkedin.com/company/ruangkerja/ -> IP: 13.107.42.14
+ DNS: www.ruangkerja.id/ebook -> IP: 104.18.8.115
+ DNS: www.ruangguru.com/privat/eksklusif -> IP: 104.18.3.2
+ DNS: www.ruangkerja.id/features -> IP: 104.18.8.115
+ DNS: www.ruangkerja.id/contact -> IP: 104.18.8.115
+ DNS: www.instagram.com/ruangguru.forbusiness/ -> IP: 31.13.68.174
+ DNS: www.ruangkerja.id/kami -> IP: 104.18.9.115
+ DNS: www.ruangkerja.id/about -> IP: 104.18.9.115
+ DNS: cta.ruangguru.com/aa6ad01f -> IP: 104.18.3.2
+ DNS: www.ruangkerja.id/privacy -> IP: 104.18.8.115
+ DNS: www.ruangkerja.id/faq -> IP: 104.18.9.115
+ DNS: www.ruangkerja.id/our -> IP: 104.18.9.115
+ DNS: www.ruangkerja.id/on -> IP: 104.18.8.115
+ DNS: www.ruangkerja.id/referral -> IP: 104.18.9.115
+ DNS: www.ruangguru.com/blog/di -> IP: 104.18.3.2
+ DNS: www.ruangkerja.id/compliance -> IP: 104.18.9.115
+ DNS: www.ruangguru.com/blog/tag/ -> IP: 104.18.3.2
+ DNS: www.ruangkerja.id/sertifikasi -> IP: 104.18.9.115
+ DNS: www.ruangguru.com/blog/3 -> IP: 104.18.3.2
+ DNS: www.ruangkerja.id/terms -> IP: 104.18.8.115
+ DNS: www.ruangguru.com/blog/tag/biologi -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/ips -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/bahasa -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/fisika -> IP: 104.18.3.2
+ DNS: wa.me/6281574510053 -> IP: 157.240.218.60
+ DNS: www.ruangguru.com/blog/macam -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/kimia -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/renaissance -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/bersinar -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/kejurnas -> IP: 104.18.2.2
+ DNS: wa.me/6281574410000 -> IP: 31.13.68.60
+ DNS: www.ruangguru.com/blog/tag/geografi -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/ekonomi -> IP: 104.18.2.2
+ DNS: www.ruangkerja.id/office -> IP: 104.18.9.115
+ DNS: www.ruangguru.com/blog/tag/for -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/mengenal -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/ -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/cerita -> IP: 104.18.3.2
+ DNS: www.ruangkerja.id/sales -> IP: 104.18.8.115
+ DNS: www.ruangguru.com/blog/herman -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/tag/ipa -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/penjelasan -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/dunia -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/jurusan -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/konsep -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/kelas -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/fakta -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/sosiologi -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/kimia -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/cerpen -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/tag/lifeatruangguru -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/sejarah -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/pojok -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/siaran -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/latihan -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/tips -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/kegiatan -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/uasbn -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/info -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/smk -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/cdf2062d -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/seleksi -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/seputar -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/tag/resensi -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/tips -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/matematika -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/biologi -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/fisika -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/mata -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/ips -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/event/kejarkampusimpian -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/pendaftaran -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/rug -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/tag/matematika -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/blog/tag/ujian -> IP: 104.18.3.2
+ DNS: liga.ruangguru.com/ -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/program/sales -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/kimia -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/pendaftaran/ -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/796869da -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/bahasa -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/0911fabd -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/program/sahabat -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/mengaji -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/sejarah -> IP: 104.18.3.2
+ DNS: tinyurl.com/requestguru -> IP: 104.20.139.65
+ DNS: www.ruangguru.com/program/management -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/privat/sosiologi -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/75d4a05e -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/privat/ipa -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/program/kampus -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/655e2e12 -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/3cfadc7d -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/1171f5b5 -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/program/learning -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/1933908a -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/a029cdb3 -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/ae2d678b -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/1df6e874 -> IP: 104.18.3.2
+ DNS: rea.ruangguru.com/ -> IP: 76.76.21.142
+ DNS: cta.ruangguru.com/d4a73608 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/cc1a614b -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/f0105f82 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/b9e1efed -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/event/rubic -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/aeecce23 -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/frutta -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/bfeefc0a -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/e498a264 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/e38a3fd9 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/ffa0eb00 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/29fd8109 -> IP: 104.18.2.2
+ DNS: shopee.co.id/bodypack -> IP: 202.181.90.248
+ DNS: cta.ruangguru.com/c8f6d0cd -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/kitschy -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/d0bb78be -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/8f7d1241 -> IP: 104.18.3.2
+ DNS: bit.ly/RLO -> IP: 67.199.248.11
+ DNS: cta.ruangguru.com/eae90a66 -> IP: 104.18.2.2
+ DNS: bit.ly/komunitasruangkelas -> IP: 67.199.248.11
+ DNS: cta.ruangguru.com/b1ef1444 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/fcfd989a -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/edfee269 -> IP: 104.18.2.2
+ DNS: holikaholika.co.id/ -> IP: 23.227.38.65
+ DNS: app.ruangguru.com -> IP: 104.18.3.2
+ DNS: cta.ruangguru.com/5d3d3811 -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/blog/tag/kampus -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/42536be5 -> IP: 104.18.2.2
+ DNS: cta.ruangguru.com/7f00fdf3 -> IP: 104.18.2.2
+ DNS: app.ruangguru.com/ruanguji/history -> IP: 104.18.3.2
+ DNS: kelas.ruangguru.com/register -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/ruanglesonline/daftar -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/ruangkelas/kompetisi/bulanan -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/promo/rlo -> IP: 
+ DNS: www.ruangguru.com/ruangkelas/komunitas/tag/siswa -> IP: 
+ DNS: jansport.co.id/ -> IP: 110.239.69.138
+ DNS: bodypack.co.id/ -> IP: 192.124.249.11
+ DNS: www.ruangguru.com/ruangkelas/komunitas/tag/guru -> IP: 
+ DNS: www.ruangguru.com/ruangkelas/faq -> IP: 104.18.3.2
+ DNS: www.ruangguru.com/ruangkelas/kompetisi/rpp -> IP: 
+ DNS: blog.schoters.com/ -> IP: 
+ DNS: cta.ruangguru.com/1232781b -> IP: 104.18.2.2
+ DNS: www.ruangguru.com/ruangkelas/webinar -> IP: 
+ DNS: app.ruangguru.com/ruanguji -> IP: 
+ DNS: www.schoters.com/id/about -> IP: 
+ DNS: www.facebook.com/schoters/ -> IP: 
+ DNS: www.youtube.com/schoters -> IP: 
+ DNS: menloparkschool.com/ -> IP: 
+ DNS: www.ruangguru.com/ruangkelas/komunitas -> IP: 
+ DNS: www.skillacademy.com/ -> IP: 
+ DNS: www.instagram.com/schoters/ -> IP: 
+ DNS: www.schoters.com/event -> IP: 
+ DNS: form.jotform.com/211941802038450 -> IP: 
+ DNS: support.tiktok.com/en -> IP: 
+ DNS: www.youtube.com/about/press/ -> IP: 
+ DNS: careers.schoters.com/ -> IP: 
+ DNS: developers.tiktok.com/bulletin/tiktok -> IP: 
+ DNS: www.youtube.com/ads/ -> IP: 
+ DNS: twitter.com/effecthouse -> IP: 
+ DNS: community.effecthouse.com/ -> IP: 
+ DNS: developers.tiktok.com/doc/working -> IP: 
+ DNS: developers.google.com/youtube -> IP: 
+ DNS: www.youtube.com/creators/ -> IP: 
+ DNS: www.tiktok.com/safety/en -> IP: 
+ DNS: discord.com/invite/effecthouse -> IP: 
+ DNS: www.youtube.com/channel/UC4bBKbvavjob7CpQ7 -> IP: 
+ DNS: www.amazon.com/dp/B07KR1RJL2/ -> IP: 
+ DNS: instagram.com/effecthouse -> IP: 
+ DNS: www.youtube.com/about/policies/ -> IP: 
+ DNS: developers.tiktok.com/products/content -> IP: 
+ DNS: www.youtube.com/howyoutubeworks -> IP: 
+ DNS: sf16 -> IP: 
+ DNS: www.tiktok.com/download -> IP: 
+ DNS: www.microsoft.com/store/apps/9NH2GPH4JZS4 -> IP: 
+ DNS: cta.ruangguru.com/cf95d867 -> IP: 
+ DNS: www.youtube.com/check -> IP: 
+ DNS: www.tiktok.com/en/copyright -> IP: 
+ DNS: www.youtube.com/about/copyright/ -> IP: 
+ DNS: studio.youtube.com/ -> IP: 
+ DNS: www.tiktok.com/legal/childrens -> IP: 
+ DNS: accounts.google.com/ServiceLogin -> IP: 
+ DNS: transparencyreport.google.com/youtube -> IP: 
+ DNS: support.google.com/youtube/answer/157177 -> IP: 
+ DNS: www.tiktok.com/feedback/report -> IP: 
+ DNS: youtube.googleblog.com/2019/06/our -> IP: 
+ DNS: support.google.com/youtube/answer/6345162 -> IP: 
+ DNS: www.google.co.id/intl/en/about/products -> IP: 
+ DNS: beinternetawesome.withgoogle.com/en -> IP: 
+ DNS: support.google.com/youtube/answer/9229229 -> IP: 
+ DNS: www.tiktok.com/en/law -> IP: 
+ DNS: www.youtube.com/channel/UCMDQxm7cUx3yXkfeHa5zJIQ -> IP: 
+ DNS: support.google.com/accounts/answer/1333913 -> IP: 
+ DNS: support.google.com/youtube/answer/9528076 -> IP: 
+ DNS: www.youtube.com/yt/about/policies/ -> IP: 
+ DNS: support.google.com/youtube/thread/178333446 -> IP: 
+ DNS: youtube.com/t/terms -> IP: 
+ DNS: ads.tiktok.com -> IP: 
+ DNS: youtube.com/t/community -> IP: 
+ DNS: 988lifeline.org/chat/ -> IP: 
+ DNS: www.youtube.com/features -> IP: 
+ DNS: kidshelpline.com.au/ -> IP: 
+ DNS: www.youtube.com/reporthistory -> IP: 
+ DNS: www.livslinien.dk/ -> IP: 
+ DNS: www.telefonseelsorge.de/ -> IP: 
+ DNS: www.lifeline.org.nz/ -> IP: 
+ DNS: www.missingkids.com/home -> IP: 
+ DNS: www.youtube.com/about/ -> IP: 
+ DNS: blog.youtube/news -> IP: 
+ DNS: mieli.fi/fi/tukea -> IP: 
+ DNS: www.dmh.go.th/service/view.asp -> IP: 
+ DNS: www.samaritans.org/ -> IP: 
+ DNS: www.aasra.info/helpline.html -> IP: 
+ DNS: policies.google.com/privacy -> IP: 
+ DNS: www.telefonoesperanza.com -> IP: 
+ DNS: support.google.com/youtube/answer/7336634 -> IP: 
+ DNS: www.sos -> IP: 
+ DNS: kfsp.org/ -> IP: 
+ DNS: www.cvv.org.br/ -> IP: 
+ DNS: www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi -> IP: 
+ DNS: www.113.nl/ -> IP: 
+ DNS: www.nationaleatingdisorders.org/ -> IP: 
+ DNS: youtube.com/my -> IP: 
+ DNS: www.eran.org.il/ -> IP: 
+ DNS: support.google.com/youtube/answer/7458465 -> IP: 
+ DNS: www.findahelpline.com -> IP: 
+ DNS: www.bohnice.cz/krizova -> IP: 
+ DNS: suicide -> IP: 
+ DNS: www.telefonodelaesperanza.org/ -> IP: 
+ DNS: www.sos.org.sg/ -> IP: 
+ DNS: www.sbhk.org.hk/ -> IP: 
+ DNS: www.life1995.org.tw -> IP: 
+ DNS: www.youtube.com/creators/safety -> IP: 
+ DNS: youtube/topic/2803240 -> IP: 
+ DNS: support.google.com/youtube/answer/1153367 -> IP: 
+ DNS: www.beateatingdisorders.org.uk/get -> IP: 
+ DNS: www.lifeline.org.au -> IP: 
+ DNS: www.preventionsuicide.be/ -> IP: 
+ DNS: www.youtube.com/static -> IP: 
+ DNS: www.zelfmoord1813.be/ -> IP: 
+ DNS: support.google.com/youtube/answer/6162278 -> IP: 
+ DNS: www.redcross.bg/activities/activities5/telefon.html -> IP: 
+ DNS: sos116 -> IP: 
+ DNS: www.vandrevalafoundation.com/ -> IP: 
+ DNS: www.casbuenosaires.com.ar/ayuda -> IP: 
+ DNS: www.wikipedia.org/wiki/List -> IP: 
+ DNS: www.samaritansonlus.org/ -> IP: 
+ DNS: www.suicidepreventionlifeline.org. -> IP: 
+ DNS: cta.ruangguru.com/3472fd62 -> IP: 104.18.2.2

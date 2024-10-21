@@ -1,0 +1,1150 @@
+-------------------------------------------OPOK OPOK OPOK -------------------------------------------------------------------------
+-------------------------------------------OPOK OPOK OPOK -------------------------------------------------------------------------
+-------------------------------------------OPOK OPOK OPOK -------------------------------------------------------------------------
+
+host             code  server                hostname
+----             ----  ------                --------
+104.16.22.78     301   cloudflare            bedfordspirits.com
+23.227.38.32     301   cloudflare            barlupulus.ca
+172.67.171.190   403   cloudflare            buonvino.co.uk
+104.16.22.78     301   cloudflare            608franklinwines.com
+23.227.38.32     301   cloudflare            acellars.com.au
+104.21.84.200    301   cloudflare            egazetka.com
+64.4.160.222     301   Apache/2.4.41 (Ubuntu)  atsameip.intercode.ca
+220.130.115.7                                etmall.com.tw
+69.16.250.7      301   Microsoft-IIS/10.0    astorwines.com
+13.77.50.97      301                         blackheartsandsparrows.com.au
+223.165.4.157    301   LiteSpeed             fakhrurpedia.com
+92.205.102.191   301   Apache                corkandcask.co.uk
+23.227.38.65     301   cloudflare            drops.wine
+23.227.38.65     301   cloudflare            folkwayswines.com
+23.227.38.65     301   cloudflare            flatiron-wines.com
+87.230.44.31     301   Apache                8greenbottles.de
+74.125.204.94    301   gws                   google.com.tw
+185.87.184.67    301                         encyclo.co.uk
+23.227.38.65     301   cloudflare            gnarlyvines.co.uk
+23.227.38.65     301   cloudflare            henrys.nyc
+103.16.128.43    200   Apache                gerardsbistro.com.au
+23.227.38.32     301   cloudflare            franksdublin.com
+104.21.86.118    301   cloudflare            m.lichthidau.com
+23.227.38.65     301   cloudflare            grapewitches.com
+142.251.170.138  301   ESF                   m.youtube.com
+162.159.153.247  308   cloudflare            id.quora.com
+162.159.152.17   409   cloudflare            quora.com.cdn.cloudflare.net
+159.69.224.129   301   Apache                glossary.wein.plus
+23.227.38.32     301   cloudflare            leonandsonwine.com
+23.227.38.65     301   cloudflare            ironandrose.com
+23.209.108.25    301   daiquiri/3.0.0        music.apple.com
+23.227.38.32     301   cloudflare            mrwineandjungle.com
+23.227.38.65     301   cloudflare            morenaturalwine.com
+23.209.108.25    400   AkamaiGHost           itunes-cdn.itunes-apple.com.akadns.net
+23.209.108.25    400   AkamaiGHost           itunes.apple.com.edgekey.net
+23.209.108.25    400   AkamaiGHost           e673.dsce9.akamaiedge.net
+35.186.224.25    301   envoy                 open.spotify.com
+35.186.224.25    301   envoy                 edge-web.dual-gslb.spotify.com
+35.215.73.51     301   nginx                 jennyandfrancois.com
+23.227.38.32     301   cloudflare            opok.com
+136.144.254.63   301   Apache/2.4.41 (Ubuntu)  metar-taf.com
+23.227.38.65     301   cloudflare            newcomerwines.com
+23.227.38.32     301   cloudflare            paranormalwines.com
+23.227.38.65     301   cloudflare            offgrid.wine
+192.200.160.248  301   cloudflare            naturalwine.com
+185.87.148.198   200   nginx/1.18.0          korshun.su
+104.26.5.191     301   cloudflare            sfile.mobi
+23.227.38.32     301   cloudflare            prostwines.com
+23.227.38.65     301   cloudflare            sipwines.shop
+151.101.192.144  301   Varnish               service.gov.uk
+104.21.29.213    200   cloudflare            opentunnel.net
+172.67.190.86    200   cloudflare            sshocean.com
+35.213.251.76    301   nginx                 samuelpepyswine.com.au
+162.159.129.85   409   cloudflare            strangerwinesnyc.com
+34.149.120.3     301   nginx                 smallwineshop.com
+152.89.234.80    301   LiteSpeed             opok27.si
+23.227.38.65     301   cloudflare            silverlakewine.com
+23.227.38.65     301   cloudflare            thefed.ca
+13.35.35.75      301                         soundcloud.com
+85.13.132.103    301   Apache                naturalwinedealers.com
+23.227.38.32     301   cloudflare            thirstmerchants.com
+153.92.200.61    301   Apache                steiermark.wine
+23.227.38.65     301   cloudflare            thesourcingtable.com
+23.227.38.32     301   cloudflare            vwm.wine
+23.227.38.65     301   cloudflare            vinoir.com
+54.195.92.88     301   awselb/2.0            vinvm.co.uk
+23.227.38.65     301   cloudflare            tomorrowswine.com
+23.227.38.32     301   cloudflare            wildwines.us
+172.67.208.164   301   cloudflare            wein-quadrat.at
+151.101.65.91    301   Varnish               wine-searcher.com
+192.169.122.232  301   Tengine               world.taobao.com
+192.169.122.233  403   Tengine               world.taobao.com.danuoyi.tbcache.com
+23.227.38.32     301   cloudflare            winemonger.com
+104.21.74.116    301   cloudflare            uvavinhos.com.br
+23.227.38.74     301   cloudflare            www.buvonswine.com
+23.227.38.74     301   cloudflare            soif-lbc.myshopify.com
+23.227.38.74     301   cloudflare            shops.myshopify.com
+172.66.41.41     301   cloudflare            www.decantalo.com
+23.227.38.65     301   cloudflare            weinskandal.at
+31.13.75.35      301   proxygen-bolt         www.facebook.com
+199.34.228.164   302   nginx                 www.corkandrind.com
+31.13.75.35      301   proxygen-bolt         star-mini.c10r.facebook.com
+185.231.124.247  301   Apache                www.cleanenergywire.org
+50.22.46.131     302                         www.discoverywines.com
+172.67.174.244   301   cloudflare            www.doudoubake.com
+103.243.32.90    301   nginx                 www.flipkart.com
+92.205.63.178    301   nginx                 weingut-tauss.at
+31.13.75.174     301   proxygen-bolt         www.instagram.com
+31.13.75.174     301   proxygen-bolt         geo-p42.instagram.com
+31.13.75.174     301   proxygen-bolt         z-p42-instagram.c10r.instagram.com
+103.243.32.90    301   nginx                 flipkart.com
+199.34.228.191   302   nginx                 www.gjustagrocer.com
+172.67.179.215   301   cloudflare            www.jagoanssh.com
+5.135.138.196    301   nginx/1.10.3 (Ubuntu)  www.gourmethunters.com
+50.22.46.131     302                         www.kingstonwine.com
+85.13.157.218    301   Apache                www.herrenhof.net
+82.98.144.6      301   HTTPd                 unicornwines.es
+104.26.2.241     301   cloudflare            www.lebendigeweine.de
+199.34.228.191   301   nginx                 gjustagrocer.com
+184.85.108.203   301                         www.pinterest.com
+104.26.13.92     403   cloudflare            www.mindat.org
+104.26.7.18      301   cloudflare            www.rawwine.com
+185.64.219.37    301   nginx                 www.hokuspokus.wine
+13.107.42.14     200                         www.linkedin.com
+52.117.135.102   302                         kingstonwine.com
+13.107.42.14     400                         www-linkedin-com.l-0005.l-msedge.net
+151.101.1.80     301                         www.shazam.com
+13.107.42.14     400                         l-0005.l-msedge.net
+151.101.193.80   500   Varnish               san12.shazam.map.fastly.net
+13.35.7.9        301   CloudFront            www.trustpilot.com
+13.35.35.7       301   CloudFront            www.vivino.com
+104.26.14.244    301   cloudflare            www.weinfurore.de
+23.227.38.74     301   cloudflare            www.somegoodwine.com
+184.26.127.32    302   AkamaiGHost           www.yr.no
+184.26.127.34    400   AkamaiGHost           www.yr.no.edgesuite.net
+184.26.127.34    400   AkamaiGHost           a1949.dscr.akamai.net
+49.12.205.162    301   nginx/1.14.1          www.primus.cc
+5.135.138.196    301   nginx/1.10.3 (Ubuntu)  gourmethunters.com
+185.64.219.42    301   nginx                 www.myshoptet.com
+94.26.244.99     301   nginx/1.14.2          www.sabonagro.com
+185.64.219.42    301   nginx                 www.winegeek.cz
+74.125.204.121   301   GSE                   www.kumpulanremaja.com
+74.125.204.121   404   ghs                   ghs.google.com
+184.85.108.203                               www-pinterest-com.gslb.pinterest.com
+184.85.108.203                               www.gslb.pinterest.net
+184.85.108.203   400   AkamaiGHost           www.pinterest.com.edgekey.net
+184.85.108.203   400   AkamaiGHost           e6449.a.akamaiedge.net
+
+--------------------------------------------------- OPOK ---------------------------------------------------------------------------
+----             ----  ------                --------
+104.26.13.118    301   cloudflare            airtel.ga
+104.26.12.173    301   cloudflare            anime-planet.com
+172.67.195.222   301   cloudflare            aksesadirafinance.com
+104.26.13.166    301   cloudflare            cdn.digiticket.vn
+104.26.12.133    301   cloudflare            community.ghost.org
+104.26.12.102    403   cloudflare            chat-avenue.com
+172.67.75.137    301   cloudflare            99images.com
+104.26.12.95     301   cloudflare            espacioapk.com
+104.26.12.166    301   cloudflare            digiticket.vn
+172.67.69.43     301   cloudflare            e.gov.ph
+104.21.78.212    301   cloudflare            faucetpay.io
+104.21.28.179    301   cloudflare            fash.com
+104.26.12.42     301   cloudflare            gosugamers.net
+172.67.176.135   301   cloudflare            health.go.ug
+104.26.13.59     301   cloudflare            convinceandconvert.com
+104.26.13.166    301   cloudflare            bmobiletopup.com
+104.21.50.66     301   cloudflare            hidester.com
+172.67.70.40     301   cloudflare            highporn.net
+104.26.5.168     301   cloudflare            hirustar.hirutv.lk
+172.67.182.201   301   cloudflare            javhd.pro
+172.67.68.148    301   cloudflare            fractal-design.com
+104.26.12.123    302   cloudflare            att.gob.bo
+104.23.136.10    403   cloudflare            lista.servidor.tv
+104.26.13.167    301   cloudflare            machohairstyles.com
+172.67.214.92    301   cloudflare            looping.com
+172.67.70.182    301   cloudflare            hirunews.lk
+64.190.63.111    405   NginX                 h0st.pw
+172.67.69.241    301   cloudflare            kontakt.az
+172.67.75.194    301   cloudflare            singapore.com
+172.67.70.40     301   cloudflare            perfil.com
+104.26.13.23     301   cloudflare            itla.edu.do
+104.26.13.115    200   cloudflare            guatemala.gob.gt
+172.67.71.59     301   cloudflare            speed.aed.us
+104.26.12.167    403   cloudflare            songs.alrakoba.net
+104.26.13.128    301   cloudflare            socialtournaments.com
+104.26.14.43     403   cloudflare            suzuki.com.ph
+104.26.13.14     301   cloudflare            srilankabusiness.com
+104.26.12.96     403   cloudflare            tunnelguru.com
+104.26.13.118    301   cloudflare            www.airtel.ga
+172.67.75.9      403   cloudflare            viewdns.info
+172.67.75.240    403   cloudflare            vb.alrakoba.net
+104.26.13.36     301   cloudflare            tut.az
+172.67.71.86     301   cloudflare            www.finca.org
+172.67.176.14    301   cloudflare            www.dolfin.com
+104.26.13.115    301   cloudflare            www.comedera.com
+172.67.74.189    403   cloudflare            www.mindat.org
+104.26.13.166    301   cloudflare            rawg.io
+172.67.68.130    301   cloudflare            www.mizzima.tv
+104.26.5.168     301   cloudflare            www.hirutv.lk
+104.22.50.157    301   cloudflare            www.namebright.com
+172.67.75.9      301   cloudflare            pokemon-planet.com
+172.66.40.160    301   cloudflare            www.cryptowisser.com
+216.24.57.3      301   cloudflare            zelos.gg
+104.26.12.59     301   cloudflare            online.gameex.com
+172.67.70.182    302   cloudflare            www.hirunews.lk
+104.26.13.55     200   cloudflare            www.nopcommerce.com
+104.26.13.2      301   cloudflare            www.minijuegos.com
+
+--------------------------------------------------- OPOK ---------------------------------------------------------------------------
+
+host             code  server                hostname
+----             ----  ------                --------
+162.159.138.6    409   cloudflare            alphaaceen.garena.com
+162.159.152.4    301   cloudflare            ambre.io
+162.159.152.4    301   cloudflare            algorithml.io
+162.159.153.5    200   cloudflare            6chcdn-res.feednews.com
+162.159.128.79   301   cloudflare            1password.community
+162.159.153.6    409   cloudflare            6chcdn-res.feednews.com.cdn.cloudflare.net
+162.159.137.232  301   cloudflare            blog.discord.com
+162.159.128.7    409   cloudflare            ask.fox.com
+162.159.138.78   301   cloudflare            blog.acer.com
+162.159.128.79   301   cloudflare            site-6036147.onvanilla.net
+162.159.135.232  301   cloudflare            canary.discord.com
+162.159.152.26   301   cloudflare            c6bank.com.br
+162.159.138.6    301   cloudflare            foxbroadcasting.ssl.zendesk.com
+172.67.143.94    302   cloudflare            admin-v2.chateagratis.net
+104.19.237.24    301   cloudflare            cloudflareclient.com
+162.159.138.78   301   cloudflare            community.cloudinary.com
+162.159.137.85   302   cloudflare            cloudflareresearch.com
+162.159.128.79   301   cloudflare            site-6036703.onvanilla.net
+172.67.145.239   200   cloudflare            channelmyanmar.org
+162.159.128.79   301   cloudflare            community.pokemon.com
+2.59.117.222     302   Apache                avim.org.tr
+162.159.128.79   301   cloudflare            community.acer.com
+162.159.128.53   301   cloudflare            chief.zain.com
+162.159.128.53   530   cloudflare            community.success.com
+162.159.138.52   301   cloudflare            ssl.mn.co
+162.159.138.78   301   cloudflare            community.king.com
+162.159.128.7    301   cloudflare            alphaaceen.zendesk.com
+162.159.138.52   301   cloudflare            ssl.mn.co
+162.159.138.78   301   cloudflare            site-6034460.onvanilla.net
+162.159.138.52   301   cloudflare            edge.mn.co
+162.159.138.52   301   cloudflare            edge.mn.co
+162.159.138.78   301   cloudflare            community.snap.com
+162.159.137.85   302   cloudflare            crypto.cloudflare.com
+162.159.136.232  301   cloudflare            discord.com
+162.159.128.79   301   cloudflare            community.whatfix.com
+162.159.153.2    302   cloudflare            cybersource.com
+162.159.128.79   301   cloudflare            dgrin.com
+162.159.128.79   301   cloudflare            site-6035977.onvanilla.net
+162.159.128.79   301   cloudflare            kinggames.multisite.vanillacommunities.com
+162.159.138.78   301   cloudflare            acer.vanillacommunities.com
+162.159.128.79   301   cloudflare            kinggames-multisite.onvanilla.net
+162.159.138.78   301   cloudflare            site-6034762.onvanilla.net
+162.159.138.78   301   cloudflare            discuss.ansys.com
+162.159.138.78   301   cloudflare            site-6029997.onvanilla.net
+162.159.152.4    301   cloudflare            ericweiner.medium.com
+172.67.208.183   301   cloudflare            fastssh.com
+162.159.128.79   301   cloudflare            forums.bgca.net
+162.159.138.6    530   cloudflare            food-merchant-help.grab.com
+162.159.152.17   308   cloudflare            es.quora.com
+162.159.153.247  409   cloudflare            quora.com.cdn.cloudflare.net
+162.159.128.79   301   cloudflare            fifaforums.easports.com
+162.159.138.78   301   cloudflare            site-6036099.onvanilla.net
+162.159.128.79   301   cloudflare            forums.totalwar.com
+162.159.138.78   301   cloudflare            ea.multisite.vanillacommunities.com
+162.159.138.78   301   cloudflare            ea-multisite.onvanilla.net
+162.159.138.78   301   cloudflare            totalwar.vanillacommunities.com
+162.159.138.78   301   cloudflare            site-5022456.onvanilla.net
+162.159.153.4    301   cloudflare            go.medium.com
+172.67.185.108   301   cloudflare            freemp3downloads.online
+154.205.84.131   200   nginx                 erik.mormorhaxa.com
+162.159.152.4    301   cloudflare            engineering.global.com
+162.159.138.6    301   cloudflare            help.ada.com
+162.159.138.78   301   cloudflare            helpcenter.microsoftstart.com
+162.159.128.79   301   cloudflare            site-6036607.onvanilla.net
+162.159.138.78   301   cloudflare            hardcorehusky.com
+52.17.89.54      301   Apache                ftb-dev.com
+76.76.21.21      308   Vercel                iam-iam.com
+162.159.152.5    200   cloudflare            free.feednews.com
+162.159.128.7    409   cloudflare            kopsupporten.garena.com
+162.159.153.5    409   cloudflare            free.feednews.com.cdn.cloudflare.net
+162.159.137.60   301   cloudflare            livestream.com
+69.163.151.72    301   Apache                inventivedesigners.com
+162.159.153.4    301   cloudflare            medium.com
+162.159.152.5    301   cloudflare            m50mb.techoragon.com
+172.67.139.97    301   cloudflare            mobile-legends.net
+104.19.181.130   301   cloudflare            moneysavingexpert.com
+162.159.128.7    301   cloudflare            grabmerchant.zendesk.com
+172.67.141.44    301   cloudflare            musicaldown.com
+162.159.138.30   301   cloudflare            networksolutions.com
+162.159.128.7    301   cloudflare            adahealth.zendesk.com
+162.159.138.6    301   cloudflare            kingdomofpirates.zendesk.com
+162.159.138.6    301   cloudflare            hub.emarsys.com
+104.196.201.57   301   nginx                 new.livestream.com
+162.159.128.7    301   cloudflare            emarsys-hub.zendesk.com
+162.159.138.60   301   cloudflare            player.vimeo.com
+162.159.152.17   403   cloudflare            poe.com
+162.159.128.61   409   cloudflare            player.vimeo.com.cdn.cloudflare.net
+104.26.5.51      403   cloudflare            pokecommunity.com
+162.159.128.79   301   cloudflare            polycount.com
+103.224.212.222  302   Apache                paxausdt.com
+162.159.128.233  301   cloudflare            printer.discord.com
+162.159.128.7    409   cloudflare            prelaunchhelp.disneyplus.com
+220.158.255.36   301   nginx                 ok-dns.com
+162.159.128.47   530   cloudflare            redeem.playvalorant.com
+162.159.137.70   403   cloudflare            sciencedirect.com
+162.159.138.46   301   cloudflare            gxdriotgmz.prizelogic.com
+162.159.138.46   409   cloudflare            gxdriotgmz.prizelogic.com.cdn.cloudflare.net
+165.215.200.239  301                         search.proquest.com
+162.159.138.6    301   cloudflare            foundershelp.zendesk.com
+23.46.63.57      404   nginx                 res.feednews.com
+23.46.63.42      400   AkamaiGHost           img.transcoder.opera.com.edgekey.net
+162.159.152.9    301   cloudflare            site.ebrary.com
+23.46.63.42      400   AkamaiGHost           e31002.dscb.akamaiedge.net
+162.159.128.79   301   cloudflare            soporte.flashmobile.mx
+165.215.200.239  200   Apache-Coyote/1.1     redirect.proquest.com
+162.159.140.67   200   cloudflare            shop.matrix.org
+162.159.138.78   301   cloudflare            flashmobile.vanillacommunities.com
+162.159.138.78   301   cloudflare            site-6030116.onvanilla.net
+162.159.153.8    302   cloudflare            ebookcentral.proquest.com
+172.66.0.67      200   cloudflare            matrixdotorg.bigcartel.com
+162.159.138.232  301   cloudflare            support.discord.com
+162.159.138.6    409   cloudflare            support.asperasoft.com
+172.67.190.86    200   cloudflare            sshocean.com
+162.159.138.78   301   cloudflare            space.byu.id
+162.159.138.6    409   cloudflare            support.gameprom.com
+162.159.138.6    409   cloudflare            support.factual.com
+162.159.128.79   301   cloudflare            site-6031909.onvanilla.net
+162.159.128.7    301   cloudflare            aspera.ssl.zendesk.com
+162.159.128.7    301   cloudflare            gameprom.zendesk.com
+162.159.128.7    403   cloudflare            support.holonis.com
+162.159.128.7    301   cloudflare            factual.zendesk.com
+162.159.152.4    301   cloudflare            uxplanet.org
+162.159.138.78   301   cloudflare            vanillicon.com
+65.21.135.237    403   nginx                 sv1.ulbinn.com
+162.159.152.2    301   cloudflare            visa.com
+162.159.128.61   301   cloudflare            vimeo.com
+65.21.135.237    403   nginx                 sv3.ulbinn.com
+162.159.138.78   301   cloudflare            w3.vanillicon.com
+162.159.138.78   301   cloudflare            w4.vanillicon.com
+162.159.128.79   301   cloudflare            traffic-director-cl60022.onvanilla.net
+162.159.128.79   301   cloudflare            traffic-director-cl60022.onvanilla.net
+162.159.138.6    301   cloudflare            holonis.zendesk.com
+162.159.152.2    301   cloudflare            visa.com.az
+162.159.153.253  403   cloudflare            wallet.truemoney.com
+162.159.138.78   301   cloudflare            w7.vanillicon.com
+162.159.128.79   301   cloudflare            wb.vanillicon.com
+104.21.2.150     301   cloudflare            www.dijlah.tv
+162.159.136.232  301   cloudflare            www.discord.com
+104.21.25.109    301   cloudflare            webhostsreview.net
+104.21.64.59     301   cloudflare            www.genyt.net
+104.21.80.200    301   cloudflare            www.marja.az
+162.159.138.60   301   cloudflare            www.vimeo.com
+162.159.153.247  308   cloudflare            www.quora.com
+104.21.90.43     301   cloudflare            xxxfiles.com
+162.159.153.4    301   cloudflare            zendesk.engineering
+162.159.152.17   409   cloudflare            www.quora.com.cdn.cloudflare.net
+162.159.128.7    409   cloudflare            zendesk1.garena.com
+162.159.138.6    530   cloudflare            zendesk1.duolingo.com
+162.159.128.7    403   cloudflare            zendesk1.appsflyer.com
+162.159.138.6    301   cloudflare            mail1.zendesk.com
+14.215.179.22    404   nginx/1.8.0           net.traw.net
+162.159.128.7    301   cloudflare            mail1.zendesk.com
+162.159.128.7    409   cloudflare            zendesk1.grabtaxi.com
+89.116.147.225   301   LiteSpeed             www.hmizate.ma
+162.159.138.6    409   cloudflare            zendesk2.garena.com
+162.159.138.6    301   cloudflare            mail1.zendesk.com
+162.159.138.6    530   cloudflare            zendesk1.grab.com
+205.178.187.13                               networksolutions.mobi
+162.159.138.6    409   cloudflare            zendesk3.garena.com
+162.159.153.6                                olist-web.feednews.com
+162.159.153.5    409   cloudflare            olist-web.feednews.com.cdn.cloudflare.net
+162.159.128.7    530   cloudflare            zendesk2.grab.com
+162.159.138.6    409   cloudflare            zendesk2.grabtaxi.com
+162.159.138.6    530   cloudflare            zendesk3.grab.com
+89.116.147.225   301   LiteSpeed             hmizate.ma
+162.159.128.7    301   cloudflare            mail2.zendesk.com
+14.215.179.22    301                         ziyuan.baidu.com
+162.159.138.6    409   cloudflare            zendesk4.garena.com
+162.159.128.7    301   cloudflare            mail3.zendesk.com
+162.159.138.6    409   cloudflare            zendesk3.grabtaxi.com
+162.159.128.7    530   cloudflare            zendesk4.grab.com
+14.215.179.22    404   nginx/1.8.0           ziyuan.n.shifen.com
+162.159.138.6    301   cloudflare            mail2.zendesk.com
+162.159.128.7    301   cloudflare            mail2.zendesk.com
+162.159.128.7    301   cloudflare            mail3.zendesk.com
+162.159.128.7    409   cloudflare            zendesk4.grabtaxi.com
+13.224.2.89      301   CloudFront            zyngaplayerforums.com
+162.159.128.7    301   cloudflare            mail4.zendesk.com
+162.159.138.6    301   cloudflare            mail4.zendesk.com
+162.159.138.6    301   cloudflare            mail4.zendesk.com
+10.4.0.10                                    3cha.ddns.us
+
+--------------------------------------------------- OPOK ---------------------------------------------------------------------------
+
+host             code  server                hostname
+----             ----  ------                --------
+23.227.140.78                                abc123.digital
+23.227.38.36     301   cloudflare            agiftyoucanpersonalize.com
+23.227.38.32     301   cloudflare            alice.com
+23.227.38.32     301   cloudflare            aloha.com
+23.227.38.32     404   cloudflare            80sbox.com
+23.227.38.32     301   cloudflare            babelash.com
+23.227.38.32     301   cloudflare            asmaraku.com
+23.227.38.32     301   cloudflare            axisboutique.com
+23.227.38.65     301   cloudflare            ayobafoods.com
+23.227.38.32     301   cloudflare            any-cast.com
+52.58.78.16                                  aisline.com
+23.227.38.74     404   cloudflare            benjamin-buen.myshopify.com
+23.227.38.65     301   cloudflare            bakumarket.com
+23.227.38.74     301   cloudflare            shops.myshopify.com
+151.101.2.137    301                         blackmilkclothing.com
+23.227.38.32     301   cloudflare            blueberryandme.com
+23.227.38.32     301   cloudflare            bhubesi.com
+23.227.38.74     301   cloudflare            buy.psi.cash
+23.227.60.200    301   cloudflare            cdn.shopify.com
+23.227.38.65     301   cloudflare            bazza.com
+23.227.38.32     301   cloudflare            cam-do.com
+23.227.38.32     301   cloudflare            besselink.com
+23.227.38.65     301   cloudflare            bazarstore.az
+23.227.38.32     301   cloudflare            car-artist.com
+70.32.23.85      301   LiteSpeed             aplusmart.com
+23.227.38.32     301   cloudflare            chrissports.com
+23.227.38.32     301   cloudflare            chantilly.com
+23.227.38.65     301   cloudflare            chiliklaus.dk
+23.227.38.65     301   cloudflare            conico.com
+104.18.13.134    301   cloudflare            decathlon.lk
+23.227.38.32     301   cloudflare            co-collections.com
+45.157.42.30     301   Apache                clipper-teas.com
+3.33.152.147     405   awselb/2.0            cr7.com
+23.227.38.32     404   cloudflare            dailay.com
+23.227.38.64     301   cloudflare            flowerchimp.com.ph
+23.227.38.65     301   cloudflare            flashfomo.com
+23.227.38.65     301   cloudflare            ibex.com
+23.227.38.32     301   cloudflare            hiso.ca
+164.160.91.35    200   LiteSpeed             daxmartin.com
+45.79.222.138    302   Apache/2.4.10 (Debian)  goodgames.ph
+23.227.38.71     301   cloudflare            jamstarbiz.com
+23.227.38.66     301   cloudflare            italianfoodja.com
+23.227.38.74     301   cloudflare            joox-merchandise.myshopify.com
+51.89.93.192     200   nginx/1.14.0 (Ubuntu)  digistore.store
+172.66.43.126    301   cloudflare            monovm.com
+23.227.38.71     404   cloudflare            jawway.com
+23.227.38.65     301   cloudflare            jaijai.com
+23.227.38.65     301   cloudflare            muybonita.co
+23.227.38.32     301   cloudflare            areyouami.com
+23.227.38.65     301   cloudflare            luxebidet.com
+23.227.38.65     301   cloudflare            mymtn.com
+23.227.38.64     404   cloudflare            ns1.shopify.com
+23.227.38.65     301   cloudflare            myvivoshop.com
+23.227.38.74     301   cloudflare            prepaid-cellular-pros.myshopify.com
+23.227.38.75     301   cloudflare            gomeds.co.id
+23.227.38.64     404   cloudflare            wc.shopify.com
+23.227.146.114   301   LiteSpeed             naijaloaded.com
+23.227.38.65     301   cloudflare            orage.com
+74.63.241.28     302   nginx                 netfixmovie.com
+23.227.38.65     301   cloudflare            reglo.fr
+23.227.38.65     301   cloudflare            rec.com
+23.227.38.74     404   cloudflare            server-90-dias.myshopify.com
+23.227.38.33     301   cloudflare            shopify.com
+104.21.88.135    301   cloudflare            proxylist2015.com
+23.227.38.74     301   cloudflare            shop.spacex.com
+23.227.38.32     301   cloudflare            skiwax.ca
+23.227.38.74     301   cloudflare            store.axismaps.com
+23.227.38.65     301   cloudflare            starlink.qa
+3.64.163.50                                  shoppee.net
+23.227.38.74     404   cloudflare            sg.viu.store
+23.227.38.70     301   cloudflare            su-soku.com
+84.17.46.53      301   BunnyCDN-AMS1-879     ro-online.net
+104.154.170.37   301                         store.seesaw.me
+23.227.38.32     301   cloudflare            tacticalsoftware.com
+23.227.38.74     301   cloudflare            tokokularis.myshopify.com
+23.227.38.74     301   cloudflare            swag.yoast.com
+23.227.38.64     301   cloudflare            ufi-box.com
+3.13.31.214      301                         theline.com
+23.227.38.64     404   cloudflare            v.shopify.com
+86.105.245.69    301   openresty/1.21.4.1    sushiroll.ca
+23.227.38.65     301   cloudflare            vi.com
+23.227.38.74     301   cloudflare            www.argentovivo.us
+23.227.38.65     301   cloudflare            vivobuy.com
+52.58.78.16                                  www.aisline.com
+23.227.38.74     301   cloudflare            www.badmind.com
+23.227.38.74     301   cloudflare            www.atlasphones.com
+23.227.38.74     301   cloudflare            badmindsite.myshopify.com
+23.227.38.74     301   cloudflare            www.bakell.com
+23.227.38.74     301   cloudflare            argento-vivo.myshopify.com
+23.227.38.74     301   cloudflare            www.beeline.co
+104.18.7.83      301   cloudflare            www.decathlon.lk
+104.18.6.83      409   cloudflare            www.decathlon.lk.cdn.cloudflare.net
+23.227.38.74     301   cloudflare            www.cntracing.com
+199.59.243.224   200                         tomazar.com
+23.227.38.74     301   cloudflare            cnt-racing.myshopify.com
+141.193.213.11   403   cloudflare            www.daring.com
+141.193.213.10   302   cloudflare            wp.wpenginepowered.com
+86.105.245.69    301   openresty/1.21.4.1    www.dahlia.com
+23.227.38.74     301   cloudflare            www.excitepng.com
+23.227.38.74     301   cloudflare            www.gflock.lk
+76.223.54.146    404   openresty             www.eliteitcerts.com
+23.227.38.74     301   cloudflare            excite-internet.myshopify.com
+23.227.38.74     301   cloudflare            www.grocerylanka.com
+23.227.38.64     302   cloudflare            www.ghosts.com
+76.76.21.9       308   Vercel                www.ine.com
+76.76.21.142     308   Vercel                cname.vercel-dns.com
+23.227.38.64     404   cloudflare            ghosts.shopify.com
+23.227.38.74     404   cloudflare            www.iforte.com
+23.227.38.74     404   cloudflare            iforte.myshopify.com
+23.227.135.34                                www.joelbestschools.com
+23.227.38.74     301   cloudflare            www.iwashop.ma
+23.227.38.74     404   cloudflare            www.manpacks.com
+192.64.119.148   302   namecheap-nginx       tiktoksmart.com
+192.64.119.95    302   namecheap-nginx       thefluffypenguincompany.com
+23.227.38.74     301   cloudflare            www.lotusthemes.com
+23.227.38.74     301   cloudflare            www.muybonita.co
+23.227.135.34                                joelbestschools.com
+23.227.38.74     301   cloudflare            www.opok.com
+23.227.38.74     301   cloudflare            opochclothing.myshopify.com
+23.227.38.74     301   cloudflare            hc-themes.myshopify.com
+23.227.38.74     301   cloudflare            www.newly.com
+23.227.174.74    301   Apache                www.kellypiquet.com
+23.227.38.74     301   cloudflare            newlygoods.myshopify.com
+23.227.38.74     404   cloudflare            www.teamara.com
+3.18.7.81        404                         www.pinproxy.com
+15.197.142.173   405   awselb/2.0            www.shopcatimini.com
+23.227.38.74     301   cloudflare            www.tittok.com
+23.227.38.74     301   cloudflare            www.ustore.lk
+70.39.125.243    200   nginx                 www.perfectpetgear.com
+23.227.174.74    301   Apache                kellypiquet.com
+3.19.116.195     404                         traff-3.hugedomains.com
+23.227.38.74     302   cloudflare            www.zolo.com
+3.33.152.147     405   awselb/2.0            shopcatimini.com
+23.227.38.74     301   cloudflare            zoloinc.myshopify.com
+23.227.10.37                                 rc.hotkeys.com
+3.19.116.195     404                         hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
+198.251.84.92    403   nginx                 parking.namesilo.com
+23.227.38.65     301   cloudflare            ztil.no
+103.17.8.39      301   Apache                yuexin.org
+23.227.10.116                                www.demandstudios.com
+23.227.10.37                                 rc2.dmtracker.com
+23.227.10.37                                 rc2.dmtracker.com.perf.demand.akadns.net
+23.227.10.37                                 rc2.las.dmtracker.com
+
+
+
+-------------------------------------------EDUKASI EDUKASI -------------------------------------------------------------------------
+-------------------------------------------EDUKASI EDUKASI -------------------------------------------------------------------------
+-------------------------------------------EDUKASI EDUKASI -------------------------------------------------------------------------
+
+host             code  server                hostname
+----             ----  ------                --------
+13.35.7.81       301   CloudFront            3dwarehouse.sketchup.com
+13.35.166.41     301   TribunOS              aceh.tribunnews.com
+104.18.13.27     301   cloudflare            apkcombo.com
+13.35.7.15       301   CloudFront            d3payv6g51dqrv.cloudfront.net
+104.22.55.97     403   cloudflare            academic-accelerator.com
+104.22.5.119     301   cloudflare            apkpure.com
+103.225.175.247  301   Apache                banjarnegarakab.go.id
+123.108.101.18   301   nginx/1.22.1          acehprov.go.id
+104.115.172.109  301   daiquiri/3.0.0        apps.apple.com
+104.115.172.109  400   AkamaiGHost           itunes-cdn.itunes-apple.com.akadns.net
+104.115.172.109  400   AkamaiGHost           itunes.apple.com.edgekey.net
+104.115.172.109  400   AkamaiGHost           e673.dsce9.akamaiedge.net
+192.124.249.10   301   Sucuri/Cloudproxy     bankjatim.co.id
+103.83.176.81    301   BNDC-server-1.3       bantulkab.go.id
+202.6.211.21     302                         bca.co.id
+103.253.212.81   200   Apache                al-munawwarahjambi.sch.id
+43.252.137.72    301   Apache                bikin.website
+13.35.35.15      200   nginx                 bisnis.tempo.co
+103.205.56.89    301   Apache                bangkabaratkab.go.id
+103.205.56.195   301   nginx                 bangka.go.id
+13.35.35.69      200   nginx                 d32oag8ylv2sff.cloudfront.net
+45.60.3.209      301                         bri.co.id
+172.67.202.123   301   cloudflare            campuspedia.id
+222.229.87.160   302   BigIP                 danamon.co.id
+104.18.165.48    403   cloudflare            brainly.co.id
+172.67.68.42     301   cloudflare            deepublishstore.com
+104.21.1.243     301   cloudflare            cegahstunting.id
+184.26.127.26    403                         dpr.go.id
+202.61.105.190   301   openresty             dephub.go.id
+103.81.246.11    200   Apache                beraukab.go.id
+13.35.166.50     301   CloudFront            edukasi.kompas.com
+172.67.208.218   301   cloudflare            edukasi.me
+13.35.166.20     301   CloudFront            d1iubh7e7xrsg2.cloudfront.net
+203.160.128.185  301   Apache                e-journal.id
+99.83.149.38     301   awselb/2.0            axis.co.id
+13.35.35.2       301   CloudFront            edukasi.okezone.com
+13.35.35.113     301   CloudFront            dj4p79fuobtw0.cloudfront.net
+13.35.35.53      301   CloudFront            edukasi.sindonews.com
+13.35.35.113     301   CloudFront            d5wg1dd8hbsmz.cloudfront.net
+13.228.147.15    301   Apache/2.4.41 (Ubuntu)  edukasijobs.id
+103.152.242.54   302   LiteSpeed             edukasiempatnol.com
+103.30.145.244   301   Apache                edukasi101.com
+192.53.172.53    444   DomaiNesia            eduversal.net
+103.243.178.111                              bi.go.id
+103.23.244.36    301   Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1d mod_fcgid/2.3.9  ejournal.upi.edu
+103.9.183.20     302                         ejournal.uksw.edu
+103.102.166.224  301   HAProxy               en.wiktionary.org
+103.102.166.224  301   HAProxy               dyna.wikimedia.org
+103.23.244.36    200   Apache/2.4.29 (Ubuntu) OpenSSL/1.1.1d mod_fcgid/2.3.9  vm36.upi.edu
+103.9.183.40     403                         ariel.uksw.edu
+202.169.225.35   301   Apache/2.4.18 (Ubuntu) SVN/1.9.3 mod_fcgid/2.3.9 OpenSSL/1.0.2g  dprd-diy.go.id
+104.26.14.79     301   cloudflare            fajar.co.id
+74.125.204.94    301   gws                   google.com.tw
+103.109.120.100  301   Apache                ekon.go.id
+172.67.74.113    403   cloudflare            glints.com
+13.229.210.177   301   nginx/1.18.0 (Ubuntu)  icando.co.id
+184.85.108.203   301                         id.pinterest.com
+184.85.108.203   301                         www.pinterest.com
+13.107.246.73    429                         id.linkedin.com
+13.107.213.73    400                         cctld.linkedin.com
+103.35.140.29    302   Apache/2.4.29 (Ubuntu)  iainkudus.ac.id
+104.18.5.207     301   cloudflare            idx.co.id
+13.107.213.73    404                         cctld-d8ene4cje6dfh5g8.z01.azurefd.net
+13.107.213.73    404                         star-azurefd-prod.trafficmanager.net
+13.107.213.73    404                         dual.part-0045.t-0009.t-msedge.net
+13.107.213.73    404                         part-0045.t-0009.t-msedge.net
+104.155.221.254  200                         edukasi.satuhati.id
+172.67.69.143    301   cloudflare            iluminasi.com
+202.89.117.162   301   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.6.40 mod_python/3.5.0- Python/2.7.5  indonesiabaik.id
+202.89.117.64    302                         indonesiakini.go.id
+156.67.215.186   301   LiteSpeed             fundyedukasi.co.id
+101.50.1.11      301   LiteSpeed             integrasi-edukasi.org
+167.205.59.96    301   nginx                 itb.ac.id
+45.114.118.237   301   Microsoft-IIS/10.0    jagokata.com
+114.7.206.235    301   Apache/2.4.41 (Ubuntu)  ikippgriptk.ac.id
+103.147.222.9    200                         jabarprov.go.id
+36.93.7.180      200   Apache/2.4.41 (Ubuntu)  iain-manado.ac.id
+103.184.30.5     301   nginx                 jemberkab.go.id
+194.163.42.81    301   LiteSpeed             jurnaledukasikemenag.org
+203.161.184.108  302   LiteSpeed             jurnal.goretanpena.com
+45.120.244.65                                bssn.go.id
+172.67.207.56    301   cloudflare            kejaredukasi.com
+128.199.180.4    301   nginx                 kbbi.web.id
+104.26.0.47      301   cloudflare            jakartamrt.co.id
+103.149.47.148   301   nginx/1.18.0 (Ubuntu)  kemenparekraf.go.id
+103.9.227.157    302                         jatengprov.go.id
+103.195.31.52    301   nginx                 kpk.go.id
+104.18.130.231   403   cloudflare            kumparan.com
+103.144.4.47     301   Apache                kuduskab.go.id
+35.190.21.225    301   Varnish               liputan6.com
+172.67.153.116   301   cloudflare            labschool-unj.sch.id
+31.13.75.35      301   proxygen-bolt         m.facebook.com
+31.13.75.35      301   proxygen-bolt         star-mini.c10r.facebook.com
+153.92.13.209    301   LiteSpeed             lampungselatankab.go.id
+18.136.222.188   301   nginx                 lister.co.id
+103.225.66.96    301   nginx                 mediaindonesia.com
+104.26.11.180    301   cloudflare            m.playmods.net
+103.229.73.122   403   Apache                kapuashulukab.go.id
+83.136.216.128   200   LiteSpeed             mitraedukasi.id
+202.124.205.29   301   nginx                 ipb.ac.id
+103.18.117.8     301   Apache                kotawaringinbaratkab.go.id
+104.18.35.6      301   cloudflare            niagahoster.co.id
+3.26.227.149     301   Apache                neo-edukasi.com
+31.220.58.135    400   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.30  mix.co.id
+104.21.6.42      301   cloudflare            oaseedukasi.id
+103.18.117.186   301   nginx                 ntbprov.go.id
+103.147.154.27   444   DomaiNesia            oneindonesia.id
+184.85.108.203                               www-pinterest-com.gslb.pinterest.com
+103.14.192.47    302                         ojk.go.id
+184.85.108.203   400   AkamaiGHost           2-01-37d2-0018.cdx.cedexis.net
+184.85.108.203   400   AkamaiGHost           www.pinterest.com.edgekey.net
+184.85.108.203   400   AkamaiGHost           e6449.a.akamaiedge.net
+36.91.26.163     302   BigIP                 pegadaian.co.id
+103.82.240.57    301   LiteSpeed             peloporwiratama.co.id
+172.67.217.72    301   cloudflare            pendidikanku.org
+104.248.153.148  301   Apache                p-wec.org
+103.93.129.34    301   nginx                 pikiran-rakyat.com
+54.179.185.229   301   awselb/2.0            pintar.co
+142.251.170.139  302   ESF                   play.google.com
+5.181.216.95     301   LiteSpeed             pinnaclealfa.com
+35.247.145.125   301   nginx                 plus.kapanlagi.com
+103.28.106.146   302   BigIP                 pajak.go.id
+35.247.145.125   301   nginx                 kapanlagi.com
+147.139.182.138  200   nginx                 masadepan.com
+120.29.231.201   301   Apache/2.4.52 (Ubuntu)  polri.go.id
+46.17.173.64     301   LiteSpeed             poltekcwe.ac.id
+123.231.148.147  301   nginx                 poltekkes-smg.ac.id
+13.35.35.23      301   CloudFront            radarjember.jawapos.com
+172.67.176.159   301   cloudflare            rakyat.news
+103.8.238.110    301                         pom.go.id
+172.67.69.145    301   cloudflare            rri.co.id
+104.26.15.37     301   cloudflare            rakyatbengkulu.disway.id
+36.66.227.104    301   nginx/1.24.0          pontianak.go.id
+109.123.235.9    301   nginx                 pendidik.co.id
+156.67.211.197   302   LiteSpeed             rsmpindramayu.com
+188.166.226.114  200   Apache                rumahedukasi.com
+202.162.32.17    301   nginx                 pn-wates.go.id
+202.157.187.127  403   LiteSpeed             snki.go.id
+128.199.183.31   200   nginx                 soloraya.solopos.com
+103.131.51.24    301   LiteSpeed             staialhidayahbogor.ac.id
+172.67.192.198   301   cloudflare            startup4industry.id
+172.67.197.173   301   cloudflare            smarteschool.id
+15.235.193.145   200   Apache/2              stkippgri-sidoarjo.ac.id
+103.66.86.235    301   nginx                 staim-tulungagung.ac.id
+13.35.35.76      301   CloudFront            taiwan-panorama.com
+112.140.160.13   200   nginx                 surabaya.go.id
+104.18.43.76     301   cloudflare            themeforest.net
+184.26.170.206   301   AkamaiGHost           tw.trip.com
+184.26.170.206   400   AkamaiGHost           slb-trip-aws.ctripgslb.com
+184.26.170.206   400   AkamaiGHost           c11990.edgekey.net
+184.26.170.206   400   AkamaiGHost           e11990.a.akamaiedge.net
+13.215.119.162   301   LiteSpeed             smk-citraedukasibangsa.sch.id
+34.101.235.39    302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.33  uhamka.ac.id
+149.28.130.111   301   nginx                 ukulele.co.nz
+203.175.9.43     301   LiteSpeed             suarakalbar.co.id
+202.52.137.2     301   nginx                 um.ac.id
+178.128.90.141   301   nginx                 umri.ac.id
+203.175.10.7     301   nginx                 umk.ac.id
+172.104.163.153  302   Apache/2.4.38 (Debian)  unaja.ac.id
+103.151.89.156   302   Apache                unand.ac.id
+182.23.49.39                                 megasyariah.co.id
+34.101.154.93    301   Apache                undip.ac.id
+18.136.42.8      301   nginx/1.18.0 (Ubuntu)  ums.ac.id
+103.75.101.16    301   Apache                uinjkt.ac.id
+104.21.63.237    301   cloudflare            undikma.ac.id
+172.67.177.211   301   cloudflare            universitas123.com
+114.7.136.200    301   Apache                unisma.ac.id
+184.26.127.19                                seller.tokopedia.com
+103.102.148.250  301   nginx/1.20.2          unimma.ac.id
+184.26.127.35    400   AkamaiGHost           seller.tokopedia.com.edgesuite.net
+184.26.127.35    400   AkamaiGHost           a1638.r.akamai.net
+172.67.71.22     403   cloudflare            unnes.ac.id
+103.97.100.173   301   LiteSpeed             unimus.ac.id
+103.131.51.86    200   Apache                unkhair.ac.id
+103.23.226.13    302                         uns.ac.id
+118.97.169.18    301   nginx                 upgrisba.ac.id
+103.41.169.100   301   nginx/1.20.1          usk.ac.id
+23.46.63.10      301                         www.alomedika.com
+103.8.12.240     302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 PHP/7.2.34  unj.ac.id
+13.35.166.64     301   CloudFront            www.beritasatu.com
+203.217.140.50   301   nginx centminmod      ut.ac.id
+13.35.166.32     301   CloudFront            d1pbhftn63xzp5.cloudfront.net
+183.182.92.213   301                         www.antaranews.com
+104.16.224.149   301   cloudflare            www.canva.com
+35.190.21.225    301   Varnish               www.bola.com
+35.190.21.225    301   Varnish               bola.com
+104.18.13.96     301   cloudflare            www.cnnindonesia.com
+103.49.221.211   301                         www.detik.com
+203.190.242.211  301                         detik.com
+103.158.154.55   301   nginx/1.22.1          unmerpas.ac.id
+13.35.166.114    301   CloudFront            www.halodoc.com
+74.125.203.121   301   GSE                   www.edukasinesia.com
+74.125.203.121   404   ghs                   ghs.google.com
+31.13.75.174     301   proxygen-bolt         www.instagram.com
+31.13.75.174     301   proxygen-bolt         geo-p42.instagram.com
+31.13.75.174     301   proxygen-bolt         z-p42-instagram.c10r.instagram.com
+153.92.13.56     301   LiteSpeed             www.jncedukasi.net
+185.237.145.182  301   LiteSpeed             www.infraedukasi.com
+153.92.13.56     301   LiteSpeed             jncedukasi.net
+104.26.8.3       301   cloudflare            www.jpnn.com
+74.125.203.121   301   GSE                   www.edukasicampus.net
+13.35.35.45      301   CloudFront            www.kompasiana.com
+13.35.35.73      301   CloudFront            d3qe0gxyk0h5nb.cloudfront.net
+198.185.159.144  301   Squarespace           www.kasihedukasi.com
+13.35.166.58     301   CloudFront            www.ldplayer.tw
+185.237.145.182  301   LiteSpeed             infraedukasi.com
+13.35.166.45     301   CloudFront            d3jbol9h5ufq8i.cloudfront.net
+198.49.23.144    404   Squarespace           ext-sq.squarespace.com
+34.143.193.14    301   nginx                 www.merdeka.com
+147.139.162.19   301   nginx/1.14.0 (Ubuntu)  www.metrotvnews.com
+147.139.162.19   301   nginx/1.14.0 (Ubuntu)  metrotvnews.com
+178.21.72.224    301   Apache/2              www.lyngsat.com
+172.67.72.10     301   cloudflare            www.rumahzakat.org
+103.251.180.11   301   nginx/1.24.0          umy.ac.id
+35.213.169.114   301   nginx                 www.pesonaedu.com
+156.67.212.187   200   LiteSpeed             www.sahamu.com
+103.66.86.229    301   nginx                 www.sariasih.com
+104.18.22.17     301   cloudflare            www.sehatq.com
+103.66.86.229    301   nginx                 sariasih.com
+172.67.151.113   200   cloudflare            www.sidia.id
+104.26.5.17      301   cloudflare            www.sukabumiupdate.com
+203.161.184.89   301   LiteSpeed             www.mitraedu.id
+172.67.181.232   302   cloudflare            www.tagar.id
+107.178.115.83   403   LiteSpeed             www.sinergiedukasi.id
+23.78.141.192    301   AkamaiGHost           www.tiktok.com
+172.67.164.202                               www.edukasi.com
+108.177.125.136  301   ESF                   www.youtube.com
+156.67.212.187   301   LiteSpeed             sahamu.com
+173.194.174.91   404                         youtube-ui.l.google.com
+23.78.141.201    400   AkamaiGHost           www.tiktok.com.edgesuite.net
+101.203.168.84                               uny.ac.id
+103.163.161.110  301   LiteSpeed             yes-consultant.com
+23.78.141.187    400   AkamaiGHost           a2047.api10.akamai.net
+107.178.115.83   403   LiteSpeed             sinergiedukasi.id
+203.161.184.89   301   LiteSpeed             mitraedu.id
+
+host             code  server                hostname
+----             ----  ------                --------
+13.107.246.73    308                         apps.microsoft.com
+13.107.213.73    308                         msapps-e3d3czehgvezh0f0.z01.azurefd.net
+13.107.213.73    404                         star-azurefd-prod.trafficmanager.net
+13.107.213.73    404                         dual.part-0045.t-0009.t-msedge.net
+13.107.213.73    404                         part-0045.t-0009.t-msedge.net
+13.107.246.73    200                         adv-downloadt.azureedge.net
+20.53.203.50     301   Kestrel               1drv.com
+13.107.213.73    404                         adv-downloadt.afd.azureedge.net
+204.79.197.200   301                         axisnet.bing.com
+13.107.6.156     302                         apps.office.com
+13.107.213.73    400                         star-azureedge-prod.trafficmanager.net
+204.79.197.200   301                         az.bing.com
+13.107.21.200    400                         star-bing-com.a-0001.a-msedge.net
+172.67.177.61    301   cloudflare            4gapn.com
+13.107.21.200    400                         star-bing-com.a-0001.a-msedge.net
+13.107.136.8     301                         365tsel-my.sharepoint.com
+13.107.21.200    400                         dual-a-0001.a-msedge.net
+144.2.12.25      301                         ads.linkedin.com
+13.107.21.200    400                         dual-a-0001.a-msedge.net
+204.79.197.200   302                         bat.bing.com
+13.107.6.156     400                         geo.home.office.akadns.net
+13.107.246.73    302                         azuremarketplace.microsoft.com
+13.107.21.200    400                         bat-bing-com.a-0001.a-msedge.net
+13.107.213.73    302                         mac-prod-pb-westus-fd.azurefd.net
+13.107.6.156     400                         nonus_edge.home.office.akadns.net
+13.107.213.59    403                         beinsports.com
+13.107.6.156     400                         home-office365-com.b-0004.b-msedge.net
+204.79.197.200   301                         bing.com
+204.79.197.200   403                         c.bing.com
+13.107.21.200    400                         c-bing-com.a-0001.a-msedge.net
+144.2.12.25      404                         mix.linkedin.com
+13.107.6.156     400                         b-0004.b-msedge.net
+13.107.18.10     301                         beta-sdf.yammer.com
+13.107.138.8     301                         365tsel.sharepoint.com
+13.107.246.73    400                         cdndtw.buzzebees.com
+13.107.246.73    400                         azurefrontdoorpages.azureedge.net
+13.107.213.73    400                         cdndtw.azureedge.net
+13.107.18.10     400                         k-0001.k-msedge.net
+13.107.213.73    400                         azurefrontdoorpages.afd.azureedge.net
+13.107.138.8     400                         1809-ipv4v6e.clump.dprodmgd106.aa-rt.sharepoint.com
+13.107.213.73    400                         cdndtw.afd.azureedge.net
+13.107.213.73    400                         firstparty-azurefd-prod.trafficmanager.net
+13.107.246.73    301                         baby.nivea.pl
+204.79.197.200   301                         com.bing.com
+204.79.197.200   301                         comwww.bing.com
+13.107.246.73    400                         cosmic-msit.office.net
+13.107.138.8     400                         195995-ipv4v6e.farm.dprodmgd106.aa-rt.sharepoint.com
+13.107.213.73    400                         cosmic-msit.azurefd.net
+13.107.138.8     400                         195995-ipv4v6w.farm.dprodmgd106.sharepointonline.com.akadns.net
+144.2.12.25      404                         pop-lva1-lx.mix.linkedin.com
+13.107.42.20     302                         dev.azure.com
+13.107.138.8     400                         195995-ipv4v6.farm.dprodmgd106.aa-rt.sharepoint.com.dual-spo-0003.spo-msedge.net
+13.107.246.73    403                         dotnet.microsoft.com
+13.107.213.73    404                         dotnetwebsite.azurefd.net
+13.107.246.73    400                         cdn.digicelgroup.com
+13.107.138.8     400                         dual-spo-0003.spo-msedge.net
+13.107.213.73    400                         agiledevelopment.azureedge.net
+13.107.213.73    400                         agiledevelopment.afd.azureedge.net
+13.107.246.73    301                         dynamics.microsoft.com
+13.107.213.73    301                         ext-eu-baby-nivea-pl.azureedge.net
+35.240.103.94                                api.mtn.com
+13.107.3.128     400                         edge.skype.com
+13.107.213.73    400                         ext-eu-baby-nivea-pl.afd.azureedge.net
+13.107.213.73    400                         dynamics365-parent.trafficmanager.net
+13.107.3.128     400                         edge.skype.net
+13.107.3.128     400                         edge-skype-com.s-0001.s-msedge.net
+13.107.3.128     400                         edge-skype-com.s-0001.s-msedge.net
+13.107.213.73    301                         dynamics365.azurefd.net
+13.107.213.73    307                         emakina.com
+13.107.3.128     400                         s-0001.s-msedge.net
+13.107.3.128     400                         s-0001.s-msedge.net
+204.79.197.200   301                         freebasics.bing.com
+204.79.197.200   301                         freebasisc.bing.com
+35.240.103.94    418                         mtn-prod-prod.apigee.net
+13.107.246.73    307                         help.avianca.com
+13.107.213.73    302                         help-gqfddgf9dqd9e2cb.z01.azurefd.net
+13.107.246.73    400                         exchange-assets.azureedge.net
+204.79.197.200   301                         http.bing.com
+13.107.213.73    400                         exchange-assets.afd.azureedge.net
+13.107.213.59    301                         ict.co
+13.107.246.73    400                         hboeum.azureedge.net
+13.107.246.73    307                         install.appcenter.ms
+13.107.213.73    400                         hboeum.afd.azureedge.net
+13.107.213.73    404                         front-door-ead5eebugwa5ayfd.z01.azurefd.net
+204.79.197.200   301                         internet.bing.com
+35.240.103.94                                mtn-prod-portal.dn.apigee.net
+204.79.197.200   301                         ipv6.bing.com
+204.79.197.200   302                         it.bing.com
+13.107.246.73    301                         id.linkedin.com
+13.107.213.73    400                         cctld.linkedin.com
+13.107.253.39    307                         intune.microsoft.com
+13.107.226.39    307                         portal.azure.com
+161.71.146.12    301   sfdcedge              help.campaignmonitor.com
+13.107.226.39    400                         portal.azure.com.trafficmanager.net
+35.240.103.94                                ageu1rt001-1-routers.dn.apigee.net
+161.71.146.13    403   sfdcedge              help.campaignmonitor.com.00do0000000ee9feau.live.siteforce.com
+13.107.213.73    404                         cctld-d8ene4cje6dfh5g8.z01.azurefd.net
+161.71.146.9     403   sfdcedge              1p.edge2.salesforce.com
+13.107.246.10    200                         jiosaavn.com
+161.71.146.9     403   sfdcedge              japan.edge2.salesforce.com
+13.107.226.39    400                         dual.part-0011.t-0009.fb-t-msedge.net
+161.71.146.9     403   sfdcedge              ukb.edge2.salesforce.com
+13.107.226.39    400                         part-0011.t-0009.fb-t-msedge.net
+13.107.136.8     301                         kckandy-my.sharepoint.com
+54.83.48.147     301   nginx                 learningpassport.org
+13.110.52.10     301   sfdcedge              knowledgebase.constantcontact.com
+13.107.42.14     301                         linkedin.com
+13.107.42.14     301                         lnkd.in
+204.79.197.200   301                         m.bing.com
+13.107.21.200    400                         m-bing-com.a-0001.a-msedge.net
+13.110.52.9      403   sfdcedge              knowledgebase.constantcontact.com.00d700000008xakeaa.live.siteforce.com
+13.107.21.200    400                         a-0001.a-msedge.net
+13.107.246.73    307                         media.microsoft.com
+13.107.246.73    301                         linkedinforgood.linkedin.com
+13.107.213.73    404                         ashy-meadow-0b28bcb0f.azurestaticapps.net
+13.107.138.8     301                         kckandy.sharepoint.com
+13.107.213.73    400                         microsites.linkedin.com
+13.107.213.73    307                         staticwebapps5acb33257c684edeb36f840bde3e7fd2.z01.azurefd.net
+13.107.213.73                                linkedinmicrosites-gnfncuh5f0a9fgbp.z01.azurefd.net
+13.110.52.8      403   sfdcedge              phoenix.edge2.salesforce.com
+13.107.138.8     400                         983-ipv4v6e.clump.dprodmgd106.aa-rt.sharepoint.com
+13.107.246.73    307                         medicalcenter.osu.edu
+13.107.213.73    302                         OSUMC-FD01-fhcadmf7aca8dabs.z01.azurefd.net
+13.107.138.8     400                         195839-ipv4v6e.farm.dprodmgd106.aa-rt.sharepoint.com
+13.107.138.8     400                         195839-ipv4v6w.farm.dprodmgd106.sharepointonline.com.akadns.net
+13.107.213.73    404                         linkedinmicrosites-gnfncuh5f0a9fgbp.z01.azurefd.net
+13.107.138.8     400                         195839-ipv4v6.farm.dprodmgd106.aa-rt.sharepoint.com.dual-spo-0003.spo-msedge.net
+13.110.52.8      403   sfdcedge              ph2.edge2.salesforce.com
+13.107.136.8     301                         minhduc-my.sharepoint.com
+13.110.30.13     403   sfdcedge              myforum.indosatooredoo.com
+104.210.154.101  301   nginx                 nivea-afrique.com
+13.110.30.14     403   sfdcedge              myforum.indosatooredoo.com.00d7f000002cnrruas.live.siteforce.com
+13.107.138.8     301                         minhduc.sharepoint.com
+13.110.30.11     403   sfdcedge              n.edge2.salesforce.com
+13.107.138.8     400                         428-ipv4v6e.clump.dprodmgd106.aa-rt.sharepoint.com
+204.79.197.200   301                         ns1.bing.com
+204.79.197.200   301                         ns2.bing.com
+13.107.246.73    404                         mms-test.skype.com
+204.79.197.200   301                         ns3.bing.com
+13.110.30.11     403   sfdcedge              phx.edge2.salesforce.com
+52.107.253.197   403   Microsoft-IIS/10.0    mysmccd-my.sharepoint.com
+52.98.83.2       301   Microsoft-IIS/10.0    outlook.office.com
+52.98.89.18      301   Microsoft-IIS/10.0    substrate.office.com
+13.107.42.13     403                         onedrive.live.com
+13.107.42.13     400                         web.fe.1drv.com
+52.98.63.114     301   Microsoft-IIS/10.0    outlook.office365.com
+13.107.42.13     400                         odc-web-geo.onedrive.akadns.net
+52.98.75.82      301   Microsoft-IIS/10.0    ooc-g2.tm-4.office.com
+13.107.213.73    404                         fd-ic3-mms-core-test.azurefd.net
+13.107.42.13     400                         odc-web-brs.onedrive.akadns.net
+13.107.246.73    302                         piala88.azurefd.net
+52.107.253.200   301                         mysmccd.sharepoint.com
+13.107.42.13     400                         odwebpl.trafficmanager.net.l-0004.dc-msedge.net.l-0004.l-msedge.net
+13.107.65.150                                cieeketauan.gleeze.com
+52.107.253.198   400                         2918-ipv4v6e.clump.dprodmgd105.aa-rt.sharepoint.com
+13.107.42.13     400                         l-0004.l-msedge.net
+13.107.6.156     302                         portal.office.com
+204.79.197.200   301                         protection.bing.com
+52.107.253.199   400                         191831-ipv4v6e.farm.dprodmgd105.aa-rt.sharepoint.com
+13.107.6.156     400                         admin-portal.office.com
+196.61.236.41                                covidmaroc.ma
+13.107.253.35    302                         ping.com
+52.107.254.231   301   Microsoft-IIS/10.0    191831-ipv4v6w.farm.dprodmgd105.sharepointonline.com.akadns.net
+13.107.6.156     400                         portal-office365-com.b-0004.b-msedge.net
+13.107.9.168     301                         sharepoint.com
+52.107.253.201   301   Microsoft-IIS/10.0    svc.ha-spo.office.com
+13.224.2.39      301   server                resources.aprendoencasa.pe
+13.107.213.73    403                         starbuckscard.ph
+13.107.246.73    429                         sd.linkedin.com
+52.113.194.132   301                         teams.microsoft.com
+13.224.2.22      301   server                d2wxhot4ofuctp.cloudfront.net
+101.53.161.3                                 globe.database.com
+161.71.144.16    301   sfdcedge              support.avast.com
+13.107.246.73    302                         teamsdemo.azureedge.net
+13.107.213.73    400                         teamsdemo.afd.azureedge.net
+52.113.194.132   301                         teams.office.com
+101.53.160.3     301                         test.salesforce.com
+13.107.42.22     302                         signup.live.com
+13.110.52.10     301   sfdcedge              support.blackberry.com
+13.107.246.73    302                         teamsdemo.office.com
+101.53.160.131   301                         test.l2.salesforce.com
+52.113.194.132   400                         tmc-g2.tm-4.office.com
+13.110.52.8      403   sfdcedge              support.blackberry.com.00d36000000b9zzeaa.live.siteforce.com
+161.71.144.11    403   sfdcedge              support.avast.com.00db0000000z3sfeak.live.siteforce.com
+104.21.91.14     301   cloudflare            wainhomes.co.uk
+52.113.194.132   400                         teams-office-com.s-0005.s-msedge.net
+204.79.197.200   301                         wap.bing.com
+13.107.246.73    301                         us.linkedin.com
+161.71.144.10    403   sfdcedge              hnd.edge2.salesforce.com
+13.107.21.200    400                         wap-bing-com.cn.a-0001.a-msedge.net
+52.113.194.132   400                         s-0005.s-msedge.net
+204.79.197.200   301                         ww.bing.com
+204.79.197.200   301                         wwe.bing.com
+13.107.246.73    307                         www.beiersdorf.com
+13.107.42.22     400                         account.msa.msidentity.com
+23.46.63.59      200                         www.bing.com
+13.107.246.73    301                         wrangler.com.au
+13.107.213.73    302                         beiersdorf-prd-1-c3fdeygbbxf4e2am.z01.azurefd.net
+98.71.233.217    301   Microsoft-Azure-Application-Gateway/v2  veon.com
+23.46.63.41      400   AkamaiGHost           www-www.bing.com.trafficmanager.net
+13.107.246.73    302                         www.clarity.ms
+23.46.63.41      400   AkamaiGHost           www.bing.com.edgekey.net
+23.46.63.41      400   AkamaiGHost           e86303.dscx.akamaiedge.net
+13.107.42.22     400                         account.msa.trafficmanager.net
+13.107.213.73    302                         clarity.azurefd.net
+13.107.246.73    400                         wcpstatic.microsoft.com
+13.107.246.73    301                         www.iis.net
+13.107.42.22     400                         l-0013.l-msedge.net
+13.107.213.73    301                         iisdotnet-prod.azurefd.net
+13.107.246.73    307                         www.nivea.com
+13.107.246.73    403                         nj.pseg.com
+13.107.213.73    404                         psegnj-prod.azurefd.net
+13.107.246.73    301                         www.fivemobile.ae
+13.107.42.14     200                         www.linkedin.com
+13.107.213.73    301                         fivemobile-cms.azureedge.net
+13.107.246.73    302                         www.ping.com
+13.107.213.73    400                         fivemobile-cms.afd.azureedge.net
+13.107.42.14     400                         www-linkedin-com.l-0005.l-msedge.net
+13.107.213.73    400                         consentdeliveryfd.azurefd.net
+13.107.213.73                                fd-pingprod-a.azurefd.net
+13.107.42.14     400                         l-0005.l-msedge.net
+13.107.246.73    200                         www.jiosaavn.com
+13.107.213.73    404                         fe-prod-jioindw-afd.azurefd.net
+204.79.197.200   301                         xlid.bing.com
+204.79.197.200   301                         xlnet.bing.com
+13.107.246.73    301                         www.uchicago.edu
+13.107.246.73    302                         www.ocpgroup.ma
+13.107.213.73    302                         ocp-site-prod-fd.azurefd.net
+13.107.213.73    301                         mc-1b49d921-43a2-4264-88fd-edb899e7492a-afd.azurefd.net
+13.107.42.18     302                         zenobusiness.visualstudio.com
+13.107.42.18     400                         visualstudio-com.l-0009.l-msedge.net
+13.107.42.18     400                         l-0009.l-msedge.net
+104.212.68.54    400                         www.wiqaytna.ma
+104.212.68.54    302                         frontwebapp.azurefd.net
+104.212.68.54    400                         tb-edge-prod.trafficmanager.net
+104.212.68.54    400                         hkbr3b.msedge.net
+13.107.246.73    503                         www.securembly.com
+190.225.183.7                                personal.com.ar
+196.61.236.41                                www.covidmaroc.ma
+13.107.213.73    503                         astprod02.azurefd.net
+
+-------------------------------------------EDUKASI EDUKASI -------------------------------------------------------------------------
+-------------------------------------------EDUKASI EDUKASI -------------------------------------------------------------------------
+-------------------------------------------EDUKASI EDUKASI -------------------------------------------------------------------------
+
+host             code  server                hostname
+----             ----  ------                --------
+108.174.10.24    301   nginx                 linkedin.ai
+108.174.10.24    301   nginx                 linkedin.al
+66.29.132.15     200   LiteSpeed             linkedin.art
+108.174.10.24    301   nginx                 linkedin.at
+108.174.10.24    301   nginx                 linkedin.af
+108.174.10.24    301   nginx                 linkedin.ba
+108.174.10.24    301   nginx                 linkedin.be
+108.174.10.24    301   nginx                 linkedin.bg
+108.174.10.24    301                         linkedin.blog
+108.174.10.24    301                         linkedin.bot
+3.64.163.50                                  linkedin.bond
+139.199.155.188  200   Microsoft-IIS/7.5     72dns.com
+108.174.10.24    301   nginx                 linkedin.ca
+170.33.13.246    200                         linkedin.cc
+170.33.13.246    200                         overdue.aliyun.com
+108.174.10.24    301   nginx                 linkedin.by
+108.174.10.24    301   nginx                 linkedin.ch
+108.174.10.24    301   nginx                 linkedin.cl
+108.174.10.24    301   nginx                 linkedin.co
+13.107.42.14     301                         linkedin.com
+52.131.37.152    302   nginx                 linkedin.cn
+69.162.80.57     302   nginx                 linkedin.cm
+108.174.10.24    301   nginx                 linkedin.cz
+108.174.10.24    301   nginx                 linkedin.de
+3.64.163.50                                  linkedin.cyou
+104.21.57.62     301   cloudflare            linkedin.erni
+108.174.10.24    301   nginx                 linkedin.dk
+108.174.10.24    301   nginx                 linkedin.ec
+108.174.10.24    301   nginx                 linkedin.ee
+108.174.10.24    301   nginx                 linkedin.do
+108.174.10.24    301   nginx                 linkedin.es
+108.174.10.24    301   nginx                 linkedin.fi
+85.233.160.22    200   Forwarding            linkedin.dj
+108.174.10.24    301   nginx                 linkedin.fr
+3.64.163.50                                  linkedin.gs
+108.174.10.24    301   nginx                 linkedin.hk
+108.174.10.24    301   nginx                 linkedin.hn
+108.174.10.24    301   nginx                 linkedin.gt
+108.174.10.24    301   nginx                 linkedin.id
+108.174.10.24    301   nginx                 linkedin.in
+108.174.10.24    301   nginx                 linkedin.is
+217.65.97.72     301   nginx                 linkedin.hu
+108.174.10.24    301   nginx                 linkedin.it
+108.174.10.24    301   nginx                 linkedin.jp
+108.174.10.24    301   nginx                 linkedin.la
+108.174.10.24    301   nginx                 linkedin.li
+108.174.10.24    301   nginx                 linkedin.lk
+3.64.163.50                                  linkedin.loan
+185.98.6.98      302   nginx                 linkedin.kz
+108.174.10.24    301   nginx                 linkedin.lu
+108.174.10.24    301   nginx                 linkedin.lv
+79.98.25.1       200   Apache                linkedin.lt
+108.174.10.24    301   nginx                 linkedin.ma
+108.174.10.24    301   nginx                 linkedin.mk
+91.220.207.90    301   nginx                 linkedin.md
+44.205.59.4      200   Apache/2.2.34 (Amazon)  linkedin.me
+108.174.10.24    301   nginx                 linkedin.mu
+89.31.143.1      200   UD Forwarding 3.1     linkedin.ms
+108.174.10.24    301   nginx                 linkedin.mx
+108.174.10.24    301   nginx                 linkedin.my
+52.54.196.19     301   Apache/2.2.34 (Amazon)  park.io
+108.174.10.24    301   nginx                 linkedin.no
+108.174.10.24    301   nginx                 linkedin.nl
+27.124.125.173   200   nginx                 linkedin.nz
+108.174.10.24    404                         linkedin.page
+185.53.177.13    200   nginx                 linkedin.nu
+108.174.10.24    301   nginx                 linkedin.ph
+185.53.177.51    200   nginx                 linkedin.ng
+108.174.10.24    301   nginx                 linkedin.pk
+108.174.10.24    301   nginx                 linkedin.pl
+108.174.10.24    301   nginx                 linkedin.pt
+108.174.10.24    301   nginx                 linkedin.pw
+172.67.177.245   302   cloudflare            linkedin.pro
+172.67.170.82    301   cloudflare            linkedin.re
+162.241.219.176  406   Apache                linkedin.rent
+104.21.22.91     301   cloudflare            linkedin.rw
+108.174.10.24    301   nginx                 linkedin.rs
+44.227.76.166    200   openresty             linkedin.rsvp
+108.174.10.24    301   nginx                 linkedin.ru
+44.227.76.166    200   openresty             linkedin.select
+108.174.10.24    301   nginx                 linkedin.sg
+108.174.10.24    301                         linkedin.shop
+3.33.152.147     405   awselb/2.0            linkedin.study
+77.78.104.3      301                         linkedin.sk
+108.174.10.24    301   nginx                 linkedin.sv
+217.65.97.71     301   nginx                 linkedin.si
+108.174.10.24    301   nginx                 linkedin.sx
+37.228.128.31    200   Apache/2.4.6 (CentOS) PHP/5.4.16  linkedin.ro
+34.102.136.180   200   openresty             linkedin.tv
+108.174.10.24    301   nginx                 linkedin.top
+108.174.10.24    301   nginx                 linkedin.tt
+108.174.10.24    301   nginx                 linkedin.tk
+61.152.93.38     403   nginx                 linkedin.tm
+108.174.10.24    301   nginx                 linkedin.ua
+108.174.10.24    301   nginx                 linkedin.uk
+108.174.10.24    301   nginx                 linkedin.ug
+108.174.10.24    301   nginx                 linkedin.us
+108.174.10.24    301   nginx                 linkedin.uy
+34.102.136.180   200   openresty             linkedin.vote
+108.174.10.24    301   nginx                 linkedin.vn
+199.59.243.224   200                         linkedin.vip
+108.174.10.24    301   nginx                 linkedin.wang
+173.245.58.100   301   cloudflare            ns.cloudflare.com
+216.239.32.106   404                         ns-cloud-a1.googledomains.com
+64.70.19.34      200   openresty             linkedin.ws
+198.54.117.206   200   namecheap-nginx       namecheaphosting.com
+162.159.24.80    403   cloudflare            ns1.bluehost.com
+37.140.216.216   200   Apache                linkedin.uz
+95.179.136.180                               ns.gransy.com
+97.74.98.67                                  ns1.dan.com
+45.88.8.94                                   ns1.adnsman.net
+37.228.128.20                                ns1.cybercloud.ro
+69.162.80.50     302   nginx                 ns1.hastydns.com
+47.91.170.222                                linkedin.red
+79.98.25.142                                 ns1.serveriai.lt
+192.174.68.8                                 ns.udag.de
+97.74.101.12                                 ns23.domaincontrol.com
+185.85.196.36                                ns1.bodis.com
+97.74.106.17                                 ns33.domaincontrol.com
+97.74.104.25                                 ns49.domaincontrol.com
+97.74.111.53                                 pdns07.domaincontrol.com
+37.140.216.216   200   Apache                ns3.hostmaster.uz
+13.248.158.159                               ns1.parkingcrew.net
+193.95.59.21                                 ns1.gnet.tn
+85.233.160.22    301   Forwarding            reg365.net
+27.124.125.248                               ns1.secureparkme.com
+213.239.206.117                              ns1.wwdh.hu
+47.118.199.203                               dns1.hichina.com
+120.76.107.52                                dns15.hichina.com

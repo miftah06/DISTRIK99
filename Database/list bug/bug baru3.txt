@@ -1,0 +1,690 @@
+host             code  server                hostname
+----             ----  ------                --------
+162.159.24.19    409   cloudflare            ns3.serveriai.lt
+162.159.24.19    409   cloudflare            ns3.serveriai.lt
+104.22.70.64     301   cloudflare            gcntv.net
+104.26.0.54      301   cloudflare            www.cybersecuritycoalition.be
+172.67.206.238   301   cloudflare            wskitv.com
+192.0.66.56      301   nginx                 www.lxtv.com
+192.0.66.56      301   nginx                 vip-microsites.nbcwpshield.com
+35.214.43.34     301   nginx                 www.eopenbox.co.uk
+172.67.148.19    301   cloudflare            digitalt.tv
+64.91.248.18     302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9  www.taiwantv.co
+172.67.215.27    301   cloudflare            www.soft4led.com
+93.191.242.47    301   nginx                 www.dentista.tv
+46.167.48.55     301   Apache/2.4.38 (Debian)  www.erznet.tv
+2.40.106.70      302                         www.almatv.tv
+172.67.150.67    301   cloudflare            www.glusi.tv
+201.139.27.181   301   Apache/2.4.6 () OpenSSL/1.0.2k-fips PHP/7.4.13  mvstv.com
+172.67.139.123   301   cloudflare            masdeportesonline.com
+104.21.7.112     301   cloudflare            www.health-yogi.com
+104.21.16.152    301   cloudflare            gratisnieuwsgroepen.nl
+104.247.81.50    403   nginx                 www.gl
+116.202.72.103   301   Apache                www.venissa.it
+44.210.17.212    301                         playwrightcelticpubnyc.com
+108.167.165.107  406   Apache                limixedmartialarts.com
+172.67.134.29    301   cloudflare            www.provasdevestibular.com.br
+94.231.83.76     200   Apache/2              www.li
+59.106.235.196   301   nginx                 design-choice.animate-onlineshop.jp
+23.185.0.1       301   Varnish               www.ucf.edu
+188.132.193.52   301                         baltaciapart.com
+52.20.204.8      301   Apache/2.4.29 (Ubuntu)  hapana.com
+151.101.1.84     301   Pepyaka/1.19.10       www.pixforce.com.br
+162.159.137.54   301   cloudflare            www.district48.org
+151.101.65.84    404   Pepyaka/1.19.10       cdn0.wixdns.net
+162.159.136.54   301   cloudflare            district48.org
+151.101.193.84   500   Varnish               wixpin.map.fastly.net
+162.144.19.8     406   Apache                legacyss.net
+74.208.27.161    301   Apache                vietipbox.com
+172.67.198.1     301   cloudflare            www.togoweed.co
+77.68.64.7       301   nginx/1.21.6          www.poetsin.com
+35.189.231.134   301   Apache                www.rivoltacarmignani.com
+3.33.152.147     405   awselb/2.0            ybellfitness.com
+104.21.12.51     301   cloudflare            yelaoshr.edu.my
+110.232.143.72   301   LiteSpeed             www.engelaustralia.com.au
+3.109.91.241     301   nginx                 www.dasmaninstitute.org
+104.21.75.43     301   cloudflare            shortysplumbing.ca
+35.231.182.128   301   Apache                www.buyuscoins.com
+35.189.231.134   301   Apache                rivoltacarmignani.com
+138.68.119.98    503                         resinwize.uk
+78.46.30.250     301   Apache                dinse-us.com
+13.75.208.208    301   nginx                 importdirectcarsales.com.au
+45.60.75.108     301                         www.state.nj.us
+45.60.75.108     301                         azklj7v.x.incapdns.net
+198.71.233.254   301   openresty             vertrauen-us.com
+162.215.226.3    503   nginx                 www.gi
+52.6.142.133     301   Apache                www.uscranberries.com
+52.6.142.133     301   Apache                uscranberries.com
+84.32.84.184     301   hcdn                  familytreemakersupport.us
+172.96.191.114   301   LiteSpeed             bsimobile.co.id
+85.13.162.181    301   Apache                hno-hanau.de
+34.230.232.255   301   Apache/2.4.39 (Ubuntu)  whichbank.info
+34.234.52.18     301                         www.poncebank.com
+172.67.158.66    301   cloudflare            www.nightvision.com.au
+52.206.163.162   301                         proxy-ssl.webflow.com
+3.233.126.24     301                         proxy-ssl-geo.webflow.com
+103.37.8.118     301   Apache                newlabs.com.au
+5.45.116.143     200   nginx/1.16.1          h1b.io
+192.185.116.121  406   Apache                www.harmanwines.com.au
+148.66.137.26    301   Apache                karimnagardccb.org
+35.209.7.161     301   nginx                 allusesof.com
+104.21.84.165    301   cloudflare            www.letsstudytogether.co
+172.105.18.52    301   Apache                midatlanticmilkbank.org
+192.185.116.121  406   Apache                harmanwines.com.au
+213.246.108.194  301   nginx                 pebblebank.co.uk
+51.91.83.67      302   Apache                www.boatogo.com
+212.72.130.138                               www.ge
+44.241.66.243    301   nginx                 growingspaces.com
+172.66.40.183    301   cloudflare            canadajobbank.org
+50.62.136.127    301   Apache                domespaces.com
+145.239.67.120   301   nginx                 bankwatch.org
+51.91.83.67      302   Apache                boatogo.com
+34.174.18.57     302   nginx                 datacommexpress.com
+81.88.52.118     302   Apache                ultraflexcontrolsystems.it
+217.160.0.66     301   Apache                www.platibubble.com
+213.108.242.5                                gameplayshop.ir
+23.12.144.199                                www.chanel.com
+104.21.18.55     200   cloudflare            civilread.com
+23.12.144.205    400   AkamaiGHost           www-v2.chanel.com.edgekey.net
+23.12.144.205    400   AkamaiGHost           e31685.dscx.akamaiedge.net
+87.98.159.226    301   nginx                 www.pacantal.fr
+162.144.18.64    406   Apache                tppanels.co.uk
+35.233.252.18    403   nginx                 trma.org
+44.232.102.107   301   Apache/2.4.56 () OpenSSL/1.0.2k-fips  www.legacyhealthus.com
+46.105.204.6     301                         www.cmf-groupe.com
+176.9.115.22     301   Apache/2              oceansouth.us
+190.92.128.248   302   Apache                reloadfirearms.us
+104.21.48.46     301   cloudflare            gameassist.io
+44.232.102.107   301   Apache/2.4.56 () OpenSSL/1.0.2k-fips  legacyhealthus.com
+172.67.190.25    403   cloudflare            domenicosrestaurant.com
+107.180.41.237   301   Apache                pressplaylounge.com
+151.101.2.159    301   Flywheel/5.1.0        pathfinderfcu.com
+104.21.42.102    301   cloudflare            myexchangestore.com
+223.27.19.79     301   Apache                www.polarx.com.au
+166.62.30.118    301   Apache                akaatent.com
+5.39.81.107      301   nginx/1.25.1          arnaqueinternet.com
+172.67.144.79    301   cloudflare            www.xpadder.net
+172.67.175.136   301   cloudflare            supercrossthegame.com
+66.96.147.101    301   Apache/2              www.gilsa.us
+202.61.232.70    301   nginx                 spiele-release.de
+198.59.144.18    301   Apache                cmxpartnerships.com
+192.124.249.64   301   Sucuri/Cloudproxy     x-next.com
+172.67.73.165    301   cloudflare            www.mobileciti.com.au
+34.135.221.243   301   Apache/2.4.29 (Ubuntu)  rad-base.com
+172.67.204.152   301   cloudflare            kiemtieu.com
+185.71.63.56     301   nginx                 protectxxl.nl
+52.136.130.145   302                         www.x-elio.com
+85.13.157.218    302   Apache                www.heli-x.info
+104.198.14.52    301   Netlify               oceanx.org
+52.136.130.145   302                         app214285.prod.cudawaas.com
+89.17.214.29     301   nginx                 duplex.es
+104.26.10.251    301   cloudflare            www.naijschools.com
+52.136.130.145   302                         waas-prod-app-df78f0d5c1c0238cc1bb66639c6b6532.trafficmanager.net
+192.185.20.197   406   Apache                www.luxtandallas.com
+104.26.11.251    409   cloudflare            www.naijschools.com.cdn.cloudflare.net
+192.185.20.197   406   Apache                luxtandallas.com
+200.58.117.96    301   Microsoft-IIS/7.5     www.aath.org.ar
+52.136.130.145   302                         waasprod-app-7a07a94910b9e71159f1000f8725d858.francesouth.cloudapp.azure.com
+212.97.109.171   301   nginx                 killtec.de
+188.208.36.17    301   nginx                 bic-code.nl
+199.16.172.78    301   nginx                 code4defense.com
+91.184.0.60      403   nginx/1.24.0          ufi-code.de
+200.58.117.96    301   Microsoft-IIS/7.5     aath.org.ar
+104.21.22.17     301   cloudflare            code-care.com
+46.105.204.10    200                         notrebellefrance.com
+223.27.19.79     301   Apache                polarx.com.au
+45.114.246.50    200   Apache                www.jbiet.edu.in
+199.60.103.254   301   cloudflare            www.itemis.com
+199.60.103.2     301   cloudflare            761475g25.secure0026.hubspot.net
+199.60.103.2     301   cloudflare            761475.group25.sites.hubspot.net
+162.159.134.42   301   cloudflare            www.upstateelevator.com
+35.214.225.236   200   nginx                 www.luftrum.com
+199.60.103.2     404   cloudflare            group25.sites.hscoscdn20.net
+104.16.196.236   301   cloudflare            koloazipline.com
+50.116.70.16     406   Apache                www.ziplinefiji.com
+162.159.135.42   404   cloudflare            upstateelevator.hosting.kinsta.cloud
+50.116.70.16     406   Apache                ziplinefiji.com
+185.217.94.192   301   Apache                www.receiverupdates.com
+45.114.246.50    301   Apache                jbiet.edu.in
+139.59.47.87     200   Apache                vlsigyan.com
+162.241.217.198  406   Apache                endpointgeek.com
+185.217.94.192   301   Apache                receiverupdates.com
+67.222.21.209    301   Apache                movephoenix.com
+20.11.137.240    200   Apache/2.4.52 (Ubuntu)  www.pumasafety.com.au
+74.208.236.200   301   Apache                www.nextdaydisplay.com
+146.20.25.36     301   nginx                 www.carolinaziplines.com
+146.20.25.36     301   nginx                 carolinaziplines.com
+43.250.142.85    301   LiteSpeed             www.sittingprettyfurniture.com.au
+54.196.147.32    301   Apache/2.4.52 () OpenSSL/1.0.2k-fips  mathnasiumfranchise.com
+20.11.137.240    200   Apache/2.4.52 (Ubuntu)  pumasafety.com.au
+172.67.199.245   301   cloudflare            profloind.com
+192.124.249.18   301   Sucuri/Cloudproxy     penguindryice.com
+13.32.87.33      301   CloudFront            www.kaptest.com
+42.112.168.100                               hochieu.xuatnhapcanh.gov.vn
+172.67.216.110   403   cloudflare            www.fireworkscity.com
+162.159.134.42   301   cloudflare            www.gamedayvodka.com
+23.185.0.4       301   Pantheon              www.teachingmatters.org
+194.163.37.212   301   LiteSpeed             www.muki.com.au
+107.180.41.249   301   Apache                autoglassexperience.com
+162.159.134.42   301   cloudflare            gamedayvodka.com
+43.250.142.85    301   LiteSpeed             sittingprettyfurniture.com.au
+141.193.213.11   403   cloudflare            www.zippersperformance.com
+141.193.213.10   302   cloudflare            wp.wpenginepowered.com
+3.72.222.78      302   Apache                www.posthalterei.com
+92.204.58.66     403   nginx                 www.parkinn-hotel-koeln.de
+194.163.37.212   301   LiteSpeed             muki.com.au
+116.202.21.209   301   Apache                insel-hotel-lindau.de
+78.46.6.167      301   Apache                www.kaliebe.de
+37.187.158.11    301   Apache                hotelzorzi.de
+83.218.160.14    301   Apache                www.hotel-barbarahof.at
+80.74.138.2      301   nginx                 rhodannenberg.ch
+23.111.142.130                               danielcoyle.com
+46.4.195.1       301   nginx                 www.rebstock-kehl.de
+93.191.157.146   301   nginx                 hotelsanders.com
+5.35.225.84      301   Apache                www.eisenberg-allgaeu.de
+80.74.136.2      301   nginx                 sportgymnasium.ch
+88.198.212.123   301   nginx                 www.gasthausspiegelburg.de
+188.94.254.88    200   Apache                www.schlosshotel-gartrop.de
+85.13.131.30     301   Apache                www.stift-stgeorgen.at
+3.33.152.147     405   awselb/2.0            nbo-exhibits.org
+70.32.23.120     301   Apache                www.miatakitcar.com
+108.157.162.87   302   Microsoft-IIS/10.0    www.rocketchassis.com
+70.32.23.120     301   Apache                miatakitcar.com
+108.157.162.102  403   CloudFront            client-cf-secure-client-business1.mrpdns.com
+5.132.190.142    301   Apache                www.hotel-wasserfall.at
+50.116.93.40     406   Apache                steven-erikson.org
+154.16.247.246   301   LiteSpeed             www.dejager-scooters.nl
+108.157.162.125  302   Microsoft-IIS/10.0    dj9mp50punej0.cloudfront.net
+185.30.32.163    301   nginx                 www.almhof.com
+198.49.23.144    301   Squarespace           silktownroofing.com
+74.208.177.112   403   nginx                 maltbytree.com
+92.205.7.232     301   Apache                www.touro.co.uk
+46.4.163.235     301   nginx                 ausgefuxt.de
+78.157.221.126   301   Apache                www.hotelamaris.ch
+92.205.7.232     301   Apache                touro.co.uk
+34.120.190.48    301   nginx                 www.campobase.net
+217.160.0.14     301   Apache                www.pferdeschulze.de
+3.10.192.39      301   nginx                 bchltd.com
+14.49.46.210     403   APFS                  www.apfs.kr
+45.113.8.230     301   nginx                 cirtex.com.au
+192.99.229.28    302   LiteSpeed             mynie.co.uk
+185.114.245.108  301   nginx/1.22.1          serconsrus.com
+172.66.43.121    301   cloudflare            www.eyerevolution.co.uk
+151.101.130.159  301   Flywheel/5.1.0        www.horseofmydreams.com
+213.186.33.5     302   nginx                 community.so
+151.101.130.159  301   Flywheel/5.1.0        horseofmydreams.com
+185.32.190.2     301   Apache                www.mgm.com.pt
+217.70.180.151   301   Apache                www.camping-lasirene.fr
+185.32.190.2     301   Apache                mgm.com.pt
+50.62.220.22     301   Apache                www.dialer360.com
+72.167.32.255    301   nginx                 southhavenlight.org
+217.70.180.151   404   Varnish               gpaas11.dc0.gandi.net
+185.143.234.120                              www.didnegar.com
+34.68.206.62     403   nginx                 oka-online.com
+50.62.220.22     301   Apache                dialer360.com
+63.250.43.137    301                         www.brasserieludiek.nl
+104.21.41.220    301   cloudflare            www.hugodevries.nl
+87.98.225.248                                avsec360.com
+63.250.43.136    301                         brasserieludiek.nl
+164.100.229.104  307                         www.upsc.gov.in
+185.43.206.114   301   Apache/2.4.56         bank360.hu
+40.67.199.122    301   nginx                 www.navipartner.dk
+157.90.117.230   301   nginx centminmod      circontrol.com
+155.130.134.33   302   Apache                www.bigdutchmanusa.com
+158.69.226.135   301   Apache                www.collegestjoseph.ca
+197.242.146.124  301   nginx                 koopkrag.co.za
+172.67.219.88    301   cloudflare            pinoysteleserye.su
+192.186.252.0    301   Apache                www.chimneyrockco.org
+103.146.112.163  301   nginx                 sculptfireplaces.com.au
+3.5.129.116      403   AmazonS3              sds-platform-private.s3-us-east-2.amazonaws.com
+173.249.144.98   301   nginx                 www.wsp.wa.gov
+66.115.166.244   200   Apache                manko-gazo.com
+52.219.109.2     403   AmazonS3              s3-r-w.us-east-2.amazonaws.com
+107.180.57.98    301   Apache                www.oasisdayspanyc.com
+81.169.145.149                               strandhotel-fehmarn.de
+106.55.119.226   302                         zsb-portal.zhku.edu.cn
+104.18.7.55      403   cloudflare            cheatdaydesign.com
+185.51.8.84      302   Apache                www.fdmobileinventions.com
+198.187.6.18     302   BigIP                 www.calhr.ca.gov
+172.67.203.121   301   cloudflare            adaybulletin.com
+192.186.252.0    301   Apache                chimneyrockco.org
+104.17.67.73     301   cloudflare            pbday.org
+173.249.144.98   301   nginx                 wsp.wa.gov
+172.67.135.203   403   cloudflare            www.smokeyjoes.biz
+160.153.131.204  301   Apache                blossoms-daynursery.co.uk
+198.187.6.18     302   BigIP                 calhr.ca.gov
+104.26.10.63     301   cloudflare            aarsunwoods.com
+192.190.221.49   301   nginx                 dayhikesneardenver.com
+104.161.32.226   301                         srikalahasthitemple.com
+185.151.30.163   301                         www.dovecottage.org
+173.254.39.119   406   Apache                jaysanalysis.com
+27.50.92.137     301   LiteSpeed             benefitness.com.au
+35.214.145.246   301   nginx                 novagirl.net
+106.55.119.226   400                         bdb31c7d7da472a71f9a0e0443a05c0f.qcloudzygj.com
+18.232.42.147    301   awselb/2.0            deliverydudes.com
+192.252.146.15   301   Apache                www.templeshalom.net
+14.29.101.169    301   openresty             www.sceea.cn
+209.127.178.41   301   Apache                www.onlanka.com
+209.127.178.41   301   Apache                onlanka.com
+184.168.99.251   301   Apache                www.lajoyaresorts.com
+183.181.98.134   301   nginx                 www.zentsuji.com
+45.223.137.109   200                         www.pref.chiba.lg.jp
+106.55.119.226   400                         9a775b6a5929666a-cl2.qcloudwzgj.com
+45.223.137.109   200                         glknmv9.impervadns.net
+184.168.99.251   301   Apache                lajoyaresorts.com
+14.29.101.168    403   openresty             www.sceea.cn.ctdns.cn
+192.124.249.161  301   Sucuri/Cloudproxy     drugtesting.com
+23.106.127.1     301   Apache                www.mizuaesthetic.com
+101.53.144.230   301   Microsoft-IIS/10.0    www.gdcr.ac.in
+148.251.67.142   200   Apache/2.4            artflowstudio.com
+152.195.14.55    301   ECS (agb/52B2)        www.vw.com.br
+151.101.2.2      200   Varnish               sbf6607a6e2377eb2.jimcontent.com
+152.195.14.55    404   ECS (agb/52B2)        live-br.vwng.lighthouselabs.eu
+104.97.85.58     403   AmazonS3              bsmedia.business-standard.com
+151.101.194.2    500   Varnish               f2.shared.global.fastly.net
+152.195.14.55    404   ECS (agb/52B2)        cs1035.wac.etacdn.net
+104.97.85.52     400   AkamaiGHost           bsmedia.business-standard.com.akamaized.net
+104.97.85.52     400   AkamaiGHost           a1883.dscg2.akamai.net
+212.114.110.100                              www.bluemountain-lodge.com
+202.117.64.152   301                         yzb.chd.edu.cn
+101.53.144.230   301   Microsoft-IIS/10.0    gdcr.ac.in
+85.214.101.114   301   Apache                sportinnederland.com
+104.26.6.65      301   cloudflare            www.youthsporttrust.org
+172.67.74.4      409   cloudflare            www.youthsporttrust.org.cdn.cloudflare.net
+87.236.103.176   301   Apache                www.familyfit.nl
+95.216.46.32     301   nginx                 eerikkila.fi
+160.153.0.37     301   cloudflare            vbsf.net
+51.195.133.8     200   Apache                www.sportni.net
+23.106.127.1     301   Apache                mizuaesthetic.com
+103.27.32.41     301   LiteSpeed             msaimmigration.com
+195.192.211.68   301                         www.bayardsport.ch
+34.241.191.143   301                         www.sportireland.ie
+15.161.172.75    301   nginx/1.25.2          www.robertosport.it
+18.230.79.240    301   nginx/1.18.0 (Ubuntu)  tienda-sportfitness.com
+34.241.191.143   502                         master-7rqtwti-oivs4anbfuprm.eu-2.platformsh.site
+172.105.22.180   301   nginx                 kingpacificlodge.com
+195.192.211.68   301                         bayardsport.ch
+199.59.243.224   200                         www.uk
+15.161.172.75    301   nginx/1.25.2          robertosport.it
+178.128.166.228  301   nginx                 www.uksportscars.com
+109.234.160.30   301   o2switch-PowerBoost-v3  www.atike-immobilier.pf
+51.255.97.84                                 castelldefelsfemesport.com
+151.106.100.138  301   LiteSpeed             www.unionsaintjean.org
+151.106.100.138  301   LiteSpeed             unionsaintjean.org
+195.211.60.81    302   nginx                 prosto.tv
+173.231.245.152  301   nginx/1.23.4          www.munsonboats.com
+168.119.150.187  301   LiteSpeed             www.swiftsportsug.com
+173.231.245.152  301   nginx/1.23.4          munsonboats.com
+5.78.92.183      301   LiteSpeed             hopeforprisoners.org
+172.67.161.130   301   cloudflare            www.elkhadra.com
+172.67.72.106    301   cloudflare            www.sportsinjuryclinic.net
+104.21.46.151    301   cloudflare            pakistanconsulatedubai.ae
+34.149.87.45     301   Pepyaka/1.19.10       www.jumpstartvision.org
+34.149.87.45     404   Pepyaka/1.19.10       cdn1.wixdns.net
+160.153.138.114  308   openresty             ww2podcast.com
+34.149.87.45     404   Pepyaka/1.19.10       td-ccm-neg-87-45.wixdns.net
+104.19.210.37    301   cloudflare            power.mhi.com
+104.19.211.37    409   cloudflare            power.mhi.com.cdn.cloudflare.net
+162.241.252.125  406   Apache                www.genesisandgenetics.org
+162.241.252.125  406   Apache                genesisandgenetics.org
+168.119.150.187  301   LiteSpeed             swiftsportsug.com
+163.29.160.10    302   BigIP                 pcd.judicial.gov.tw
+45.82.188.201    301   LiteSpeed             www.hoevetegast.nl
+162.144.176.135  406   Apache                www.starlandguitar.com
+35.212.98.50     301   nginx                 buildersmax.com
+173.209.38.86    301   LiteSpeed             www.cliniquesportsante.com
+162.144.176.135  406   Apache                starlandguitar.com
+45.82.188.201    301   LiteSpeed             hoevetegast.nl
+192.0.78.24      403   nginx                 sltca.net
+161.35.148.171   301   nginx                 www.takeuchibenelux.com
+5.77.57.65       301   Apache                immedicare.co.uk
+217.160.0.92     301   Apache                geffsport.com
+35.208.29.23     301   nginx/1.18.0 (Ubuntu)  netevia.com
+173.209.38.86    301   LiteSpeed             cliniquesportsante.com
+13.71.122.35     301                         www.syne.com
+161.35.148.171   301   nginx                 takeuchibenelux.com
+34.80.64.223     301   nginx/1.17.9          www.vuclip.com
+34.88.56.255     301                         staria.com
+192.237.193.181  301   Apache/2.4.52 (Ubuntu)  www.hilltopmanorhotsprings.com
+81.169.145.85                                gratissportkijken.nl
+67.225.160.145   200   Apache/2.4.57 (cPanel) OpenSSL/1.1.1v mod_bwlimited/1.4 mod_fcgid/2.3.9  quiltingdigest.com
+199.16.173.181   301   nginx                 www.usajapan.org
+185.151.30.165   301                         www.cornhillcastle.co.uk
+52.56.221.150                                www.toughdecking.co.uk
+13.71.122.35     301                         syne-ux.azurewebsites.net
+104.21.235.133   301   cloudflare            xxx-escorts.co.uk
+203.98.95.20     403   LiteSpeed             australiansandstone.com.au
+52.56.221.150                                toughdecking.co.uk
+35.237.213.8     403   nginx                 www.newdaycenters.org
+35.237.213.8     403   nginx                 httpswwwnewday.wpengine.com
+77.72.0.106      200   LiteSpeed             montecassinorestaurant.co.uk
+172.67.148.187   200   cloudflare            ighs-israel.org
+3.132.30.183     301   nginx/1.22.0          www.modernday.org
+3.132.30.183     301   nginx/1.22.0          modernday.org
+185.56.75.40     403   LiteSpeed             israelapostille.co.il
+13.71.122.35     404                         waws-prod-ma1-007.sip.azurewebsites.windows.net
+35.190.31.54     301   nginx                 www.daytradetheworld.com
+172.67.190.113   301   cloudflare            coloradospringslabordayliftoff.com
+35.209.197.55    301   nginx                 www.ageless-md.com
+129.121.19.251   406   Apache                kingscrossluggage.co.uk
+193.230.31.206                               www.ro
+192.124.249.164  302   Sucuri/Cloudproxy     www.cosentino.com
+104.21.81.235    301   cloudflare            www.halodogs.co.uk
+13.71.122.35     404                         waws-prod-ma1-007.southindia.cloudapp.azure.com
+45.63.30.66      301   nginx                 hoppydaysbrewingsupplies.com.au
+13.107.246.40    403                         pharmacy.ky.gov
+13.107.213.40    403                         KYAZFDSP01.azurefd.net
+13.107.213.40    404                         star-azurefd-prod.trafficmanager.net
+35.209.197.55    301   nginx                 ageless-md.com
+13.107.213.40    404                         dual.part-0012.t-0009.t-msedge.net
+194.1.147.56     301   WPX CLOUD/MIA01       todaysmower.com
+13.107.213.40    404                         part-0012.t-0009.t-msedge.net
+209.240.97.5     301   Apache/2.4.41 (Ubuntu)  todaysnursery.com
+192.185.95.41    406   Apache                valdezoutfitters.com
+35.209.33.236    301   nginx                 overthefallstoursniagara.com
+192.124.249.155  403   Sucuri/Cloudproxy     www.strathbogie.vic.gov.au
+172.67.222.43    301   cloudflare            www.kapilarya.com
+172.105.182.26   301   LiteSpeed             berwickvet.com.au
+209.222.247.113  301                         www.frontier-trailersales.com
+34.72.14.28      403   nginx                 towncentervet.com
+35.225.238.220   301   Apache                www.vgbc.org
+172.64.144.220   301   cloudflare            www.carasel.com.au
+209.222.247.113  301                         ws36.dealersites.dealerspike.com
+104.21.44.8      301   cloudflare            griefline.org.au
+172.67.30.229    301   cloudflare            www.nrmaparksandresorts.com.au
+35.215.114.99    301   nginx                 www.aethern.com
+104.21.59.86     301   cloudflare            www.royalzambezilodge.com
+132.148.211.34   301   Apache                www.quarterbackacademy.com
+35.215.114.99    302   nginx                 aethern.com
+54.36.91.62      301   Apache                franceisrael.fr
+103.4.235.185    301   LiteSpeed             www.broadbeachfamilypractice.com.au
+104.18.43.36     301   cloudflare            stores.mymaropost.com
+185.230.63.107   301                         ccav.org
+132.148.211.34   302   Apache                quarterbackacademy.com
+52.179.188.149   301                         www.licensetobuild.com
+23.227.38.74     301   cloudflare            thehumanbean.com
+23.227.38.74     301   cloudflare            www.australianauto.com.au
+104.21.95.172    301   cloudflare            www.csmservicebodies.com.au
+151.101.2.159    301   Flywheel/5.1.0        garysquicksteak.com
+52.179.188.149   301                         agreeable-mushroom-05ebb680f.azurestaticapps.net
+160.153.61.206   301   Apache                www.augustrei.com
+23.227.38.74     301   cloudflare            shops.myshopify.com
+52.179.188.149   404                         azurestaticapps.trafficmanager.net
+103.4.235.185    301   LiteSpeed             broadbeachfamilypractice.com.au
+104.16.197.236   301   cloudflare            mvoceansports.com
+52.179.188.149   301                         msha-eus2-0.staticsites-prod-eastus2.p.azurewebsites.net
+160.153.61.206   301   Apache                augustrei.com
+151.101.66.132   301                         aeroflowurology.com
+52.179.188.149   404                         waws-prod-bn1-b109eee7.sip.p.azurewebsites.windows.net
+52.179.188.149   404                         waws-prod-bn1-b109eee7.cloudapp.net
+192.163.195.153  301   Apache                marblebenchtopshub.com.au
+77.111.240.164   200   Apache                www.guardianfm.co.uk
+192.145.232.41   301   Apache                www.unimat.com.mx
+165.140.70.57    301   LiteSpeed             lakehawkinsrvpark.com
+3.18.36.183      301   Apache/2.4.57 () OpenSSL/1.0.2k-fips  www.fishman.com
+192.124.249.105  301   Sucuri/Cloudproxy     www.fallonandbyrne.com
+3.18.36.183      301   Apache/2.4.57 () OpenSSL/1.0.2k-fips  fishman.com
+172.67.215.104   301   cloudflare            contourmd.com
+192.145.232.41   301   Apache                unimat.com.mx
+104.26.14.248    301   cloudflare            kingsmillindustries.com
+35.193.153.180   403   nginx                 www.hartfordmarathon.com
+104.21.85.127    301   cloudflare            www.apnaplan.com
+77.111.240.164   301   Apache                guardianfm.co.uk
+103.27.34.32     301   LiteSpeed             shottonlifts.com.au
+151.101.66.159   301   Flywheel/5.1.0        c4foundation.org
+141.193.213.10   403   cloudflare            www.mahoneygroup.com
+104.18.20.228    301   cloudflare            www.nordea.com
+104.18.21.228    409   cloudflare            www.nordea.com.cdn.cloudflare.net
+192.249.112.191  301   nginx/1.23.2          sunwardsteel.com
+176.58.107.46    301   nginx/1.18.0 (Ubuntu)  www.investing.co.uk
+35.225.253.236   403   nginx                 dci.stanford.edu
+23.235.203.183   301   Apache                midasfunds.com
+104.26.6.251     301   cloudflare            sistercities.org
+172.67.175.83    301   cloudflare            solar.solterra.com
+154.0.173.115    301   Apache                bikerswarehouse.co.za
+217.21.88.144    301   LiteSpeed             www.papertyari.com
+185.104.28.118   301                         www.pokemonkaart.nl
+172.67.178.203   301   cloudflare            bogartwealth.com
+13.54.134.95     301   nginx                 allanpearsefunerals.com.au
+54.145.221.82    301                         daytradrr.com
+69.65.47.186     301   Apache                www.silvertonclub.com
+162.159.134.42   301   cloudflare            www.movieguide.org
+162.159.134.42   301   cloudflare            movieguide.org
+217.21.88.144    301   LiteSpeed             papertyari.com
+69.65.47.186     301   Apache                silvertonclub.com
+168.235.82.127   301   Apache/2.4.29         www.vitaltouchwellness.com
+129.79.123.142   302   BigIP                 liberalarts.iupui.edu
+172.67.139.99    301   cloudflare            vip-gayporn.com
+164.100.230.217  301   Microsoft-IIS/8.0     cbseacademic.nic.in
+162.159.134.42   301   cloudflare            www.ctoec.org
+168.235.82.127   301   Apache/2.4.29         vitaltouchwellness.com
+168.235.71.118   301   Apache/2.4.46         www.yellowhousehotel.com
+68.66.224.3      301   Apache                octopusaruba.com
+23.227.38.74     301   cloudflare            www.clarawoodscollection.com
+162.159.134.42   301   cloudflare            ctoec.org
+104.21.22.176    301   cloudflare            smods.ru
+18.223.18.62     301   Microsoft-IIS/10.0    parkcities.watermarkcommunities.com
+23.227.38.74     301   cloudflare            clarawoods.myshopify.com
+18.223.18.62     301   Microsoft-IIS/10.0    watermarkcommunities.com
+35.215.95.51     301   nginx                 canterburyretreat.org
+67.225.140.87    301   Apache                aercmn.com
+141.138.168.28   301   Apache                www.okku.io
+104.26.6.114     301   cloudflare            tekumafrenchman.com
+3.33.152.147     405   awselb/2.0            takewheels.com
+66.155.106.126   301   nginx                 casorojewelrysafes.com
+34.82.133.188    403   nginx                 batlgrounds.com
+213.186.33.4     301   Apache                www.folan.net
+194.33.59.10     200   Apache/2.4.52 (Ubuntu)  www.wrexham.com
+93.62.131.165    301   nginx                 www.foscarini.com
+162.244.69.98    301   Apache                www.coloradotreefarmnursery.com
+34.149.36.179    301   nginx                 www.dmcl.ca
+20.193.241.74    302   Apache/2.4.56 (Win64) OpenSSL/1.1.1t  yet.nta.ac.in
+93.62.131.165    301   nginx                 foscarini.com
+162.241.230.55   406   Apache                medicaltreasure.com
+162.244.69.98    301   Apache                coloradotreefarmnursery.com
+162.214.204.170  301   Apache                homesoftherich.net
+35.214.29.252    301   nginx                 studywise.co.uk
+96.125.172.62    200   Apache                theeconomiccollapseblog.com
+35.212.67.135    301   nginx                 www.fleursauvage.ca
+104.21.11.7      301   cloudflare            wikipagecreator.org
+75.119.155.126   301   nginx                 bronx.com
+151.101.2.159    301   Flywheel/5.1.0        libertymanor55.com
+35.189.13.120    403   nginx                 aquaticachievers.com.au
+13.35.116.86     301                         www.ageuk.org.uk
+68.65.122.71     301   LiteSpeed             diamondage.org
+13.35.116.123    200   Microsoft-IIS/8.5     d3r6dqu2d8ko63.cloudfront.net
+51.210.156.122   301   Apache                www.artemiscourtage.com
+77.72.4.130      301   LiteSpeed             u3alondon.org.uk
+104.21.27.161    200   cloudflare            istanbuldagez.net
+51.210.156.122   301   Apache                artemiscourtage.com
+35.222.75.70     301   nginx                 innisfil.gatewaycasinos.com
+103.117.180.90   301   Apache                jitendraev.com
+69.73.181.7      200   Apache                saltbushclub.com
+208.113.187.35   301   Apache                nzgda.com
+172.66.43.162    301   cloudflare            www.supportpets.com
+216.239.36.21    302   Google Frontend       prep-wizard.com
+185.232.14.78    301   LiteSpeed             giuseart.com
+121.240.225.117  302   BigIP                 nsdl.co.in
+78.46.3.231      301   Apache                erpsupporten.dk
+94.124.122.15    301   Apache/2              www.restaurantnage.be
+185.104.29.44    301   Apache/2              netwerknv.nl
+192.0.78.199     301   nginx                 supportservicesgroup.co
+192.185.211.117  406   Apache                ravex.com.br
+166.62.10.184    301   Apache                www.makcontrols.com
+108.128.72.146   301   gunicorn              www.flowneuroscience.com
+103.191.74.133   302                         www.tmrnd.com.my
+184.168.105.169  301   Apache                foracare.com
+43.225.109.64    403   LiteSpeed             www.reninnovation.com
+149.28.114.194   301                         www.waudena.com
+54.73.26.109     404   heroku-router         solid-toucan-gkgd34mh4g7kdeno91bj99cc.herokudns.com
+35.214.38.142    301   nginx                 www.evolvehousing.org.uk
+149.28.114.194   301                         waudena.com
+185.194.217.201  301   Apache                kamelpay.com
+104.26.13.76     301   cloudflare            www.babu88.com
+167.71.6.229     301   nginx                 www.folderbode.nl
+166.62.10.184    301   Apache                makcontrols.com
+162.241.244.40   406   Apache                www.tecnovaglobal.com
+141.193.213.11   403   cloudflare            www.blackberrysystems.com
+67.43.229.163    302   LiteSpeed             discountdoor.com
+192.124.249.183  308   Sucuri/Cloudproxy     serviciosdelaraza.org
+141.193.213.10   403   cloudflare            blackberrysystems.com
+122.213.225.167  200   Apache                www.sanpai.or.jp
+43.225.109.64    403   LiteSpeed             reninnovation.com
+31.193.176.77    301   Apache                www.skolbrewery.rw
+163.47.73.193    301   nginx                 nursingcourses.net.au
+46.22.130.73     301   Apache                clannhousing.ie
+38.92.60.215                                 www.admissionpk.com
+194.184.226.20   301   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.19  www.superjetinternational.com
+38.92.60.215                                 admissionpk.com
+104.21.71.163    301   cloudflare            www.amd-id.com
+204.79.197.200   200                         www.bing.com
+206.189.133.178  301   nginx                 www.sctevtorissa.in
+203.113.244.90   301   Apache                werribeesc.vic.edu.au
+13.107.21.200    400                         www-www.bing.com.trafficmanager.net
+172.67.219.138   301   cloudflare            daadscholarship.com
+13.107.21.200    400                         www-bing-com.dual-a-0001.a-msedge.net
+104.21.85.80     301   cloudflare            www.german-gold.de
+13.107.21.200    400                         dual-a-0001.a-msedge.net
+91.203.110.233   200   nginx                 tuningfiles-germany.de
+217.160.0.38     301   Apache                www.rubber-testing.com
+141.138.205.129  301   Apache/2              www.eagleamsterdam.com
+80.86.172.36     301   Apache                www.kajo.de
+172.67.163.225   301   cloudflare            shehata-academy.com
+206.189.133.178  301   nginx                 sctevtorissa.in
+94.130.69.101    301   LiteSpeed             ewimed.com
+104.21.72.26     301   cloudflare            dmc.ag
+217.160.0.167    301   Apache                www.profischnell.com
+185.53.210.49    301   LiteSpeed             habonim.com
+49.12.125.53     301   Apache                jabber.hot-chilli.net
+5.23.32.127      301                         ch.gigroup.com
+89.107.187.21    301   nginx                 www.argo-hytos.com
+141.193.213.11   403   cloudflare            www.mooielight.com
+83.137.228.217   301   nginx                 cafewolseley.com
+209.59.156.91    301   Apache                www.joeybadass.com
+104.21.57.225    301   cloudflare            www.aboutchromebooks.com
+65.8.178.33      301   CloudFront            authorservices.wiley.com
+172.67.193.21    409   cloudflare            www.aboutchromebooks.com.cdn.cloudflare.net
+65.8.178.87      301   CloudFront            d1tl16r8qug24g.cloudfront.net
+194.59.166.144   301   LiteSpeed             biblprog.org.ua
+104.21.62.67     301   cloudflare            w88thaime.com
+46.105.204.17    301                         www.referencement-google-gratuit.com
+136.144.141.57   301   nginx                 www.sociaalverhaal.com
+128.210.7.200    301   BigIP                 owl.purdue.edu
+209.59.156.91    301   Apache                joeybadass.com
+151.101.2.133    301   Varnish               www.ted.com
+151.101.194.133  500   Varnish               dualstack.d.sni.global.fastly.net
+104.22.0.126     301   cloudflare            nova.laravel.com
+104.127.84.218   301   AkamaiGHost           authors.repec.org
+104.17.51.120    301   cloudflare            www.cambridge.org
+104.127.68.30    301   AkamaiGHost           www.eia.gov
+43.250.142.85    301   LiteSpeed             export.org.au
+104.127.84.218   400   AkamaiGHost           authors.repec.org.edgekey.net
+13.107.246.40    307                         endpoint.microsoft.com
+143.198.174.242  301   nginx                 www.toolshero.com
+104.127.84.218   400   AkamaiGHost           e13502.b.akamaiedge.net
+13.107.213.40    307                         portal.azure.com
+136.144.141.57   301   nginx                 sociaalverhaal.com
+151.101.2.132    302   nginx                 docs.djangoproject.com
+151.101.194.132  500   Varnish               dualstack.j.sni.global.fastly.net
+13.107.213.40    400                         portal.azure.com.trafficmanager.net
+172.66.40.210    301   cloudflare            jerichowriters.com
+104.18.5.110     301   cloudflare            www.britannica.com
+151.101.2.137    301   Varnish               www.investopedia.com
+198.143.164.253  301   nginx                 wordpress.org
+104.18.4.110     409   cloudflare            www.britannica.com.cdn.cloudflare.net
+51.255.26.63     301   Apache                oneloftracing.com
+151.101.194.137  500   Varnish               k.sni.global.fastly.net
+104.127.180.154  301   AkamaiGHost           www.pearson.com
+104.127.68.30    400   AkamaiGHost           www.eia.gov.edgekey.net
+150.165.254.52   302   nginx                 www.prg.ufpb.br
+104.17.188.102   301   cloudflare            quizlet.com
+34.233.140.183   301   openresty             login.bluehost.com
+173.194.212.138  302   OFE/0.1               books.google.co.za
+173.194.212.113  302   OFE/0.1               books.google.com
+13.35.116.42     301   CloudFront            confluence.atlassian.com
+104.127.180.154  400   AkamaiGHost           wildcard.pearson.com.edgekey.net
+104.127.68.30    400   AkamaiGHost           e2963.dscb.akamaiedge.net
+151.101.0.81     302   BBC-GTM               www.bbc.com
+13.226.52.38     301   CloudFront            www.nasa.gov
+104.127.180.154  400   AkamaiGHost           e290.x.akamaiedge.net
+23.185.0.3       301   Varnish               www.ebsco.com
+151.101.64.81    500   Varnish               www.bbc.com.pri.bbc.com
+13.35.116.104    301   CloudFront            confluence.prd.cst.atlassian.com
+151.101.192.81   500   Varnish               bbc.map.fastly.net
+104.26.1.250     403   cloudflare            www.ghacks.net
+104.248.109.167  307                         plus.aztecsoftware.com
+13.226.52.68     403   CloudFront            www.nasawestprime.com
+23.12.144.196    301   AkamaiGHost           www.salesforce.com
+13.35.116.108    301   CloudFront            d3lzof3wnsn9tm.cloudfront.net
+23.12.144.196    400   AkamaiGHost           www.salesforce.com.edgekey.net
+13.226.52.54     301   CloudFront            d30etcnkn29cv0.cloudfront.net
+13.32.87.70      301   CloudFront            www.mheducation.com
+65.8.178.36      301   CloudFront            www.abebooks.com
+23.12.144.196    400   AkamaiGHost           e63490.dsca.akamaiedge.net
+99.84.252.3      301   CloudFront            www.usa.gov
+13.32.87.102     301   CloudFront            www-prod.ecom-ady.prod.mheducation.com
+192.237.207.183  301   nginx/1.10.3 (Ubuntu)  www.fwweekly.com
+68.169.29.53     301   Apache                www.tcu.edu
+99.84.252.86     403   CloudFront            www.usa.gov.external-domains-production.cloud.gov
+65.8.178.81      403   CloudFront            tp.0b4c9a994-frontier.abebooks.com
+151.101.194.98   301   Varnish               www.thestreet.com
+104.131.33.191   301   Apache                evolutionwriters.com
+68.169.29.53     200   Apache                S06411.DATABANK.HOST
+65.8.178.58      301   CloudFront            dr35amawwlvaz.cloudfront.net
+184.29.171.2     301   AkamaiGHost           www.xero.com
+23.55.194.101    307   AkamaiGHost           www.amazon.com
+18.64.174.28     301   CloudFront            www.eventbrite.com
+104.16.55.16     301   cloudflare            www.loc.gov
+96.16.196.213    301   AkamaiGHost           www.collegeboard.org
+104.18.18.242    301   cloudflare            www.fanfiction.net
+150.165.254.52   200   nginx                 nginx.bbn.ufpb.br
+184.29.171.2     400   AkamaiGHost           www.xero.com.edgekey.net
+18.64.174.105    301   CloudFront            d3o36vj0gwxqjp.cloudfront.net
+23.55.194.101    403   CloudFront            tp.47cf2c8c9-frontier.amazon.com
+104.18.19.242    409   cloudflare            www.fanfiction.net.cdn.cloudflare.net
+184.29.171.2     400   AkamaiGHost           e8173.a.akamaiedge.net
+142.202.17.177   301   Squarespace           www.squarespace.com
+23.55.194.101    400   AkamaiGHost           www.amazon.com.edgekey.net
+104.20.28.177    301   cloudflare            www.templatemonster.com
+23.55.194.101    400   AkamaiGHost           e15316.dsca.akamaiedge.net
+108.156.83.99    301   CloudFront            blog.ssa.gov
+23.185.0.4       301   Varnish               blogs.worldbank.org
+65.8.178.103     301   CloudFront            www.merriam-webster.com
+13.226.52.100    301   CloudFront            www.noaa.gov
+65.8.178.71      301   CloudFront            merriam-webster.com
+108.156.83.113   301   CloudFront            d33s9y9u4qpaol.cloudfront.net
+13.226.52.117    301   CloudFront            d1n02fmvrfzeno.cloudfront.net
+151.139.128.10   301                         www.dormeo.net
+151.139.128.10   301                         q6e8b8h9.stackpathcdn.com
+96.16.196.213    400   AkamaiGHost           www.collegeboard.org.edgekey.net
+144.76.229.31    301   nginx/1.14.0 (Ubuntu)  www.mala-matura.com
+52.52.1.109      301                         cabezonrestaurant.com
+66.42.127.253    301                         www.johnsonblock.com
+96.16.196.213    400   AkamaiGHost           e10875.a.akamaiedge.net
+104.26.9.168     301   cloudflare            djr.com.au
+35.169.229.240   301   Apache/2.4.49 (Ubuntu)  www.atlantacharterbuscompany.com
+212.32.234.201   301   Apache                zadardanas.com
+162.159.135.42   301   cloudflare            shorelinegatewayliving.com
+35.169.229.240   301   Apache/2.4.49 (Ubuntu)  atlantacharterbuscompany.com
+104.196.162.174  403   nginx                 additivemanufacturing.com
+104.26.12.223    301   cloudflare            redthreadresearch.com
+206.189.175.73   301   Apache                opengeology.org
+141.193.213.20   403   cloudflare            ceoroundtable.heart.org
+160.153.0.47     301   cloudflare            californiawinterleague.com
+144.76.229.31    301   nginx/1.14.0 (Ubuntu)  mala-matura.com
+104.196.49.15    403   nginx                 daiyafoods.com
+141.193.213.21   404   cloudflare            et2w8f9df47e.wpeproxy.com
+35.212.32.162    301   nginx                 newbridgespine.com
+132.148.214.57   301   Apache                piranha.com
+104.26.2.18      301   cloudflare            www.sentinelone.com
+107.180.50.165   302                         www.fiber-optical-networking.com
+35.226.3.244     403   nginx                 tcsrockets.com
+107.180.50.165   302   Apache                fiber-optical-networking.com
+149.56.226.4     301   Apache                www.cinemasrgfm.com
+185.119.89.212   301   LiteSpeed             www.aerodromparking.com
+81.169.145.95                                argosretail.de
+185.119.89.212   301   LiteSpeed             aerodromparking.com
+104.127.85.250                               www.oeticket.com
+104.127.85.250   400   AkamaiGHost           secure.eventim.de.edgekey.net
+104.127.85.250   400   AkamaiGHost           e14337.dscb.akamaiedge.net
+103.27.34.46                                 theriggingshed.com.au

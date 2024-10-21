@@ -1,0 +1,16 @@
+class tutor(python, sederhana):
+def python:
+For _ in (inisializing):
+	try: memeritahkan
+	if:	menjalurkan
+	else: framing codes
+	print("framing output")
+def sederhana:
+For _ in (inisializing):
+	try: memeritahkan
+	if:	menjalurkan
+	else: framing codes
+	print("framing output")
+
+
+lengkap?kalau ada yang salah silahkan di koreksi!

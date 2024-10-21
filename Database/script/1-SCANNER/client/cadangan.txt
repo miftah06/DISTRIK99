@@ -1,0 +1,91 @@
+def __init__(self, pd_emails):
+
+    def __enter__(self, string=None):
+        emails from phone
+        """Convert bytes to a human readable format.
+        """Decode string.
+        """Download YouTube videos.
+        """Web crawler for grabbing emails from a website.
+        # -*- coding: utf-8 -*-
+        # -*- coding: utf-8 -*-
+        # -*- coding: utf-8 -*-
+        # -*- coding: utf-8 -*-
+        # -*- coding: utf-8 -*-
+        Args:
+        Args:
+        Args:
+        Args:
+        Args:
+        Returns:
+        Returns:
+        Returns:
+        Returns:
+        YouTube(url).streams.first().download(output)
+        birth (date/datetime): Birthday.
+        bool: Return True if the video was downloaded and False if get an exception.
+        bytes (int): Bytes.
+        bytes /= 1024.0
+    return user_pass
+
+
+"""
+"""
+"""
+"""
+"""
+"""def base64_to_string(input, output):
+    def bytes_to_human(bytes):
+    def calculate_age(birth):
+    def download_youtube(url, output):
+    def email_web_crawler(urls):
+        except Exception:
+        except Exception:
+        f1.write(base64.b64decode(f.read()).decode('utf-8'))
+        for email in re.findall('([\w\.,]+@[\w\.,]+\.\w+)', html):
+for letter in range(len(user_pass)):
+    for unit in ['', 'K', 'M', 'G', 'T', 'P', 'E', 'Z']:
+    for url in urls:
+from datetime import date
+from pytube import YouTube
+from urllib import parse
+from urllib.request import urlopen
+guess = ""
+guess = ""
+guess = str(guess_letter) + str(guess)
+guess_letter = password[randint(0, 25)]
+html = response.read().decode('utf-8')
+if abs(bytes) < 1024.0:
+    if email not in list_emails:
+if not parse.urlparse(url.strip()).scheme:
+import base64
+import re
+input (str): Base64 file.
+int: Return value in years.
+list: Return list of emails.
+list_emails = []
+list_emails.append(email)
+output (str): Download directory.
+output (str): Text file.
+pass
+password = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j','k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't','u','v','w', 'x', 'y', 'z',]
+print("Your password is",guess)
+print(guess)
+response = urlopen(url.strip(), timeout=5)
+return '%3.1f%s%s' % (bytes, unit, suffix)
+return '%.1f%s%s' % (bytes, 'Y', suffix)
+return False
+return True
+return list_emails
+return today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
+str: Return bytes into human readable format.
+suffix = 'B'
+today = date.today()
+try:
+    try:
+        url (str): YouTube video url.
+    url = 'http://' + url.strip()
+urls (list): List of URLs.
+user_pass = input("Enter your password: ")
+while (guess != user_pass):
+    with open(input, 'rb') as f:
+        with open(output, 'w') as f1:

@@ -1,0 +1,43 @@
+
+
+host             code  server                hostname
+----             ----  ------                --------
+49.233.44.103    301   nginx                 4399pk.com
+129.211.129.109  301   nginx/1.14.0          4399.com
+138.113.159.190  301   Cdn Cache Server V2.0  4399youpai.com
+138.113.159.190  301   Cdn Cache Server V2.0  4399.cn
+138.113.159.190                              cnm.4399api.net
+138.113.159.190                              4399youpai.4399api.net
+138.113.159.190                              4399youpai.com.lxdns.com
+115.182.52.51    301   nginx/1.4.2           4399sj.com
+138.113.159.190                              www.4399.cn.wscdns.com
+49.233.44.103    301   nginx                 3839.com
+119.147.161.54   403   nginx/1.12.1          5054399.net
+138.113.159.190  302   nginx                 ip138.com
+115.182.52.51                                4399sj.4399api.net
+138.113.159.190                              ip138.com.lxdns.com
+121.9.235.184                                1zhe.com
+140.207.178.172  301   DNSPod URL V2.0       blued.com
+157.185.163.251  403   nginx                 maangh2.chinanetcenter.com
+119.28.121.241   302   stgw                  ifeehei.xyz
+157.185.163.251                              maangh2.chinanetcenter.com.wswebpic.com
+121.9.235.184                                app1z.flashgame163.com
+106.3.128.134    503                         s0.chunboimg.com
+106.3.128.134    503                         s1.chunboimg.com
+106.3.128.135    503                         s3.chunboimg.com
+106.3.128.136    503                         sstatic.chunboimg.com
+157.185.158.28   302   nginx                 staff.tcl.com
+106.3.128.135    503                         s2.chunboimg.com
+157.185.158.28                               staff.tcl.com.wswebpic.com
+106.3.128.134    503                         s1.chunboimg.com.wswebpic.com
+211.91.247.94    404   WS CDN Server         lvs.lxdns.net
+106.3.128.135    503                         s3.chunboimg.com.wswebpic.com
+106.3.128.136    503                         sstatic.chunboimg.com.wswebpic.com
+103.29.141.105                               tcl.com
+157.185.158.177  302   Cdn Cache Server V2.0  walla-app.com
+157.185.158.177                              walla-app.com.whecloud.com
+106.3.128.135    503                         s2.chunboimg.com.wswebpic.com
+119.254.76.108   301   nginx                 ziroom.com
+106.3.128.134    503                         s0.chunboimg.com.wswebpic.com
+153.99.174.64    404   WS CDN Server         lvs.lxdns.net.ourplat.net
+115.182.52.16                                iwan4399.com

@@ -1,0 +1,194 @@
+host             code  server                hostname
+----             ----  ------                --------
+65.109.224.248                               static.248.224.109.65.clients.your-server.de
+95.215.45.138                                devnode.lumag.spb.ru
+148.251.151.125  301   Apache/2.4.41 (Ubuntu)  niklasl.com
+213.133.106.251                              ns1.your-server.de
+213.239.204.242                              ns.second-ns.com
+193.47.99.4                                  ns3.second-ns.de
+94.140.123.44                                ns1.yourserver.se
+91.224.12.105                                ns2.yourserver.se
+74.208.189.124                               ip74-208-189-124.pbiaas.com
+198.244.212.57                               ns31514033.ip-198-244-212.eu
+172.217.194.95   404                         si-in-f95.1e100.net
+172.253.118.95   404                         sl-in-f95.1e100.net
+74.125.68.95     404                         sc-in-f95.1e100.net
+74.125.130.95    404                         sb-in-f95.1e100.net
+74.125.24.95     404                         sf-in-f95.1e100.net
+74.125.68.95     404                         sc-in-f95.1e100.net
+74.125.130.95    404                         sb-in-f95.1e100.net
+74.125.24.95     404                         sf-in-f95.1e100.net
+142.250.4.95     404                         sm-in-f95.1e100.net
+142.251.12.95    404                         se-in-f95.1e100.net
+34.111.24.1      404   nginx                 1.24.111.34.bc.googleusercontent.com
+142.251.10.95    404                         sd-in-f95.1e100.net
+64.233.170.95    404                         sg-in-f95.1e100.net
+142.251.36.110   404                         prg03s11-in-f14.1e100.net
+34.159.84.40                                 40.84.159.34.bc.googleusercontent.com
+142.251.36.86    404                         prg03s10-in-f22.1e100.net
+213.239.204.242                              ns.second-ns.com
+213.133.106.251                              ns1.your-server.de
+34.117.237.239   302   nginx                 239.237.117.34.bc.googleusercontent.com
+95.100.146.48    400   AkamaiGHost           a95-100-146-48.deploy.static.akamaitechnologies.com
+95.100.146.19    400   AkamaiGHost           a95-100-146-19.deploy.static.akamaitechnologies.com
+34.120.208.123   200   openresty             123.208.120.34.bc.googleusercontent.com
+142.251.36.106   404                         prg03s11-in-f10.1e100.net
+64.233.170.94    404                         sg-in-f94.1e100.net
+23.212.110.136   400   AkamaiGHost           a23-212-110-136.deploy.static.akamaitechnologies.com
+23.212.110.178   400   AkamaiGHost           a23-212-110-178.deploy.static.akamaitechnologies.com
+23.195.104.131   400   AkamaiGHost           a23-195-104-131.deploy.static.akamaitechnologies.com
+34.117.65.55     301                         55.65.117.34.bc.googleusercontent.com
+142.251.36.142   404                         prg03s12-in-f14.1e100.net
+99.86.4.76       403   CloudFront            server-99-86-4-76.fra6.r.cloudfront.net
+198.244.212.57                               ns31514033.ip-198-244-212.eu
+34.239.73.113                                ec2-34-239-73-113.compute-1.amazonaws.com
+205.251.198.46                               ns2-24-us-east-1.ec2-rdns.amazonaws.com
+205.251.192.197                              ns3-24-us-east-1.ec2-rdns.amazonaws.com
+205.251.195.169                              ns4-24-us-east-1.ec2-rdns.amazonaws.com
+205.251.197.231                              ns1-24-us-east-1.ec2-rdns.amazonaws.com
+142.251.36.131   404                         prg03s12-in-f3.1e100.net
+34.149.207.176                               176.207.149.34.bc.googleusercontent.com
+23.212.110.184   400   AkamaiGHost           a23-212-110-184.deploy.static.akamaitechnologies.com
+95.100.146.51    400   AkamaiGHost           a95-100-146-51.deploy.static.akamaitechnologies.com
+23.195.104.88    400   AkamaiGHost           a23-195-104-88.deploy.static.akamaitechnologies.com
+142.251.37.106   404                         prg03s13-in-f10.1e100.net
+34.107.221.82    200   nginx                 82.221.107.34.bc.googleusercontent.com
+35.244.181.201   302   nginx                 201.181.244.35.bc.googleusercontent.com
+18.66.97.96      403   CloudFront            server-18-66-97-96.fra56.r.cloudfront.net
+156.154.65.10                                x2.amazonaws.com
+156.154.150.1                                x3.amazonaws.org
+204.74.108.1                                 pdns1.ultradns.net
+204.74.120.1                                 x4.amazonaws.org
+156.154.64.10                                x1.amazonaws.com
+142.251.36.68    404                         prg03s10-in-f4.1e100.net
+23.212.110.168   400   AkamaiGHost           a23-212-110-168.deploy.static.akamaitechnologies.com
+44.209.73.139                                ec2-44-209-73-139.compute-1.amazonaws.com
+142.251.36.74    404                         prg03s10-in-f10.1e100.net
+23.212.110.185   400   AkamaiGHost           a23-212-110-185.deploy.static.akamaitechnologies.com
+204.74.120.1                                 x4.amazonaws.org
+142.251.36.67    404                         prg03s10-in-f3.1e100.net
+23.212.110.185   400   AkamaiGHost           a23-212-110-185.deploy.static.akamaitechnologies.com
+97.74.97.35                                  ans01.domaincontrol.com
+173.201.65.35                                ans02.domaincontrol.com
+156.154.150.1                                x3.amazonaws.org
+92.205.161.164                               164.161.205.92.host.secureserver.net
+136.243.92.194                               static.194.92.243.136.clients.your-server.de
+92.205.161.164                               164.161.205.92.host.secureserver.net
+136.243.92.194                               static.194.92.243.136.clients.your-server.de
+142.251.36.138   404                         prg03s12-in-f10.1e100.net
+52.222.236.12    403   CloudFront            server-52-222-236-12.fra56.r.cloudfront.net
+142.251.37.109   404                         prg03s13-in-f13.1e100.net
+157.240.30.18    301   proxygen-bolt         edge-star-shv-01-prg1.facebook.com
+2.16.2.73        400   AkamaiGHost           a2-16-2-73.deploy.static.akamaitechnologies.com
+142.251.37.99    404                         prg03s13-in-f3.1e100.net
+157.240.30.35    301   proxygen-bolt         edge-star-mini-shv-01-prg1.facebook.com
+204.74.108.1                                 pdns1.ultradns.net
+156.154.64.10                                x1.amazonaws.com
+44.209.73.139                                ec2-44-209-73-139.compute-1.amazonaws.com
+44.207.24.131                                ec2-44-207-24-131.compute-1.amazonaws.com
+91.216.163.3     404                         ns2.ist.lt
+91.216.163.2     404                         ns1.ist.lt
+213.252.245.153  404   nginx/1.18.0          14997-26178.bacloud.info
+46.38.225.225                                root-dns.netcup.net
+87.106.239.199                               srv02.cyberbunker.biz
+34.149.100.209   301                         209.100.149.34.bc.googleusercontent.com
+188.68.63.68                                 third-dns.netcup.net
+89.58.4.118                                  v2202212170218212883.supersrv.de
+142.251.37.110   404                         prg03s13-in-f14.1e100.net
+23.205.191.135   400   AkamaiGHost           a23-205-191-135.deploy.static.akamaitechnologies.com
+204.79.197.203   400                         a-0003.a-msedge.net
+34.160.176.28    404   nginx                 28.176.160.34.bc.googleusercontent.com
+13.107.21.200    400                         a-0001.a-msedge.net
+34.149.149.62    404   nginx                 62.149.149.34.bc.googleusercontent.com
+23.212.110.162   400   AkamaiGHost           a23-212-110-162.deploy.static.akamaitechnologies.com
+34.141.51.245                                245.51.141.34.bc.googleusercontent.com
+34.149.202.126                               126.202.149.34.bc.googleusercontent.com
+74.125.200.94    404                         sa-in-f94.1e100.net
+23.78.218.80     400   AkamaiGHost           a23-78-218-80.deploy.static.akamaitechnologies.com
+18.155.68.98     403   CloudFront            server-18-155-68-98.sin52.r.cloudfront.net
+23.195.104.139   400   AkamaiGHost           a23-195-104-139.deploy.static.akamaitechnologies.com
+34.160.144.191   301                         191.144.160.34.bc.googleusercontent.com
+23.78.216.152    400   AkamaiGHost           a23-78-216-152.deploy.static.akamaitechnologies.com
+100.42.217.98                                ns4.webnx.com
+54.192.150.106   403   CloudFront            server-54-192-150-106.sin2.r.cloudfront.net
+23.39.4.33       400   AkamaiGHost           a23-39-4-33.deploy.static.akamaitechnologies.com
+64.185.225.179                               ns3.webnx.com
+142.4.42.4                                   ns1.webnx.com
+23.49.60.209     400   AkamaiGHost           a23-49-60-209.deploy.static.akamaitechnologies.com
+34.117.223.223   404   nginx                 223.223.117.34.bc.googleusercontent.com
+100.42.212.162                               ns2.webnx.com
+37.221.199.199                               second-dns.netcup.net
+23.59.80.225     400   AkamaiGHost           a23-59-80-225.deploy.static.akamaitechnologies.com
+54.230.112.118   403   CloudFront            server-54-230-112-118.mrs52.r.cloudfront.net
+23.49.60.167     400   AkamaiGHost           a23-49-60-167.deploy.static.akamaitechnologies.com
+96.17.189.43     400   AkamaiGHost           a96-17-189-43.deploy.static.akamaitechnologies.com
+3.234.93.142                                 ec2-3-234-93-142.compute-1.amazonaws.com
+52.222.226.205   403   CloudFront            server-52-222-226-205.fra56.r.cloudfront.net
+13.224.161.18    403   CloudFront            server-13-224-161-18.hkg54.r.cloudfront.net
+104.70.235.83    400   AkamaiGHost           a104-70-235-83.deploy.static.akamaitechnologies.com
+184.51.136.140   400   AkamaiGHost           a184-51-136-140.deploy.static.akamaitechnologies.com
+74.125.24.91     404                         sf-in-f91.1e100.net
+104.89.118.49    400   AkamaiGHost           a104-89-118-49.deploy.static.akamaitechnologies.com
+23.78.217.66     400   AkamaiGHost           a23-78-217-66.deploy.static.akamaitechnologies.com
+3.0.12.16        404                         ec2-3-0-12-16.ap-southeast-1.compute.amazonaws.com
+95.111.246.7                                 hermes.ripperscorner.net
+104.149.139.137                              cyberphunk.org
+103.225.66.210                               ns1.metrotvnews.com
+23.195.104.96    400   AkamaiGHost           a23-195-104-96.deploy.static.akamaitechnologies.com
+54.251.81.199    404                         ec2-54-251-81-199.ap-southeast-1.compute.amazonaws.com
+54.198.171.20                                ec2-54-198-171-20.compute-1.amazonaws.com
+44.194.4.3                                   ec2-44-194-4-3.compute-1.amazonaws.com
+205.251.192.91                               ns4-24-ap-southeast-1.ec2-rdns.amazonaws.com
+205.251.197.76                               ns1-24-ap-southeast-1.ec2-rdns.amazonaws.com
+5.45.60.61       404   nginx                 filerep-squared-prod-002.prg5.ff.avast.com
+208.95.112.1     200                         ip-api.com
+216.59.60.1                                  b1.uberns.com
+216.59.59.1                                  a1.uberns.com
+205.251.199.211                              ns2-24-ap-southeast-1.ec2-rdns.amazonaws.com
+135.148.34.70    405   nginx                 us15.default-host.net
+205.251.194.89                               ns3-24-ap-southeast-1.ec2-rdns.amazonaws.com
+104.89.118.131   400   AkamaiGHost           a104-89-118-131.deploy.static.akamaitechnologies.com
+74.125.200.100   404                         sa-in-f100.1e100.net
+23.202.33.129    400   AkamaiGHost           a23-202-33-129.deploy.static.akamaitechnologies.com
+34.72.218.64     301   nginx                 64.218.72.34.bc.googleusercontent.com
+23.195.104.113   400   AkamaiGHost           a23-195-104-113.deploy.static.akamaitechnologies.com
+23.32.29.89      400   AkamaiGHost           a23-32-29-89.deploy.static.akamaitechnologies.com
+205.251.199.211                              ns2-24-ap-southeast-1.ec2-rdns.amazonaws.com
+205.251.194.89                               ns3-24-ap-southeast-1.ec2-rdns.amazonaws.com
+23.220.172.134   400   AkamaiGHost           a23-220-172-134.deploy.static.akamaitechnologies.com
+23.202.33.209    400   AkamaiGHost           a23-202-33-209.deploy.static.akamaitechnologies.com
+23.195.104.120   400   AkamaiGHost           a23-195-104-120.deploy.static.akamaitechnologies.com
+34.159.15.168                                168.15.159.34.bc.googleusercontent.com
+18.64.18.58      403   CloudFront            server-18-64-18-58.cgk50.r.cloudfront.net
+18.64.37.114     403   CloudFront            server-18-64-37-114.cgk50.r.cloudfront.net
+74.125.130.100   404                         sb-in-f100.1e100.net
+34.159.37.72                                 72.37.159.34.bc.googleusercontent.com
+13.226.120.42    403   CloudFront            server-13-226-120-42.hkg62.r.cloudfront.net
+104.70.237.118   400   AkamaiGHost           a104-70-237-118.deploy.static.akamaitechnologies.com
+74.125.24.94     404                         sf-in-f94.1e100.net
+142.251.12.94    404                         se-in-f94.1e100.net
+64.233.170.102   404                         sg-in-f102.1e100.net
+54.240.160.132   403   CloudFront            server-54-240-160-132.hkg62.r.cloudfront.net
+142.251.10.104   404                         sd-in-f104.1e100.net
+74.125.130.119   404                         sb-in-f119.1e100.net
+74.125.238.136   404                         sa-in-f136.1e100.net
+205.251.192.91                               ns4-24-ap-southeast-1.ec2-rdns.amazonaws.com
+23.195.104.107   400   AkamaiGHost           a23-195-104-107.deploy.static.akamaitechnologies.com
+172.217.194.113  404                         si-in-f113.1e100.net
+23.195.104.146   400   AkamaiGHost           a23-195-104-146.deploy.static.akamaitechnologies.com
+205.251.197.76                               ns1-24-ap-southeast-1.ec2-rdns.amazonaws.com
+23.195.104.152   400   AkamaiGHost           a23-195-104-152.deploy.static.akamaitechnologies.com
+199.249.230.189                              tor100.quintex.com
+13.107.42.12     404                         1drv.ms
+172.253.118.102  404                         sl-in-f102.1e100.net
+172.253.118.119  404                         sl-in-f119.1e100.net
+104.79.99.141    400   AkamaiGHost           a104-79-99-141.deploy.static.akamaitechnologies.com
+34.74.141.211                                211.141.74.34.bc.googleusercontent.com
+74.125.24.132    404                         sf-in-f132.1e100.net
+142.251.10.155   404                         sd-in-f155.1e100.net
+74.125.130.94    404                         sb-in-f94.1e100.net
+74.125.68.93     404                         sc-in-f93.1e100.net
+23.62.212.108    400   AkamaiGHost           a23-62-212-108.deploy.static.akamaitechnologies.com
+23.207.188.129   400   AkamaiGHost           a23-207-188-129.deploy.static.akamaitechnologies.com
+3.230.101.226                                ec2-3-230-101-226.compute-1.amazonaws.com
+74.125.130.155   404                         sb-in-f155.1e100.net

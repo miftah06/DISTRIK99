@@ -1,0 +1,61 @@
+DNS: hostro.co/shared --> IP: 172.67.217.124                                
+DNS: www.mdoq.io/magento --> IP: 104.26.14.144                              
+DNS: www.mdoq.io/regain --> IP: 104.26.14.144                               
+DNS: hostro.co/domains/ --> IP: 172.67.217.124                              
+DNS: www.mdoq.io/mdoq --> IP: 104.26.14.144                                 
+DNS: hostro.co/company/ --> IP: 172.67.217.124                              
+DNS: www.mdoq.io/what --> IP: 104.26.14.144                                 
+DNS: hostro.co/ --> IP: 172.67.217.124                                      
+DNS: www.mdoq.io/faqs --> IP: 104.26.14.144                                 
+DNS: www.mdoq.io/blog --> IP: 104.26.14.144                                 
+DNS: hostro.co/support/ --> IP: 172.67.217.124                              
+DNS: hostro.co/wordpress --> IP: 172.67.217.124                             
+DNS: hostro.co/vps --> IP: 172.67.217.124                                   
+DNS: hostro.co/dedicated --> IP: 172.67.217.124                             
+DNS: hostro.co/cloud --> IP: 172.67.217.124                                 
+DNS: www.mdoq.io/ --> IP: 104.26.14.144                                     
+DNS: www.mdoq.io/customer/account/ --> IP: 104.26.14.144                    
+DNS: www.mdoq.io/checkout/cart/ --> IP: 104.26.14.144                       
+DNS: www.mdoq.io/pricing --> IP: 104.26.14.144                              
+DNS: hostro.co/contact --> IP: 172.67.217.124                               
+DNS: help.chargify.com --> IP: 89.106.200.1                                 
+DNS: docs.mdoq.io/ --> IP: 104.16.53.111                                    
+DNS: mdoq.chargifypay.com/subscribe/d526cvs99hxv --> IP: 52.33.20.33        
+DNS: my.mdoq.io/login --> IP: 51.89.218.141  
+ DNS: help.chargify.com -> IP: 89.106.200.1
+
+ DNS: www.mdoq.io/blog -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/customer/account/ -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/customer/account/login/referer/aHR0cHM6Ly93d3cubWRvcS5pby9jdXN0b21lci9hY2NvdW50L2NyZWF0ZS8 -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/what -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/regain -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/faqs -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/mdoq -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/ -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/pricing -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/customer/account/forgotpassword/ -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/customer/account/create/ -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/checkout/cart/ -> IP: 104.26.14.144
+
+ DNS: www.mdoq.io/magento -> IP: 104.26.14.144
+
+ DNS: www.instagram.com/morotaiofficial/ -> IP: 157.240.241.174
+
+ DNS: mdoq.chargifypay.com/subscribe/d526cvs99hxv -> IP: 52.33.20.33
+
+ DNS: docs.mdoq.io/ -> IP: 104.16.53.111
+
+ DNS: my.mdoq.io/login -> IP: 51.89.218.141
+
+ DNS: morotai.com/collections/warrior -> IP: 23.227.38.65

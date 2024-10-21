@@ -1,0 +1,216 @@
+host             code  server                hostname
+----             ----  ------                --------
+204.74.99.100    301                         1-800-blue-book.com
+204.74.99.100    301                         1-expedia.com
+204.74.99.100    301                         100africaspots.com
+204.74.99.100    301                         100asiaspots.com
+204.74.99.100    301                         100australiaspots.com
+204.74.99.100    301                         100bahamasspots.com
+204.74.99.100    301                         100beachspots.com
+204.74.99.100    301                         100californiaspots.com
+204.74.99.100    301                         100caribbeanspots.com
+99.83.223.161    301   awselb/2.0            www.abebooks.ca
+204.74.99.100    301                         100disneyworldspots.com
+204.74.99.100    301                         100floridaspots.com
+204.74.99.100    301                         100europespots.com
+204.74.99.100    301                         100funspots.com
+75.2.69.186      302   awselb/2.0            redirect-service.ops.abebooks.com
+204.74.99.100    301                         100hawaiispots.com
+204.74.99.100    301                         100kauaispots.com
+204.74.99.100    301                         100jamaicaspots.com
+204.74.99.100    301                         100kissimmeespots.com
+75.2.69.186      302   awselb/2.0            prod.aberedirectservice.redirectservice.abebooks.a2z.com
+204.74.99.100    301                         100lasvegasspots.com
+204.74.99.100    301                         100losangelesspots.com
+54.78.145.58     200   nginx/1.18.0 (Ubuntu)  olx.co
+54.78.145.58     200   nginx/1.18.0 (Ubuntu)  www.olx.co
+204.74.99.100    301                         100mexicospots.com
+204.74.99.100    301                         100mauispots.com
+204.74.99.100    301                         100neworleansspots.com
+204.74.99.100    301                         100miamispots.com
+204.74.99.100    301                         100newyorkspots.com
+64.57.183.62     302   Apache/2.4.57 (FreeBSD) mod_wsgi/4.9.2 Python/3.9 PHP/8.1.20 OpenSSL/1.1.1o-freebsd  www.cauce.ca
+76.223.54.146    404   openresty             valleyperformance.com
+204.74.19.143    301   Apache                armstorng.com
+185.230.63.186   301                         catherinemcmichael.com
+204.74.19.143    301   Apache                acousticalceilings.com
+204.74.19.143    301   Apache                armsrtong.com
+198.49.23.145    301   Squarespace           sabinephotoart.com
+204.74.19.143    301   Apache                armstrong.com
+75.2.18.233      403   nginx                 www.olx.bz
+54.165.109.83    301   nginx/1.18.0 (Ubuntu)  armstrong-flooring.com
+54.78.145.58     200   nginx/1.18.0 (Ubuntu)  redirect.bit.olx.org
+185.93.1.250     403   BunnyCDN-IL1-941      bobleduc.com
+204.74.19.143    301   Apache                armstrong-ceilings.com
+142.4.99.43      200   Microsoft-IIS/7.5     0reck.com
+204.74.19.143    301   Apache                armstrongbuilder.com
+204.74.19.221    301   Apache                armstrongceilings.com
+45.60.101.209    301                         armstrongconnect.com
+54.165.109.83    301   nginx/1.18.0 (Ubuntu)  armstrongdealer.com
+54.165.109.83    301   nginx/1.18.0 (Ubuntu)  armstrongfloorcare.com
+54.165.109.83    301   nginx/1.18.0 (Ubuntu)  armstrongfloorcleaner.com
+54.165.109.83    301   nginx/1.18.0 (Ubuntu)  armstrongfloors.com
+54.165.109.83    301   nginx/1.18.0 (Ubuntu)  armstrongflooring.com
+204.74.19.143    301   Apache                armstronghome.com
+54.165.109.83    301   nginx/1.18.0 (Ubuntu)  armstronglaminate.com
+204.74.19.143    301   Apache                armstrongindustries.com
+204.74.19.143    301   Apache                armstrongremodeler.com
+204.74.19.143    301   Apache                armstrongfoundation.com
+204.74.78.121    200   Apache/2.4.41 (Ubuntu)  kdvp.com
+204.74.99.101    301                         accommodations.com
+204.74.99.101    301                         ccv.com
+204.74.99.101    301                         dr.com
+204.74.99.101    301                         digicel.dr.com
+204.74.99.101    301                         www.dr.com
+204.74.99.101    301                         hotel.com
+104.108.109.3    301   AkamaiGHost           travelocity.com
+45.60.32.104     301                         7-eleven.com
+204.74.99.103    301                         www.acj.com
+204.74.99.103    301                         aldilife.com
+204.74.99.103    301                         www.apistan.com
+216.238.190.103  301   nginx                 buy.com
+204.74.99.103    301                         copa.com
+204.74.99.103    301                         coralife.com
+204.74.99.103    301                         www.corporate.com
+204.74.99.103    301                         corporatedomains.com
+204.74.99.103    301                         www.cscprotectsbrands.com
+204.74.99.103    301                         delta.com
+204.74.99.103    301                         www.dong.com
+204.74.99.103    302                         fd.com
+104.70.65.177    301   AkamaiGHost           greatnorthernrail.com
+204.74.99.103    301                         manutd.com
+172.65.64.17     301   cloudflare            merchant.com
+204.74.99.103    301                         msci.com
+204.74.99.103    301                         nextdirect.com
+104.70.65.177    301   AkamaiGHost           thameslinkrailway.com
+204.74.99.103    301                         agoda.ma
+165.160.13.20    301                         tvnet.com
+204.74.99.103    301                         cscdns.net
+3.21.96.48       301   awselb/2.0            www.virginmovil.mx
+172.65.64.17     409   cloudflare            visa.net
+204.74.99.103    301                         www.starbucks.org
+3.221.28.153                                 armstrong-tile-floors.com
+204.74.66.1                                  udns1.cscdns.net
+204.74.66.101                                a.u06.twtrdns.net
+50.23.85.242                                 kcircle.com
+204.74.78.12                                 centergate.com
+204.74.78.123                                mailorder.com
+204.74.101.1                                 udns2.ultradns.net
+204.74.108.1                                 dns-external-master.amazon.com
+204.74.208.2     301   Apache                take2hosting.com
+204.74.109.1                                 pdns2.ultradns.net
+3.64.163.50                                  amiktech.com
+3.140.13.188     404                         bioconsultor.com
+18.119.154.66    404                         traff-6.hugedomains.com
+18.119.154.66    404                         hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
+3.64.163.50                                  jackpottogo.com
+156.154.131.100                              pdns2.cscdns.net
+156.154.131.100                              ns6.netnames.net
+204.74.110.101                               c.u06.twtrdns.net
+166.88.62.202    302                         2ol.com
+204.74.111.1                                 udns2.cscdns.uk
+69.163.164.67    301   Apache                aldenta.com
+76.223.54.146    404   openresty             amplifiedcontent.com
+204.74.114.1                                 pdns5.ultradns.info
+45.40.145.151    308   openresty             big8series.com
+185.230.63.186   301                         bobahouse.com
+160.16.117.230   200   Apache/2.4.56 (Unix) OpenSSL/1.0.2k-fips  asamidwesttour.com
+34.98.99.30      200   openresty             darronstover.com
+104.21.71.222    301   cloudflare            racingonline.com
+76.223.54.146    404   openresty             acspp.com
+69.163.164.173   301   Apache                johnford.is
+52.86.6.113      404                         babbus.com
+3.94.41.167      404                         traff-4.hugedomains.com
+76.223.54.146    404   openresty             autopond.com
+3.94.41.167      404                         hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
+18.119.154.66    404                         capitalhorizon.com
+148.62.5.7       301                         benmoon.com
+151.80.238.85    301   o2switch-PowerBoost-v3  autoracingtracks.com
+162.246.58.104   301   LiteSpeed             academicsplusinc.com
+103.27.200.166   403   Nginx_Rc-Cr           barcampvientiane.org
+204.74.115.1                                 pdns6.ultradns.co.uk
+172.67.221.20                                5bestonlinecasinos.com
+47.91.170.222                                dashinghost.com
+host             code  server                hostname
+----             ----  ------                --------
+23.82.12.37      302   nginx                 dibamoviez.pro
+172.64.164.18    301   cloudflare            flagcdn.com
+172.64.164.18    301   cloudflare            flagcdn.com
+143.244.35.226   301   Varnish               computerhoy.com
+172.67.214.156   403   cloudflare            achcdn.com
+104.21.30.167    301   cloudflare            www.redwap.me
+104.21.30.167    301   cloudflare            www.redwap.me
+172.65.32.248                                acme-v02.api.letsencrypt.org
+172.64.109.37    301   cloudflare            player2.hanime.tv
+172.64.109.37    301   cloudflare            player2.hanime.tv
+172.65.32.248                                prod.api.letsencrypt.org
+172.65.64.17     409   cloudflare            visa.net
+172.65.64.17     409   cloudflare            visa.net
+172.65.32.248                                ca80a1adb12a4fbdac5ffcbc944e9a61.pacloudflare.com
+172.65.64.51     301   cloudflare            paytm.com
+172.65.64.51     301   cloudflare            paytm.com
+172.65.90.8      301   cloudflare            www.paytm.com
+172.65.90.8      301   cloudflare            www.paytm.com
+172.65.90.8      301   cloudflare            www.paytm.com
+172.65.90.8      301   cloudflare            www.paytm.com
+172.65.90.11     409   cloudflare            www.paytm.com.cdn.cloudflare.net
+172.65.90.11     409   cloudflare            www.paytm.com.cdn.cloudflare.net
+172.65.90.11     409   cloudflare            www.paytm.com.cdn.cloudflare.net
+172.65.90.11     409   cloudflare            www.paytm.com.cdn.cloudflare.net
+172.65.207.41                                cybvpn20.ovo.id
+172.65.192.225   307                         whois.kuwaitnet.net
+172.65.192.225   307                         whois.publicdomainregistry.com
+172.65.207.41                                cybvpn20.ovo.id.cdn.cloudflare.net
+172.65.207.41                                d400a30a92d44e71b9d1c081e817bd10.pacloudflare.com
+172.65.192.225   403                         whois.myorderbox.com
+172.65.208.22    404   cloudflare            js-eu1.hs-scripts.com
+172.65.192.225   403                         whois.myorderbox.com
+172.65.208.22    302   cloudflare            api-fra04-origin.spectrum.hs-scripts.com
+172.65.192.225   403                         4fd940b1a0064c72a7f19665a3b99c4f.pacloudflare.com
+172.65.208.22    403   cloudflare            2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
+172.65.192.225   403                         4fd940b1a0064c72a7f19665a3b99c4f.pacloudflare.com
+34.101.238.40    308                         bakingworld.id
+3.214.78.252                                 qa.tableau.corp.zoom.us
+host             code  server                hostname
+----             ----  ------                --------
+172.64.164.18    301   cloudflare            flagcdn.com
+143.244.35.226   301   Varnish               computerhoy.com
+172.67.214.156   403   cloudflare            achcdn.com
+104.21.30.167    301   cloudflare            www.redwap.me
+172.67.173.64    301   cloudflare            www.redwap.me
+172.67.214.156   403   cloudflare            achcdn.com
+172.65.32.248                                acme-v02.api.letsencrypt.org
+172.64.108.37    301   cloudflare            player2.hanime.tv
+172.65.64.16     301   cloudflare            merchant.com
+172.64.108.37    301   cloudflare            player2.hanime.tv
+172.65.32.248                                prod.api.letsencrypt.org
+172.65.32.248                                ca80a1adb12a4fbdac5ffcbc944e9a61.pacloudflare.com
+172.65.64.17     409   cloudflare            visa.net
+172.65.64.17     409   cloudflare            visa.net
+172.65.64.50     301   cloudflare            paytm.com
+172.65.64.50     301   cloudflare            paytm.com
+172.65.90.10     301   cloudflare            www.paytm.com
+172.65.90.9      301   cloudflare            www.paytm.com
+172.65.90.9      301   cloudflare            www.paytm.com
+172.65.90.9      301   cloudflare            www.paytm.com
+172.65.90.9      409   cloudflare            www.paytm.com.cdn.cloudflare.net
+172.65.90.11     409   cloudflare            www.paytm.com.cdn.cloudflare.net
+172.65.90.11     409   cloudflare            www.paytm.com.cdn.cloudflare.net
+23.82.12.37      302   nginx                 dibamoviez.pro
+23.82.12.37      302   nginx                 dibamoviez.pro
+172.65.90.10     409   cloudflare            www.paytm.com.cdn.cloudflare.net
+172.65.192.225   307                         whois.publicdomainregistry.com
+172.65.192.225   307                         whois.kuwaitnet.net
+172.65.192.225   403                         whois.myorderbox.com
+34.101.238.40    308                         bakingworld.id
+172.65.192.225   403                         whois.myorderbox.com
+34.101.238.40    308                         bakingworld.id
+172.65.207.41                                cybvpn20.ovo.id
+172.65.207.41                                cybvpn20.ovo.id.cdn.cloudflare.net
+172.65.207.41                                d400a30a92d44e71b9d1c081e817bd10.pacloudflare.com
+172.65.192.225   403                         4fd940b1a0064c72a7f19665a3b99c4f.pacloudflare.com
+172.65.192.225   403                         4fd940b1a0064c72a7f19665a3b99c4f.pacloudflare.com
+172.65.208.22    404   cloudflare            js-eu1.hs-scripts.com
+172.65.208.22    302   cloudflare            api-fra04-origin.spectrum.hs-scripts.com
+172.65.208.22    403   cloudflare            2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
+3.214.78.252                                 qa.tableau.corp.zoom.us

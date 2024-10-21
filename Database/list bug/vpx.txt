@@ -1,0 +1,19 @@
+Host
+uk1.hostip.us
+Username
+vpnhack-kokkomet
+Password
+123
+Created
+17 Apr 2022
+Expired
+24 Apr 2022
+Port
+80
+Port TLS
+443
+UDPGW
+range (7000-7900)
+Payload
+
+GET / HTTP/1.1[crlf]Host: uk1.hostip.us[crlf]Upgrade: websocket[crlf][crlf]

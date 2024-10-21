@@ -1,0 +1,280 @@
+112.31.161.128 = NOT FOUND
+
+191.77.110.232 = NOT FOUND
+
+16.120.160.42 = NOT FOUND
+
+187.116.175.151 = ip-187-116-175-151.user.vivozap.com.br.
+
+ lynx.vivo.com.br.
+
+ aquarius.vivo.com.br.
+
+ hercules.vivo.com.br.
+
+ orion.vivo.com.br
+
+160.129.189.140 = NOT FOUND
+
+152.70.122.86 = NOT FOUND
+
+191.198.62.167 = 191-198-62-167.user.vivozap.com.br.
+
+ lynx.vivo.com.br.
+
+ aquarius.vivo.com.br.
+
+ hercules.vivo.com.br.
+
+ orion.vivo.com.br
+
+252.122.221.195 = NOT FOUND
+
+207.25.255.234 = NOT FOUND
+
+49.197.112.7 = pa49-197-112-7.pa.qld.optusnet.com.au
+
+248.207.157.30 = NOT FOUND
+
+194.125.160.72 = NOT FOUND
+
+185.191.55.233 = NOT FOUND
+
+164.181.12.100 = NOT FOUND
+
+238.228.203.105 = NOT FOUND
+
+22.96.70.192 = NOT FOUND
+
+225.102.68.43 = NOT FOUND
+
+40.108.50.220 = NOT FOUND
+
+99.146.120.173 = 99-146-120-173.lightspeed.jcsnms.sbcglobal.net.
+
+ ns10a.attdns.net.
+
+ ns10b.attdns.net
+
+205.127.75.235 = NOT FOUND
+
+130.26.205.68 = NOT FOUND
+
+195.29.93.136 = NOT FOUND
+
+33.201.150.51 = NOT FOUND
+
+158.23.88.67 = NOT FOUND
+
+171.21.1.250 = NOT FOUND
+
+42.18.141.239 = NOT FOUND
+
+147.242.221.55 = NOT FOUND
+
+98.251.168.39 = c-98-251-168-39.hsd1.ms.comcast.net
+
+106.115.107.65 = NOT FOUND
+
+232.212.128.92 = NOT FOUND
+
+176.217.224.121 = NOT FOUND
+
+246.139.194.65 = NOT FOUND
+
+247.3.247.207 = NOT FOUND
+
+222.155.170.36 = 222-155-170-36-vdsl.sparkbb.co.nz.
+
+ ns5.netgate.net.nz.
+
+ ns4.netgate.net.nz
+
+189.205.65.49 = bb-sym-189-205-65-49.mexdf.static.axtel.net.
+
+ ns-mex.axtel.net.
+
+ ns-mty.axtel.net.
+
+ ns-gdl.axtel.net
+
+201.240.100.163 = client-201.240.100.163.speedy.net.pe.
+
+ huandoy.tdp.net.pe.
+
+ huascaran.tdp.net.pe
+
+153.110.188.233 = tietoevry-owned-address-153-110-188-x.hidden-host.tietoevry.com.
+
+ ns.ripe.net.
+
+ ns4.edb.com.
+
+ ns1.edb.com.
+
+ ns.edb.com.
+
+ ns2.edb.com
+
+250.227.170.233 = NOT FOUND
+
+238.116.37.147 = NOT FOUND
+
+167.182.210.79 = NOT FOUND
+
+94.91.246.210 = host-94-91-246-210.business.telecomitalia.it.
+
+ dns10.interbusiness.it.
+
+ dnst3.interbusiness.it
+
+78.41.150.16 = NOT FOUND
+
+101.142.186.198 = 101-142-186-198f1.hyg2.eonet.ne.jp.
+
+ ns1.eonet.ne.jp.
+
+ ns7.eonet.ne.jp
+
+255.214.18.72 = NOT FOUND
+
+53.160.107.0 = NOT FOUND
+
+41.201.236.175 = NOT FOUND
+
+116.138.178.142 = NOT FOUND
+
+162.70.122.189 = NOT FOUND
+
+117.242.245.242 = NOT FOUND
+
+116.190.64.57 = NOT FOUND
+
+4.206.207.33 = NOT FOUND
+
+123.204.143.81 = 123-204-143-81.adsl.dynamic.seed.net.tw
+
+8.249.14.69 = NOT FOUND
+
+246.52.131.217 = NOT FOUND
+
+209.162.11.250 = h250.11.162.209.static.ip.windstream.net
+
+209.254.24.122 = NOT FOUND
+
+5.35.71.226 = NOT FOUND
+
+239.131.17.20 = NOT FOUND
+
+220.10.120.60 = softbank220010120060.bbtec.net.
+
+ ns002.bbtec.net.
+
+ ns001.bbtec.net
+
+24.69.27.118 = NOT FOUND
+
+93.180.254.79 = NOT FOUND
+
+81.196.208.97 = NOT FOUND
+
+139.178.234.162 = NOT FOUND
+
+109.84.235.226 = ip-109-84-235-226.web.vodafone.de
+
+115.79.4.136 = adsl.viettel.vn.
+
+ dns2.vietel.com.vn.
+
+ dns1.vietel.com.vn
+
+245.213.73.159 = NOT FOUND
+
+70.170.126.221 = ip70-170-126-221.lv.lv.cox.net.
+
+ ns.west.cox.net.
+
+ ns.east.cox.net.
+
+ ns.cox.net
+
+1.207.247.15 = NOT FOUND
+
+70.71.233.74 = S0106a84e3f4f0193.vs.shawcable.net.
+
+ pd1ns2.cv.gv.shawcable.net.
+
+ pd1ns1.st.vc.shawcable.net
+
+207.161.230.160 = wnpgmb0614w-ds01-161-230-160.dynamic.bellmts.net
+
+35.65.179.102 = NOT FOUND
+
+3.190.183.135 = NOT FOUND
+
+54.133.210.248 = NOT FOUND
+
+246.56.18.101 = NOT FOUND
+
+75.146.41.219 = 75-146-41-219-Minnesota.hfc.comcastbusiness.net
+
+170.190.173.178 = NOT FOUND
+
+46.197.42.137 = NOT FOUND
+
+166.149.141.142 = 142.sub-166-149-141.myvzw.com
+
+197.123.90.253 = host-197.123.90.253.etisalat.com.eg.
+
+ DNS03.etisalat.com.eg.
+
+ DNS04.etisalat.com.eg
+
+207.186.69.79 = NOT FOUND
+
+140.184.224.164 = NOT FOUND
+
+56.76.115.132 = NOT FOUND
+
+244.79.67.219 = NOT FOUND
+
+254.116.61.227 = NOT FOUND
+
+29.232.187.3 = NOT FOUND
+
+48.191.58.19 = NOT FOUND
+
+143.50.142.174 = NOT FOUND
+
+114.186.111.112 = i114-186-111-112.s41.a002.ap.plala.or.jp
+
+203.38.104.84 = NOT FOUND
+
+16.40.48.227 = NOT FOUND
+
+248.31.169.54 = NOT FOUND
+
+131.143.20.231 = NOT FOUND
+
+230.195.141.226 = NOT FOUND
+
+221.241.20.90 = 221x241x20x90.ap221.ftth.ucom.ne.jp.
+
+ ns02.usen.ad.jp.
+
+ ns01.usen.ad.jp.
+
+ ns03.usen.ad.jp
+
+199.74.31.70 = NOT FOUND
+
+14.85.233.175 = NOT FOUND
+
+234.179.82.111 = NOT FOUND
+
+182.225.51.223 = NOT FOUND
+
+150.225.126.95 = NOT FOUND
+
+18.137.54.214 = NOT FOUND
+

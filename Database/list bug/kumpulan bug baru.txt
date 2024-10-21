@@ -1,0 +1,877 @@
+host             code  server                hostname
+----             ----  ------                --------
+172.64.153.92    301   cloudflare            about.gitlab.com
+104.18.8.118     301   cloudflare            accounts.taylorfrancis.com
+104.26.7.249     301   cloudflare            adminlte.io
+54.191.104.221   301   awselb/2.0            adminrules.utah.gov
+23.205.249.148   301   AkamaiGHost           access.redhat.com
+167.99.233.229   301   Apache                admin.writerbay.com
+35.209.7.161     301   nginx                 allusesof.com
+192.0.78.12      301   nginx                 angelinebruce.wordpress.com
+23.205.249.136   301   AkamaiGHost           ads.tiktok.com
+192.0.78.13      301   nginx                 anifatulmuslikhah.wordpress.com
+192.0.78.13      301   nginx                 lb.wordpress.com
+34.210.61.201    301   awselb/2.0            DAS-eRules-LoadBalancer-PROD-1640876119.us-west-2.elb.amazonaws.com
+192.0.78.12      301   nginx                 lb.wordpress.com
+23.205.249.153   400   AkamaiGHost           access.redhat.com2.edgekey.net
+34.120.156.39    308                         app.writer.com
+34.120.156.39    308                         envoy5.writer.com
+23.205.249.153   400   AkamaiGHost           access.redhat.com2.edgekey.net.globalredir.akadns.net
+23.7.183.252     301   AkamaiGHost           answers.microsoft.com
+185.199.108.153  301   GitHub.com            app.dododex.com
+104.26.4.130     301   cloudflare            appuals.com
+23.205.249.153   400   AkamaiGHost           e40408.dsca.akamaiedge.net
+23.205.249.163   400   AkamaiGHost           ads.tiktok.com.edgekey.net
+35.71.175.187    200   Apache/2.4.46 (Ubuntu)  admin.tellychakkar.com
+199.232.208.194  301                         ark.fandom.com
+104.18.37.100    301   cloudflare            askubuntu.com
+23.7.183.252     400   AkamaiGHost           answers.microsoft.com-v1.edgekey.net
+199.232.212.194  301   Varnish               fandom.com
+3.122.161.239    301   awselb/2.0            answers.sap.com
+185.199.111.153  301   GitHub.com            dododex.github.io
+20.216.31.235    301   Microsoft-Azure-Application-Gateway/v2  alliedschools.edu.pk
+23.205.249.135   400   AkamaiGHost           e35058.a.akamaiedge.net
+104.16.216.241   301   cloudflare            auth0.com
+162.159.130.67   403   cloudflare            au.indeed.com
+23.7.183.252     400   AkamaiGHost           e13362.dscb.akamaiedge.net
+65.8.248.116     301   CloudFront            assets.openstax.org
+65.8.243.113     301   CloudFront            authorservices.wiley.com
+172.67.128.103   301   cloudflare            azuredevopsguide.com
+18.160.137.213   301   CloudFront            aws.amazon.com
+65.8.243.65      301   CloudFront            d1tl16r8qug24g.cloudfront.net
+18.154.101.127   301   CloudFront            biteable.com
+141.94.253.98    302   nginx                 arkids.net
+157.240.22.19    301   proxygen-bolt         auth.meta.com
+18.160.137.213   403   CloudFront            tp.8e49140c2-frontier.amazon.com
+104.21.47.179    301   cloudflare            azid45.web.id
+45.33.54.93      301   nginx/1.12.1 (Ubuntu)  blog.bit.ai
+199.60.103.30    301   cloudflare            blog.airbrake.io
+18.160.137.213   301   CloudFront            dr49lng3n1n2s.cloudfront.net
+157.240.22.19    301   proxygen-bolt         star.c10r.facebook.com
+199.60.103.226   301   cloudflare            7307809.group9.sites.hubspot.net
+104.18.24.151    301   cloudflare            blog.mdpi.com
+199.60.103.30    301   cloudflare            blog.hubspot.com
+35.190.42.71     301                         blog-cdn.reedsy.com
+172.67.40.17     301   cloudflare            blog.logrocket.com
+162.159.130.53   301   cloudflare            blog.postman.com
+3.125.71.166     301   awselb/2.0            sap.cloud.answerhub.com
+104.21.14.201    301   cloudflare            blog.jongallant.com
+199.60.103.226   301   cloudflare            53.group3.sites.hubspot.net
+35.190.42.71     301                         blog.reedsy.com
+67.227.187.55    301   Microsoft-IIS/10.0    blog.skolera.com
+199.60.103.226   404   cloudflare            group9.sites.hscoscdn00.net
+64.227.7.169     301   nginx                 blogvault.net
+54.87.151.58     301   awselb/2.0            booklife.com
+54.84.98.106     200   Pagely-ARES/1.20.1    bookriot.com
+104.22.37.73     301   cloudflare            c-sharpcorner.com
+173.222.164.26   301   daiquiri/3.0.0        books.apple.com
+199.60.103.226   404   cloudflare            group3.sites.hscoscdn00.net
+13.33.252.34     301   CloudFront            careers.humana.com
+18.156.127.204   301   awselb/2.0            alb-sap-prod-1874437400.eu-central-1.elb.amazonaws.com
+13.33.252.102    403   CloudFront            humana.cdn.findly.com
+76.223.34.124    301   EasyRedir             caa.co.uk
+104.26.15.13     301   cloudflare            cdn.windowsreport.com
+104.18.11.41     301   cloudflare            cdn.wpbeginner.com
+3.233.160.221    301   awselb/2.0            careers.marshmclennan.com
+5.134.13.59      301   LiteSpeed             cambridgescholars.com
+13.33.252.91     301   CloudFront            d3et8aol9tzhez.cloudfront.net
+104.18.11.41     301   cloudflare            cdn4.wpbeginner.com
+104.18.11.41     301   cloudflare            cdn2.wpbeginner.com
+104.18.69.32     301   cloudflare            clutch.co
+23.185.0.3       301   Varnish               clarivate.com
+104.16.167.76    301   cloudflare            code.tutsplus.com
+173.222.164.26   400   AkamaiGHost           itunes-cdn.itunes-apple.com.akadns.net
+13.107.246.66    307                         code.visualstudio.com
+172.64.146.174   301   cloudflare            codecanyon.net
+54.88.84.232     301   awselb/2.0            mmc.phenompeople.com
+13.107.213.66    307                         afd-vscode-site-fd-prod-dvgdfjcmaka5a3fq.z01.azurefd.net
+172.67.172.236   301   cloudflare            codeastro.com
+13.107.213.66    400                         star-azurefd-prod.trafficmanager.net
+13.107.213.66    400                         shed.dual-low.part-0038.t-0009.t-msedge.net
+13.107.213.66    404                         part-0038.t-0009.t-msedge.net
+173.222.164.26   400   AkamaiGHost           itunes.apple.com.edgekey.net
+104.26.5.130     301   cloudflare            cdn.appuals.com
+54.88.84.232     301   awselb/2.0            hubsite-prod4-1716089184.us-east-1.elb.amazonaws.com
+198.143.164.111  301   nginx                 codex.wordpress.org
+173.222.164.26   400   AkamaiGHost           e673.dsce9.akamaiedge.net
+18.160.143.30    301   CloudFront            community.cisco.com
+18.160.143.112   301   CloudFront            kxiwq67737.lithium.com
+184.105.99.75    301                         community.postman.com
+18.160.143.124   301   CloudFront            d112c4pn2buf7x.cloudfront.net
+13.33.252.93     301   CloudFront            confluence.atlassian.com
+104.18.13.170    301   cloudflare            connecteam.com
+184.105.99.75    200                         getpostman.hosted-by-discourse.com
+13.33.252.100    301   CloudFront            confluence.prd.cst.atlassian.com
+45.60.11.212     301   nginx/1.25.3          community.spiceworks.com
+172.67.184.132   301   cloudflare            consultingsuccess.com
+76.76.21.21      308   Vercel                copyfol.io
+172.67.189.212   301   cloudflare            codewithawa.com
+13.33.252.45     301   CloudFront            d3lzof3wnsn9tm.cloudfront.net
+192.0.78.24      301   nginx                 critis2021.org
+100.20.193.230   301   nginx                 cowboystatedaily.com
+104.18.34.73     301   cloudflare            css-tricks.com
+45.60.11.212     301   nginx/1.25.3          6396l.x.incapdns.net
+172.67.202.207   301   cloudflare            cssauthor.com
+104.20.151.16    302   cloudflare            creativecommons.org
+18.160.143.83    403   CloudFront            dds.ca.gov
+151.101.130.217  301   Varnish               dev.to
+34.68.105.172    301   nginx                 dashboard.pantheon.io
+104.192.138.11   301   envoy                 developer.atlassian.com
+65.8.243.126     301   CloudFront            developer.okta.com
+15.222.186.137   301   nginx                 codewithmukesh.com
+65.8.243.114     301   CloudFront            d28m3l9ryqsunl.cloudfront.net
+104.192.138.10   301   envoy                 dac.services.atlassian.com
+34.68.105.172    301   nginx                 hermes.production.general-01.us-central1.internal.k8s.pantheon.io
+151.101.2.132    200   nginx                 code.djangoproject.com
+198.143.164.252  301   nginx                 developer.wordpress.org
+151.101.194.132  500   Varnish               dualstack.j.sni.global.fastly.net
+104.26.2.225     301   cloudflare            dgraph.io
+198.143.164.252  301   nginx                 wordpress.org
+164.119.176.120  302                         dhhs.ne.gov
+162.159.137.232  301   cloudflare            discord.com
+185.199.111.153  200   GitHub.com            developers.adobetarget.com
+34.111.97.67     301                         developer.mozilla.org
+145.131.16.19    301   Apache/2              business-to-you.com
+34.111.97.67     301                         mdn.prod.mdn.prod.webservices.mozgcp.net
+185.199.108.153  301   GitHub.com            adobe-target.github.io
+104.17.212.81    301   cloudflare            discuss.codecademy.com
+52.148.72.153    301   Microsoft-Azure-Application-Gateway/v2  deped.gov.ph
+104.17.33.82     302   cloudflare            discordpy.readthedocs.io
+23.203.80.205    301   AkamaiGHost           discussions.apple.com
+54.174.181.241   301   nginx                 dictionary.cambridge.org
+104.26.1.86      301   cloudflare            djmag.com
+104.26.6.243     301   cloudflare            docs.abp.io
+151.101.2.132    302   nginx                 docs.djangoproject.com
+192.30.252.154   301   GitHub.com            django-rest-framework.org
+108.156.201.104  301   CloudFront            docs.gitea.com
+185.199.109.154  301   Varnish               docs.github.com
+104.17.32.82     302   cloudflare            django-import-export.readthedocs.io
+13.33.252.4      301   CloudFront            docs.druva.com
+172.67.221.237   301   cloudflare            docs.lbphone.com
+13.33.252.29     301   CloudFront            d3ktwg2568ku79.cloudfront.net
+35.185.44.232    301                         docs.gitlab.com
+18.160.143.117   301   CloudFront            docs.strapi.io
+54.174.181.241   301   nginx                 prod.cdo.pitchleads.com
+23.203.80.205    400   AkamaiGHost           discussions.apple.com.edgekey.net
+104.198.14.52    301   Netlify               docs.nestjs.com
+54.204.215.92    301   nginx                 documenter.getpostman.com
+104.18.75.58     301   cloudflare            elementor.com
+23.203.80.205    400   AkamaiGHost           e4233.a.akamaiedge.net
+44.198.237.10    301   awselb/2.0            dzone.com
+54.83.1.28       301   nginx                 documenter.getpostman.com.cdn.cloudflare.net
+15.222.186.137   301   nginx                 dotnettutorials.net
+162.159.152.23   301   cloudflare            emailanalytics.com
+151.101.194.217  301   Varnish               elifesciences.org
+104.26.5.67      301   cloudflare            emeraldgrouppublishing.com
+104.26.3.203     301   cloudflare            economicsdiscussion.net
+198.35.26.96     301   HAProxy               en.wikipedia.org
+3.233.45.128     301   nginx                 pm-documenter-ui-prod.us-east-1.elasticbeanstalk.com
+198.35.26.96     301   HAProxy               dyna.wikimedia.org
+3.33.194.234     302   awselb/2.0            endo.okta.com
+13.232.180.57    301   Apache/2.4.29 (Ubuntu)  dookinternational.com
+35.244.153.44    200   nginx                 erinwrightwriting.com
+15.197.253.65    302   awselb/2.0            ok4-crtrs.tng.okta.com
+216.40.34.41                                 eternal.li
+15.197.253.65    302   awselb/2.0            ok4-crtrs.oktaedge.okta.com
+165.224.128.227  302   BigIP                 eric.ed.gov
+52.167.10.121    301   nginx                 experienceleague.adobe.com
+108.156.201.30   301   CloudFront            experienceleaguecommunities.adobe.com
+104.21.92.214    301   cloudflare            employer.writersadmin.com
+15.197.253.65    302   awselb/2.0            a904c371d9946c759.awsglobalaccelerator.com
+40.86.99.80      301                         fabric.microsoft.com
+108.156.201.78   301   CloudFront            skucn57933.lithium.com
+192.0.72.3       301   nginx                 files.wordpress.com
+172.66.41.23     301   cloudflare            fitsmallbusiness.com
+95.107.129.85    301   nginx                 erru.al
+108.156.201.72   301   CloudFront            d206x6l2uzkj8f.cloudfront.net
+40.86.99.80      301                         app.powerbi.com
+172.67.68.87     301   cloudflare            forum.directadmin.com
+54.231.132.101   301   AmazonS3              flourishsoftware.com
+104.18.22.52     301   cloudflare            fontawesome.com
+165.224.128.227  302   BigIP                 eric.ed.gov.qipservices.com
+40.86.99.80      404                         app.privatelink.analysis.windows.net
+104.21.20.78     301   cloudflare            fs-code.com
+50.18.142.31     301   Netlify               ghost.org
+142.251.2.82     302                         gerrit-review.googlesource.com
+40.86.99.80      404                         997de1ee-c405-4364-8b90-eb6f601a6af2.trafficmanager.net
+104.18.34.171    301   cloudflare            forum.cfx.re
+140.82.113.3     301                         gist.github.com
+172.67.74.113    403   cloudflare            glints.com
+140.82.113.3     301                         github.com
+40.86.99.80      301                         app-pbi-wfe-us-central-a-primary.pbi-wfe-us-central-a-primary-ase.p.azurewebsites.net
+76.76.21.21      308   Vercel                globalcyclingnetwork.com
+140.82.113.3     301                         github.com
+40.86.99.80      404                         waws-prod-dm1-2629a37e.sip.p.azurewebsites.windows.net
+172.64.150.70    301   cloudflare            god.postman.co
+93.125.99.60     403   nginx                 freefrontend.com
+104.18.37.186    409   cloudflare            god.postman.co.cdn.cloudflare.net
+50.18.142.31     301   Netlify               gohugo.io
+40.86.99.80      404                         waws-prod-dm1-2629a37e.cloudapp.net
+34.120.177.193   301   nginx                 grafana.com
+104.17.32.82     302   cloudflare            glpi-user-documentation.readthedocs.io
+18.160.143.17    301   CloudFront            hbr.org
+104.16.53.111    301   cloudflare            help.calendly.com
+104.16.51.111    301   cloudflare            calendly.zendesk.com
+35.169.50.49     403                         grantprofessionals.org
+104.26.8.237     301   cloudflare            hackertarget.com
+206.223.184.15   301   nginx                 hclib.bibliocommons.com
+104.16.51.111    301   cloudflare            help.figma.com
+69.192.139.216   301                         fsapartners.ed.gov
+104.16.53.111    301   cloudflare            figma.zendesk.com
+192.124.249.153  301   Sucuri/Cloudproxy     hometownticketing.com
+52.20.216.200    301   Apache                help.servicedeskplus.com
+161.253.208.22   302   Microsoft-IIS/10.0    himmelfarb.gwu.edu
+172.64.147.70    301   cloudflare            hostinger.co.id
+104.22.79.243    301   cloudflare            hubstaff.com
+146.75.92.193    301   cat factory 1.0       i.imgur.com
+23.206.188.146   301                         help.salesforce.com
+18.232.8.125     301   Apache                sdp.helpdocsonline.com
+146.75.92.193    500   Varnish               ipv4.imgur.map.fastly.net
+151.101.1.91     301                         id.wikihow.com
+91.189.91.48     301                         help.ubuntu.com
+151.101.193.91   500   Varnish               n.sni.global.fastly.net
+23.206.188.164   403   AkamaiGHost           help.salesforce.com.00d30000000xsfgeas.live.siteforce.com
+35.199.177.33    403   nginx                 ieeeauthorcenter.ieee.org
+208.91.198.231   406   Apache                ijip.in
+35.199.177.33    301   nginx                 ieeeauthor.wpengine.com
+140.98.222.90    302   BigIP                 ieeecps.org
+185.125.190.18   204   nginx/1.14.0 (Ubuntu)  is-content-cache.canonical.com
+164.92.106.210   301   nginx/1.18.0 (Ubuntu)  ipropertymanagement.com
+172.67.143.19    301   cloudflare            it-jurnal.com
+23.206.188.164   400   AkamaiGHost           sdc.prod.communities.salesforce.cdn.edgekey.net
+23.206.188.164   400   AkamaiGHost           e78038.dsca.akamaiedge.net
+192.0.78.25      301   nginx                 jetpack.com
+103.29.195.64    301   nginx                 health.gov.au
+172.64.149.198   301   cloudflare            jobstreet.co.id
+91.107.204.20    301   nginx/1.18.0          ipcamlive.com
+104.247.81.51    200   nginx                 journals.ie
+45.76.151.120    301   nginx                 itkoding.com
+44.215.118.254   301   Server                kdp.amazon.com
+76.76.21.21      308   Vercel                justdjango.com
+13.107.246.66    301                         ke.linkedin.com
+13.107.213.66    404                         cctld.linkedin.com
+14.139.116.12    302   Apache                inflibnet.ac.in
+72.247.96.32     403   AkamaiGHost           kb.vmware.com
+13.107.213.66    404                         cctld-d8ene4cje6dfh5g8.z01.azurefd.net
+72.247.96.32     400   AkamaiGHost           ikb.cdnswitch.vmware.com
+45.194.1.4       302   Apache                dilg.gov.ph
+72.247.96.32     400   AkamaiGHost           s751x.vmware.com.edgekey.net
+72.247.96.32     400   AkamaiGHost           e751.dsca.akamaiedge.net
+103.165.248.88   302                         kemenkeu.go.id
+103.7.13.247     302                         kemenag.go.id
+67.202.92.9      301   LiteSpeed             kindlepreneur.com
+104.18.40.206    301   cloudflare            kinsta.com
+202.70.136.4     302   BigIP                 kemkes.go.id
+182.253.210.116  301   Microsoft-IIS/7.0     geoservices.co.id
+103.87.196.106   302   BigIP                 kemnaker.go.id
+104.21.30.111    301   cloudflare            kompunesia.com
+172.66.43.171    301   cloudflare            laravel-news.com
+213.138.102.156  302   Apache                kohastaffclient.freshfields.com
+3.98.12.230      301   Apache/2.4.39 (Ubuntu)  lawtimesjournal.in
+104.22.1.126     301   cloudflare            laravel.com
+13.33.252.59     301   CloudFront            learn.org
+23.195.34.36     301   AkamaiGHost           learn.microsoft.com
+180.232.96.170   302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16  lawphil.net
+172.66.40.109    301   cloudflare            learndjango.com
+108.156.201.64   301   CloudFront            learning.postman.com
+172.66.43.185    301   cloudflare            lessons.com
+18.154.101.98    301   CloudFront            leverageedu.com
+141.193.213.10   301   cloudflare            lf3.ca
+23.195.34.36     400   AkamaiGHost           learn-public.trafficmanager.net
+3.86.37.148      301   nginx                 libguides.umgc.edu
+54.85.246.96     301   nginx                 region-us.libguides.com
+23.195.34.36     400   AkamaiGHost           learn.microsoft.com.edgekey.net
+129.137.4.228    301   BigIP                 libraries.uc.edu
+23.195.34.36     400   AkamaiGHost           learn.microsoft.com.edgekey.net.globalredir.akadns.net
+151.101.0.95     301   Oscar Platform 0.732.0  link.springer.com
+23.195.34.36     400   AkamaiGHost           e13636.dscb.akamaiedge.net
+129.137.4.228    301   BigIP                 www.libraries.uc.edu
+23.222.5.137     301   AkamaiGHost           local10.com
+129.137.4.228    301   BigIP                 libraries.gtm.uc.edu
+172.64.150.186   301   cloudflare            login.circle.so
+151.101.64.95    404   Varnish               geo-gcp.cdn.springernature.io
+65.8.243.62      301   CloudFront            login.okta.com
+151.101.192.95   500   Varnish               springer2.map.fastly.net
+65.8.243.25      301   CloudFront            d37qf8t9pe6csu.cloudfront.net
+104.119.87.228   301   AkamaiGHost           mailchimp.com
+104.22.59.125    301   cloudflare            managers.org.uk
+172.66.43.89     301   cloudflare            marketbusinessnews.com
+52.88.93.130     301   awselb/2.0            manuscriptcentral.com
+162.159.152.4    301   cloudflare            medium.com
+172.67.72.155    301   cloudflare            marketing91.com
+18.160.143.36    301   CloudFront            merriam-webster.com
+199.232.208.194  301                         minecraft.fandom.com
+52.24.114.181    308   openresty/1.15.8.1    music.empi.re
+35.160.190.133   308   openresty/1.15.8.1    ffm.to
+104.21.34.92     301   cloudflare            networkstraining.com
+172.67.206.64    200   cloudflare            myhrservices.mncgroup.com
+172.64.152.250   301   cloudflare            niagahoster.co.id
+130.14.16.110    301   BigIP                 nlm.nih.gov
+146.75.94.208    200   Varnish               nova-live.imgix.net
+146.75.94.208    500   Varnish               dualstack.com.imgix.map.fastly.net
+173.245.58.100   301   cloudflare            ns.cloudflare.com
+141.193.213.20   403   cloudflare            nursejournal.org
+43.152.182.31    404                         news.cgtn.com
+45.60.31.104     307   nginx                 myaccount.ingramspark.com
+45.60.31.104     307   nginx                 yr7zqjw.x.incapdns.net
+43.152.182.30    404   Lego Server           news.cgtn.com.cdn.dnsv1.com
+192.0.66.32      301   nginx                 nypost.com
+104.26.11.64     301   cloudflare            nysba.org
+54.88.35.99      301   nginx                 nyulaw.libguides.com
+43.152.183.30    404   Lego Server           488928.ovslegodl-dk.sched.ovscdns.com
+104.21.51.31     301   cloudflare            ofamni.com
+104.18.42.211    403   cloudflare            officialgazette.gov.ph
+162.159.136.54   301   cloudflare            ofzenandcomputing.com
+13.33.252.97     301   CloudFront            oklahoma.gov
+141.193.213.11   301   cloudflare            oidgov.wpenginepowered.com
+172.64.149.62    301   cloudflare            okok.tebex.io
+104.18.4.78      301   cloudflare            one.oecd.org
+104.18.5.78      409   cloudflare            one.oecd.org.cdn.cloudflare.net
+162.159.129.87   301   cloudflare            onlinelibrary.wiley.com
+103.145.226.120  301   LiteSpeed             kirimmurah.co.id
+65.8.243.32      301   CloudFront            openstax.org
+122.55.183.137                               judiciary.gov.ph
+128.210.7.200    301   BigIP                 owl.purdue.edu
+35.230.4.135     403   nginx                 oxygenbuilder.com
+172.67.73.198    301   cloudflare            paraphrasing-tool.com
+185.128.239.44   301                         over-blog.com
+185.199.110.153  301   GitHub.com            peazip.github.io
+44.205.141.215   301   awselb/2.0            peerj.com
+118.98.227.101                               kemdikbud.go.id
+76.76.21.21      308   Vercel                plainenglish.io
+172.64.155.82    301   cloudflare            pnp.gov.ph
+104.26.14.6      403   cloudflare            pna.gov.ph
+68.178.230.37    301   Apache                phpgurukul.com
+3.133.45.92      308                         poetryfoundation.org
+185.199.110.153  301   GitHub.com            portapps.io
+54.188.32.0      301   nginx                 positivepsychology.com
+159.60.132.149   301   volt-adc              pntr.gov.ph
+185.199.111.153  301   GitHub.com            pratikborsadiya.in
+13.248.165.67    302   awselb/2.0            pret.okta.com
+103.6.34.109     200   Apache                onesearch.id
+222.124.128.251                              kejaksaan.go.id
+172.66.43.156    301   cloudflare            projectgurukul.org
+173.212.233.185  301   nginx                 postalblogs.com
+104.21.60.220    301   cloudflare            prometheus.io
+76.223.42.213    302   awselb/2.0            ok6-crtrs.tng.okta.com
+23.59.105.141                                learnenglishteens.britishcouncil.org
+76.223.42.213    302   awselb/2.0            ok6-crtrs.oktaedge.okta.com
+52.220.37.1      301   awselb/2.0            pricebook.co.id
+23.59.105.141    400   AkamaiGHost           learnenglishteens.britishcouncil.org.edgekey.net
+76.223.42.213    302   awselb/2.0            ae52e19d4a7095f43.awsglobalaccelerator.com
+13.215.71.147    308   Caddy                 public.orderonline.id
+104.21.23.75     301   cloudflare            pronto.com.au
+151.101.2.228    301   Varnish               publichealth.columbia.edu
+45.60.77.135     301                         publish.acs.org
+151.101.194.228  500   Varnish               advcdn-pantheon.map.fastly.net
+23.59.105.141    400   AkamaiGHost           e1359.a.akamaiedge.net
+45.60.77.135     301                         ifr6pjj.x.incapdns.net
+52.43.165.68     301   Apache                publichealthonline.org
+151.101.128.223  301   Varnish               pypi.org
+197.138.40.13    302                         president.go.ke
+104.19.148.56    301   cloudflare            qodeinteractive.com
+104.26.5.31      301   cloudflare            publishpress.com
+104.17.187.102   301   cloudflare            quizlet.com
+151.101.0.223    301   Varnish               python.org
+23.205.198.213   301   AkamaiGHost           railroads.dot.gov
+104.21.14.57     301   cloudflare            pureinfotech.com
+104.26.11.31     301   cloudflare            rencanamu.id
+104.17.163.47    301   cloudflare            resources.workable.com
+78.25.196.229                                pubs.rsc.org
+34.200.197.253   301   nginx                 reolink.com
+192.124.249.65   301   Sucuri/Cloudproxy     rivco.org
+23.205.198.213   400   AkamaiGHost           www.fra.dot.gov.edgekey.net
+23.205.198.213   400   AkamaiGHost           e7202.dsca.akamaiedge.net
+104.26.3.28      302   cloudflare            resumeworded.com
+52.151.17.250    301                         rules.ok.gov
+52.151.17.250    301                         oklahoma-tec-webclient.azurewebsites.net
+52.151.17.250    404                         ssl.oklahoma-tec-webclient.azurewebsites.net
+35.204.196.185   301   nginx                 rudrastyh.com
+203.82.46.187    301   Apache                pids.gov.ph
+65.8.243.95      301   CloudFront            savvasrealize.com
+172.67.180.156   301   cloudflare            salesforcecody.com
+163.53.192.59    302   Apache                riau.go.id
+40.70.24.86      302   Apache                sde.ok.gov
+103.28.12.79     301   LiteSpeed             romeltea.com
+185.237.144.169  301   LiteSpeed             recoveryharddiskcenter.com
+104.86.91.45     404   AkamaiNetStorage      s.bingparachute.com
+198.37.120.194   301   Apache                securitycamcenter.com
+80.72.4.133      302   BigIP                 secure.urkund.com
+104.26.0.153     301   cloudflare            self-publishingschool.com
+162.159.130.67   403   cloudflare            sg.indeed.com
+52.236.26.215    302                         sdpauth.sabis.net
+104.86.91.45     400   AkamaiGHost           s.bingparachute.com.edgekey.net
+172.64.144.30    301   cloudflare            softwareengineering.stackexchange.com
+54.177.145.149   301   Netlify               smashingmagazine.com
+104.86.91.45     400   AkamaiGHost           e14705.g.akamaiedge.net
+104.198.14.52    301   Netlify               soundcharts.com
+160.153.0.135    403   cloudflare            spirithouseyoga.com
+172.67.72.8      403   cloudflare            ssofficelocation.com
+172.64.155.249   301   cloudflare            stackoverflow.com
+140.90.113.200                               nws.noaa.gov
+52.236.26.215    302                         app971686.prod.cudawaas.com
+172.217.12.1     301   GSE                   starbuckscannediced.blogspot.com
+172.217.12.1     404   sffe                  blogspot.l.googleusercontent.com
+217.79.253.3     301   nginx                 sra.gov.ph
+18.154.101.25    301   CloudFront            strapi.io
+40.76.153.40     403                         store.jamanetwork.com
+52.236.26.215    302                         waas-prod-app-7dd9915c710de27a4f2386eebf6296aa.trafficmanager.net
+104.18.43.79     301   cloudflare            superuser.com
+172.67.134.99    403   cloudflare            studycorgi.com
+18.154.101.46    301   CloudFront            support.atlassian.com
+104.16.51.111    301   cloudflare            support.box.com
+104.16.53.111    301   cloudflare            box.zendesk.com
+18.154.101.93    301   CloudFront            d2syvrqnug8n8q.cloudfront.net
+162.159.135.232  301   cloudflare            support.discord.com
+156.38.250.164   301   Apache                sdp.edu.za
+104.16.53.111    301   cloudflare            support.postman.com
+52.236.26.215    302                         waasprod-app-e6416b94ba09b43f78e49af67f18c508.northeurope.cloudapp.azure.com
+34.83.58.24      302   Apache/2.4.46 (Unix) OpenSSL/1.1.1n  support.neat.no
+104.16.51.111    301   cloudflare            postman.zendesk.com
+104.18.38.186    301   cloudflare            support.servicenow.com
+172.64.149.70    409   cloudflare            support.servicenow.com.cdn.cloudflare.net
+104.17.83.54     301   cloudflare            teachable.com
+172.67.15.107    301   cloudflare            securityboulevard.com
+104.18.119.61    403   cloudflare            teambuilding.com
+40.84.54.203     301                         t.bingparachute.com
+104.21.94.75     403   cloudflare            techgenix.com
+13.110.52.11     301   sfdcedge              support.docusign.com
+13.110.52.8      403   sfdcedge              support.docusign.com.00d300000000bs4eai.live.siteforce.com
+104.26.5.251     301   cloudflare            symfony.com
+40.84.54.203     301                         bingparachute.trafficmanager.net
+13.110.52.9      403   sfdcedge              1p.edge2.salesforce.com
+192.124.249.8    301   Sucuri/Cloudproxy     theedinburghreporter.co.uk
+149.154.167.99   302   nginx/1.18.0          telegram.org
+192.0.66.199     301   nginx                 theintercept.com
+40.84.54.203     301                         bingparachute-east.azurewebsites.net
+13.110.52.9      403   sfdcedge              phoenix-1p.edge2.salesforce.com
+104.21.27.153    308   cloudflare            themefisher.com
+104.22.10.148    301   cloudflare            thebookerprizes.com
+172.64.144.180   301   cloudflare            themeforest.net
+13.110.52.9      403   sfdcedge              ph2.edge2.salesforce.com
+34.149.120.3     301   nginx                 theitbros.com
+40.84.54.203     404                         waws-prod-bn1-031.vip.azurewebsites.windows.net
+104.18.120.61    403   cloudflare            themeisle.com
+104.26.9.113     301   cloudflare            themes.artbees.net
+40.84.54.203     404                         waws-prod-bn1-031.eastus2.cloudapp.azure.com
+51.81.187.244    200   nginx/1.18.0 (Ubuntu)  tucsonfestivalofbooks.org
+104.244.42.1     301   tsa_p                 twitter.com
+192.0.78.24      301   nginx                 ukconstitutionallaw.org
+151.101.0.95     301   Oscar Platform 0.1130.0  translational-medicine.biomedcentral.com
+35.214.97.192    301   nginx                 stdavidspartnership.co.uk
+23.229.236.65    200   Apache                un-documents.net
+108.156.201.45   301   CloudFront            unacademy.com
+13.33.252.42     301   CloudFront            upcity.com
+52.88.12.211     302   nginx/1.25.2          up.co
+198.35.26.112    301   HAProxy               upload.wikimedia.org
+151.101.2.133    301                         us.sagepub.com
+151.101.194.133  500   Varnish               sage-publishing.map.fastly.net
+213.239.234.118  307   Apache/2.4            tortoisegit.org
+69.161.147.4     301   Apache                theworldshapers.com
+172.67.75.8      308   cloudflare            uteach.io
+54.144.41.209    301   Apache                visual-paradigm.com
+202.92.131.119   301   nginx                 upd.edu.ph
+172.67.131.33    301   cloudflare            virtualizationhowto.com
+104.22.53.71     403   cloudflare            wallpapercave.com
+34.214.65.117    301   Apache/2.4.39 (Ubuntu)  w3schools.io
+104.21.72.171    301   cloudflare            waitbutwhy.com
+18.154.101.127   301   CloudFront            weareindy.com
+89.248.58.105    302                         virtual-college.co.uk
+104.21.12.53     301   cloudflare            weusewp.com
+74.120.184.204   404   envoy                 wikia.nocookie.net
+34.226.171.217   302   Apache/2.4.56 (Amazon) PHP/7.0.33  who.is
+162.241.216.47   406   Apache                wildrosepress.com
+65.67.214.178    307   Microsoft-IIS/10.0    veterans.cherokee.org
+13.32.27.64      301   CloudFront            weblium.com
+172.67.72.119    301   cloudflare            windowsreport.com
+68.183.112.81    301   nginx                 winaero.com
+192.0.78.17      301   nginx                 wordpress.com
+104.18.43.226    301   cloudflare            wordpress.stackexchange.com
+172.66.43.56     301   cloudflare            wp-tweaks.com
+203.130.48.144   301   Tengine/unknown       wondershare.co.id
+65.67.214.178    404   Microsoft-IIS/10.0    data.cherokee.org
+108.61.245.217   301   nginx-rc              wpauthorbox.com
+45.63.74.5       200   nginx                 wpclipboard.com
+104.26.4.37      301   cloudflare            wpastra.com
+172.66.43.142    301   cloudflare            wpdatatables.com
+70.184.26.61                                 public.osla.org
+172.67.128.15    403   cloudflare            wperp.com
+35.184.101.9     301   nginx                 wpdeveloper.com
+104.17.157.82    301   cloudflare            wpmudev.com
+172.67.144.222   301   cloudflare            woshub.com
+104.26.15.108    301   cloudflare            writedom.com
+155.138.215.110  301   LiteSpeed             wplift.com
+104.26.15.229    301   cloudflare            wpshout.com
+172.67.197.233   301   cloudflare            writersadmin.co.ke
+44.231.217.234   301   nginx/1.18.0 (Ubuntu)  wpthinker.com
+78.46.91.52      200   LiteSpeed             wanago.io
+108.156.201.34   301   CloudFront            www.aapc.com
+18.160.143.121   301   CloudFront            www.aarp.org
+20.116.171.242   302                         www.aaos.org
+18.160.143.65    301   CloudFront            d1zgzk3orzfncb.cloudfront.net
+104.21.92.214    301   cloudflare            writer.writersadmin.com
+104.21.92.214    301   cloudflare            writersadmin.com
+69.49.227.114    406   Apache                www.aijbm.com
+20.116.171.242   302                         app979964.prod.cudawaas.com
+172.66.43.165    301   cloudflare            www.aje.com
+69.49.227.114    406   Apache                aijbm.com
+104.21.18.230    403   cloudflare            www.alitajran.com
+104.17.171.119   301   cloudflare            www.apartmentguide.com
+104.26.4.189     301   cloudflare            www.alphr.com
+62.171.145.119   301   nginx                 writers.co.ke
+20.116.171.242   302                         waas-prod-app-70d613131d151f8ad04f35ef2bb0c27b.trafficmanager.net
+54.177.145.149   301   Netlify               www.apollographql.com
+20.116.171.242   302                         waasprod-app-a9558322f2439b6245a8f18ab6e229c3.canadacentral.cloudapp.azure.com
+34.211.4.137     301   awselb/2.0            www.appgate.com
+54.67.4.46       404   Netlify               apollo.netlifyglobalcdn.com
+35.162.198.177   301   awselb/2.0            appgate-web-alb-1847436644.us-west-2.elb.amazonaws.com
+3.212.25.176     301   nginx                 www.arts.gov
+172.66.40.248    301   cloudflare            www.baeldung.com
+202.157.187.131  301   nginx/1.10.3          www.agoaga.com
+104.18.36.82     301   cloudflare            www.axios.com
+103.167.82.220   301                         www.aplikasipc.com
+172.64.151.174   409   cloudflare            www.axios.com.cdn.cloudflare.net
+104.196.221.200  403   nginx                 www.authorsolutions.com
+104.21.58.176    301   cloudflare            www.beehexa.com
+104.234.25.138   301                         aplikasipc.com
+151.101.0.81     302   BBC-GTM               www.bbc.com
+23.236.97.62     301   Tengine               www.bilibili.com
+104.196.221.200  403   nginx                 authsolution.wpengine.com
+172.67.219.214   301   cloudflare            www.bezkoder.com
+23.236.97.62     403   Tengine               a.w.bilicdn1.com
+151.101.64.81    500   Varnish               www.bbc.com.pri.bbc.com
+104.21.38.71     409   cloudflare            www.bezkoder.com.cdn.cloudflare.net
+74.205.76.31     301   nginx                 www.bluecompassrv.com
+151.101.192.81   500   Varnish               bbc.map.fastly.net
+23.236.97.62     403   Tengine               i.w.bilicdn1.com
+104.18.32.115    301   cloudflare            www.bmj.com
+23.4.62.106      403   AkamaiGHost           www.bls.gov
+172.64.155.141   409   cloudflare            www.bmj.com.cdn.cloudflare.net
+74.205.76.31     301   nginx                 bluecompassrv.com
+192.0.66.165     301   nginx                 www.brookings.edu
+192.0.66.165     301   nginx                 brookings-edu-2023.go-vip.net
+104.18.5.110     301   cloudflare            www.britannica.com
+104.18.4.110     409   cloudflare            www.britannica.com.cdn.cloudflare.net
+23.4.62.106      400   AkamaiGHost           www.bls.gov.edgekey.net
+104.17.239.159   301   cloudflare            www.canva.com
+35.209.132.209   301   nginx                 www.ccaomaha.com
+23.4.62.106      400   AkamaiGHost           e6329.dsca.akamaiedge.net
+104.17.46.19     301   cloudflare            www.businessbloomer.com
+18.160.143.13    301   CloudFront            www.chegg.com
+13.33.252.68     301   nginx                 www.cfl.ca
+139.59.87.216    301   nginx                 www.bookgeeks.in
+18.160.143.119   301   CloudFront            d2574m2fu60ngq.cloudfront.net
+13.33.252.42     502                         d3ham790trbkqy.cloudfront.net
+23.59.109.220    301   AkamaiGHost           www.cisco.com
+52.87.25.136     301   Apache                www.cleancss.com
+23.59.109.220    400   AkamaiGHost           www.cisco.com.akadns.net
+172.64.146.135   301   cloudflare            www.cloudways.com
+46.101.13.115    301   nginx                 www.bootstrapdash.com
+104.18.41.121    409   cloudflare            www.cloudways.com.cdn.cloudflare.net
+54.144.152.254   301   Apache                danstools-env.gyi3jvtkkv.us-east-1.elasticbeanstalk.com
+151.101.3.5      301   Varnish               www.cnn.com
+35.209.132.209   301   nginx                 ccaomaha.com
+65.55.106.177                                staging-bing-int.com
+151.101.195.5    500   Varnish               cnn-tls.map.fastly.net
+172.67.150.155   301   cloudflare            www.collectiveray.com
+23.59.109.220    400   AkamaiGHost           wwwds.cisco.com.edgekey.net
+209.58.134.168   301   nginx                 www.comparitech.com
+104.26.11.19     301   cloudflare            www.contentpowered.com
+3.141.129.220    301   awselb/2.0            www.columbuslibrary.org
+34.139.16.160    403   nginx                 www.cognia.org
+18.160.143.104   301   CloudFront            www.coursera.org
+23.59.109.220    400   AkamaiGHost           wwwds.cisco.com.edgekey.net.globalredir.akadns.net
+34.139.16.160    301   nginx                 cogniaprod.wpengine.com
+18.160.143.84    301   CloudFront            www-cloudfront-alias.coursera.org
+141.193.213.21   403   cloudflare            www.csgi.com
+172.66.41.10     301   cloudflare            www.cssigniter.com
+172.217.12.19    301   GSE                   www.contohblog.com
+23.59.109.220    400   AkamaiGHost           e2867.dsca.akamaiedge.net
+172.217.12.19    404   ghs                   ghs.google.com
+192.0.66.2       301   nginx                 www.denverpost.com
+141.193.213.20   404   cloudflare            ne7indoiil26.wpeproxy.com
+157.230.67.210   308                         www.deliveryrank.com
+104.18.155.42    301   cloudflare            www.digitalocean.com
+172.67.29.47     301   cloudflare            www.designrush.com
+104.26.3.23      301   cloudflare            www.diskpart.com
+172.67.68.242    301   cloudflare            www.dllme.com
+104.18.1.17      301   cloudflare            www.dovepress.com
+104.21.19.37     301   cloudflare            www.databasestar.com
+203.190.242.211  301                         www.detik.com
+18.154.101.117   301   CloudFront            www.easybib.com
+104.18.19.71     301   cloudflare            www.easeus.com
+104.18.18.71     409   cloudflare            www.cdn.c82f9fad.recovery-soft.com
+23.185.0.3       301   Varnish               www.ebsco.com
+15.222.186.137   301   Apache                www.compuhoy.com
+104.18.18.71     409   cloudflare            www.easeus.com.cdn.cloudflare.net
+194.233.94.215   301   nginx                 www.diskop.id
+18.160.143.27    301   CloudFront            www.editage.com
+18.154.101.18    301   awselb/2.0            www.edureka.co
+99.83.174.136    302   awselb/2.0            www.ecfr.gov
+18.160.143.3     301   CloudFront            dfpv4t59pjoqc.cloudfront.net
+104.17.136.62    301   cloudflare            www.elegantthemes.com
+65.8.243.88      301   CloudFront            www.enago.com
+103.49.221.211   301                         detik.com
+104.16.57.61     301   cloudflare            www.elsevier.com
+104.16.58.61     409   cloudflare            www.elsevier.com.cdn.cloudflare.net
+40.88.241.154    308                         www.eeoc.gov
+108.156.201.103  301   CloudFront            www.datapine.com
+157.240.22.35    301   proxygen-bolt         www.facebook.com
+157.240.22.35    301   proxygen-bolt         star-mini.c10r.facebook.com
+23.203.82.122    301   AkamaiGHost           www.faa.gov
+108.156.201.69   301   CloudFront            d3vr1eo9c1vh1h.cloudfront.net
+194.233.94.215   301   nginx                 diskop.id
+104.119.67.7     301   AkamaiGHost           www.ets.org
+104.26.3.33      301   cloudflare            www.freecodecamp.org
+40.88.241.154    404                         www.azurems.eeoc.gov
+199.231.164.68   301   Apache                www.faqs.org
+104.119.67.7     400   AkamaiGHost           www.ets.org.edgekey.net
+23.203.82.122    400   AkamaiGHost           www.faa.gov.edgekey.net
+23.7.30.205      403   AkamaiGHost           www.fcc.gov
+199.231.164.68   301   Apache                faqs.org
+104.119.67.7     400   AkamaiGHost           e4656.x.akamaiedge.net
+23.203.82.122    400   AkamaiGHost           e4694.dsca.akamaiedge.net
+137.215.10.220                               up.ac.za
+18.154.101.76    301   CloudFront            www.geeksforgeeks.org
+23.7.30.205      301   AkamaiGHost           www.fcc.gov.edgekey.net
+13.107.246.66    302                         www.frontiersin.org
+13.107.213.66    302                         haproxy-journal-prod-d8f7ewe9abhycvdd.z01.azurefd.net
+18.154.101.39    301   CloudFront            ezskubbdsrjhnfo-cdn1.geeksforgeeks.org
+104.26.3.198     403   cloudflare            www.getastra.com
+23.7.30.205      400   AkamaiGHost           e4909.dscb.akamaiedge.net
+18.154.101.42    301   CloudFront            d1t2f3swasxi04.cloudfront.net
+172.66.43.167    301   cloudflare            www.goodfirms.co
+31.172.113.33    301   Apache                www.freelancermap.com
+23.205.249.139   301   AkamaiGHost           www.globenewswire.com
+172.67.207.183   301   cloudflare            www.greatguysmovers.com
+104.16.164.242   302   cloudflare            www.govinfo.gov
+52.20.182.63     301   awselb/2.0            www.grammarly.com
+199.16.172.180   301   nginx                 www.guidingtech.com
+104.22.55.134    301   cloudflare            www.greengeeks.com
+199.16.173.94    301   nginx                 guidingtech.com
+172.66.40.145    301   cloudflare            www.hashmicro.com
+23.81.204.138    301   Apache                www.handyrecovery.com
+23.205.249.163   400   AkamaiGHost           www.globenewswire.com.edgekey.net
+172.64.147.13    301   cloudflare            www.hindawi.com
+151.101.2.168    301   Varnish               www.history.com
+23.205.249.163   400   AkamaiGHost           e68143.dsca.akamaiedge.net
+104.119.75.251   301                         www.hhs.gov
+151.101.194.168  500   Varnish               http2.aenet.map.fastly.net
+104.18.114.100   308   cloudflare            www.hostinger.com
+104.18.113.100   409   cloudflare            www.hostinger.com.cdn.cloudflare.net
+3.222.102.97     301   nginx                 www.howtogeek.com
+104.119.75.251   400   AkamaiGHost           www.hhs.gov.edgekey.net
+151.101.1.54     301   Varnish               www.inc.com
+162.159.130.67   403   cloudflare            www.indeed.com
+65.201.147.216   302   BigIP                 www.icmje.org
+151.101.193.54   500   Varnish               mansueto.map.fastly.net
+104.119.75.251   400   AkamaiGHost           e8604.dscx.akamaiedge.net
+172.217.164.19   301   GSE                   www.gurnulis.id
+104.26.3.233     301   cloudflare            www.itechguides.com
+103.93.130.148   301   nginx                 www.hipwee.com
+104.21.22.242    301   cloudflare            www.javatpoint.com
+104.26.15.15     301   cloudflare            www.joomla.org
+15.222.186.137   301   Apache/2.4.39 (Ubuntu)  www.itsolutionstuff.com
+104.26.13.63     301   cloudflare            www.jkrowling.com
+104.21.33.69     301   cloudflare            www.kindacode.com
+65.8.243.46      301   CloudFront            www.kompas.com
+45.60.241.38     200   Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.6.40 mod_perl/2.0.11 Perl/v5.16.3  www.inderscience.com
+46.137.203.157   301   istio-envoy           www.ireader.mobi
+18.154.101.58    301   CloudFront            www.kompasiana.com
+18.154.101.49    301   CloudFront            d3qe0gxyk0h5nb.cloudfront.net
+103.93.130.148   301   nginx                 hipwee.com
+207.148.70.165   301   nginx                 www.kitapunya.net
+104.18.12.102    301   cloudflare            www.lexology.com
+104.16.247.226   301   cloudflare            www.liebertpub.com
+45.60.241.38     200   Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.6.40 mod_perl/2.0.11 Perl/v5.16.3  kpu7rp7.impervadns.net
+45.14.68.7       301   nginx                 www.ki
+104.25.108.109   301   cloudflare            www.lifehack.org
+151.101.2.137    301   Varnish               www.lifewire.com
+46.137.203.157   404   istio-envoy           kubernetes-gateway-prod-public-90477f5100ff93c9.elb.ap-southeast-1.amazonaws.com
+151.101.194.137  500   Varnish               k.sni.global.fastly.net
+13.107.42.14     200                         www.linkedin.com
+13.107.42.14     400                         www-linkedin-com.l-0005.l-msedge.net
+13.107.42.14     400                         l-0005.l-msedge.net
+54.157.137.27    301   nginx                 www.makeuseof.com
+207.148.70.165   301   nginx                 kitapunya.net
+136.143.186.18   301   ZGS                   www.manageengine.com
+54.157.137.27    301   nginx                 makeuseof.com
+63.67.29.7                                   www.aidvantage.com
+18.154.101.115   301   CloudFront            www.marcobehler.com
+104.18.24.151    301   cloudflare            www.mdpi.com
+136.143.186.18   301   ZGS                   mesite.zohocdn.com
+108.156.201.101  301   CloudFront            www.mheducation.com
+54.67.4.46       301   Netlify               www.mightynetworks.com
+23.195.34.40     200   AkamaiNetStorage      www.microsoft.com
+23.195.34.40     400   AkamaiGHost           www.microsoft.com-c-3.edgekey.net
+108.156.201.116  301   CloudFront            www-prod.ecom-ady.prod.mheducation.com
+54.177.145.149   404   Netlify               mightynetworks.netlifyglobalcdn.com
+13.33.252.28     301   CloudFront            www.mindtools.com
+13.33.252.11     301   CloudFront            ewnova.live
+104.18.21.178    301   cloudflare            www.minitool.com
+104.21.31.239    301   cloudflare            www.lawctopus.com
+13.33.252.116    301   CloudFront            www.monster.com
+151.106.119.89   301   LiteSpeed             www.linovhr.com
+23.185.0.2       301   Varnish               www.nber.org
+23.195.34.40     400   AkamaiGHost           www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net
+13.33.252.91     403   CloudFront            www.nxtprod.monster.com
+172.64.144.185   301   cloudflare            www.nerdwallet.com
+104.18.43.71     409   cloudflare            www.nerdwallet.com.cdn.cloudflare.net
+151.101.1.91     308   Varnish               www.newsnationnow.com
+23.195.34.40     400   AkamaiGHost           e13678.dscb.akamaiedge.net
+151.101.65.91    308   Varnish               newsnationnow.com
+151.101.130.216  301   Varnish               www.nrdc.org
+151.101.66.216   500   Varnish               zlfyzv3nutv64.edge.platform.sh
+45.13.255.202    301   LiteSpeed             www.murdockcruz.com
+23.7.16.127      301   AkamaiGHost           www.npr.org
+23.7.16.127      400   AkamaiGHost           www.npr.org.edgekey.net
+172.67.165.232   301   cloudflare            www.malasngoding.com
+104.119.82.172   301   awselb/2.0            www.nyc.gov
+23.7.16.127      400   AkamaiGHost           e4437.dscf.akamaiedge.net
+151.101.1.164    301   Varnish               www.nytimes.com
+65.8.66.13       301   CloudFront            www.oklahoma.gov
+151.101.65.164   301   Varnish               www.prd.map.nytimes.com
+104.119.82.172   400   AkamaiGHost           www.nyc.gov.edgekey.net
+151.101.129.164  500   Varnish               www.prd.map.nytimes.xovr.nyt.net
+104.119.82.172   400   AkamaiGHost           e5376.dscb.akamaiedge.net
+151.101.193.164  500   Varnish               nytimes.map.fastly.net
+156.110.247.18   301   BigIP                 www.ou.edu
+151.106.119.89   301   LiteSpeed             linovhr.com
+45.13.255.202    301   LiteSpeed             murdockcruz.com
+152.46.6.153     301   nginx/1.20.1          www.onetonline.org
+18.154.101.77    301   CloudFront            www.overwolf.com
+52.224.33.14     301   Microsoft-Azure-Application-Gateway/v2  www.overdrive.com
+35.212.126.23    301   nginx                 www.outranking.io
+18.154.101.72    301   CloudFront            d9izjqopfltbj.cloudfront.net
+18.160.143.2     301   CloudFront            www.pcbway.com
+104.18.20.161    301   cloudflare            www.partitionwizard.com
+18.160.143.13    301   CloudFront            d25vi99hrr4hy8.cloudfront.net
+52.224.33.14     301   Microsoft-Azure-Application-Gateway/v2  wwwprod-east-us-tm.trafficmanager.net
+159.89.245.10    301   nginx                 www.noc.edu
+172.67.191.182   301   cloudflare            www.petanikode.com
+52.224.33.14     301   Microsoft-Azure-Application-Gateway/v2  odcom1-appgw.eastus.cloudapp.azure.com
+34.36.65.190     301                         www.pinhome.id
+52.213.102.45    301                         www.oxfordreference.com
+172.217.0.83     301   ESF                   www.petesawin.com
+104.119.74.186   301   AkamaiGHost           www.pearson.com
+172.217.0.83     404   ghs                   ghs.googlehosted.com
+104.119.74.186   400   AkamaiGHost           wildcard.pearson.com.edgekey.net
+54.170.40.178    301                         prod-euwest1.oupprod.pubfactory.com
+104.21.92.112    200   cloudflare            www.pistar.uk
+162.159.129.53   301   cloudflare            www.postman.com
+104.119.74.186   400   AkamaiGHost           e290.x.akamaiedge.net
+104.21.86.189    301   cloudflare            www.philatlas.com
+217.196.149.50   301   Varnish               www.postgresql.org
+184.106.1.3      301                         www.progress.com
+76.76.21.123     308   Vercel                www.presscleaners.com
+162.159.153.247  308   cloudflare            www.quora.com
+162.159.152.17   409   cloudflare            www.quora.com.cdn.cloudflare.net
+76.76.21.61      308   Vercel                cname.vercel-dns.com
+76.76.21.21      308   Vercel                www.realcartips.com
+52.84.150.44     301   CloudFront            www.rappler.com
+104.22.0.7       301   cloudflare            www.rapidseedbox.com
+151.101.1.140    301   snooserv              www.reddit.com
+52.84.150.55     301   CloudFront            rappler.altis.cloud
+151.101.193.140  500   Varnish               reddit.map.fastly.net
+104.17.32.105    301   cloudflare            www.researchgate.net
+104.17.33.105    409   cloudflare            www.researchgate.net.cdn.cloudflare.net
+87.238.57.232    301   Varnish               www.mirrors.postgresql.org
+141.193.213.11   403   cloudflare            www.reutersagency.com
+23.37.105.122    301   AkamaiGHost           www.redhat.com
+141.193.213.10   302   cloudflare            wp.wpenginepowered.com
+78.25.196.148    301                         www.rsc.org
+23.37.105.122    400   AkamaiGHost           ds-www.redhat.com.edgekey.net
+23.222.27.49     301                         www.ruangguru.com
+65.8.66.26       200   Apache                www.saasguru.co
+23.37.105.122    400   AkamaiGHost           ds-www.redhat.com.edgekey.net.globalredir.akadns.net
+23.37.105.122    400   AkamaiGHost           e3396.dscx.akamaiedge.net
+162.241.214.89   301   Apache                www.oksbdc.org
+34.238.20.227    301   awselb/2.0            www.sae.org
+23.222.27.62     400   AkamaiGHost           www.ruangguru.com-v1.edgesuite.net
+108.156.201.51   301   CloudFront            www.sba.gov
+162.159.136.70   403   cloudflare            www.sciencedirect.com
+104.26.11.225    301   cloudflare            www.rumahweb.com
+104.16.191.240   403   cloudflare            www.scopus.com
+104.16.190.240   409   cloudflare            www.scopus.com.cdn.cloudflare.net
+23.222.27.62     400   AkamaiGHost           a652.dscb.akamai.net
+152.199.1.111    301   ECD (laa/7B3A)        www.seagate.com
+104.26.4.190     301   cloudflare            www.scribbr.com
+104.26.4.61      301   cloudflare            www.seedprod.com
+152.199.1.111    404   ECD (laa/7B3A)        fp28be.cc.adn.53D6F.sigmacdn.net
+152.199.1.111    404   ECD (laa/7B3A)        fp28be.cc.adn.sigmacdn.net
+18.160.143.8     301   CloudFront            www.sitepoint.com
+18.160.143.114   301   CloudFront            d3127enrb2eeow.cloudfront.net
+50.18.219.144    301   openresty             www.studocu.com
+23.194.127.164   301                         www.st.com
+13.57.148.141    301   Netlify               www.submittable.com
+194.163.41.128   301   LiteSpeed             www.sepoin.com
+50.18.142.31     301   Netlify               www-submittable-com.netlify.com
+104.18.39.123    301   cloudflare            www.tandfonline.com
+23.194.127.183   400   AkamaiGHost           www.st.com.edgekey.net
+172.67.130.226   301   cloudflare            www.techiediaries.com
+135.148.30.37    301   nginx                 www.supereasy.com
+104.21.43.2      200   cloudflare            www.skoolbeep.com
+104.18.11.102    301   cloudflare            www.template.net
+162.241.214.89   301   Apache                oksbdc.org
+151.101.1.111    301                         www.theguardian.com
+23.205.207.232   301   AkamaiGHost           www.techwalla.com
+104.16.193.46    301   cloudflare            www.themuse.com
+151.101.193.111  500   Varnish               dualstack.guardian.map.fastly.net
+172.67.171.46    301   cloudflare            www.thepoorcoder.com
+104.26.10.55     301   cloudflare            www.thewindowsclub.com
+151.101.2.137    301   Varnish               www.thoughtco.com
+212.72.130.138                               www.ge
+172.67.135.180   301   cloudflare            www.toolsqa.com
+141.193.213.11   403   cloudflare            www.thelumberbaron.com
+13.33.252.108    301   CloudFront            www.topresume.com
+23.194.127.183   400   AkamaiGHost           www.st.com.edgekey.net.globalredir.akadns.net
+172.67.141.33    301   cloudflare            www.tutsmake.com
+13.33.252.127    301   CloudFront            topresume.com
+104.18.90.237    301   cloudflare            www.upwork.com
+54.163.83.196    301   awselb/2.0            www.unomaha.edu
+13.33.252.21     301   CloudFront            www.usa.gov
+23.45.40.210     301   AkamaiGHost           www.usda.gov
+23.194.127.183   400   AkamaiGHost           e40218.b.akamaiedge.net
+13.33.252.51     403   CloudFront            www.usa.gov.external-domains-production.cloud.gov
+52.3.45.81       301   awselb/2.0            its-nu-shared-resources-web-1280481595.us-east-1.elb.amazonaws.com
+23.45.40.210     400   AkamaiGHost           1280.usda.gov.edgekey.net
+23.45.40.210     400   AkamaiGHost           e1280.dscb.akamaiedge.net
+193.138.94.114   302                         www.unodc.org
+23.205.199.69    403   AkamaiGHost           www.veritas.com
+141.193.213.10   301   cloudflare            thelumberbaron.com
+193.203.179.68   301   LiteSpeed             www.veteranstoday.com
+50.18.215.94     301   Netlify               www.vojtechruzicka.com
+192.0.66.168     301   nginx                 www.whitehouse.gov
+151.101.2.114    301   Varnish               www.windowscentral.com
+192.0.66.168     301   nginx                 wh46.go-vip.net
+151.101.1.91     301                         www.wikihow.com
+193.201.34.118   302                         www.vertabelo.com
+151.101.194.114  500   Varnish               g.sni.global.fastly.net
+23.205.199.69    400   AkamaiGHost           www.veritas.com.edgekey.net
+18.160.143.111   301   CloudFront            www.wordfence.com
+104.22.71.161    301   cloudflare            www.wordstream.com
+63.67.29.7                                   aidvantage.com
+104.18.10.41     301   cloudflare            www.wpbeginner.com
+47.90.13.101     301   nginx/1.16.1          www.ventoy.net
+23.205.199.69    400   AkamaiGHost           e1511.a.akamaiedge.net
+157.230.239.206  301   Apache                www.writerbay.com
+143.244.38.136   301   BunnyCDN-UK1-886      www.wintips.org
+13.33.252.39     301   CloudFront            www.wtbox.com
+35.82.155.34     302   Microsoft-IIS/10.0    www.writersdomain.net
+193.201.34.118   302                         vertabelo.com
+151.101.2.132    301   Varnish               www.yesware.com
+151.101.194.132  500   Varnish               j.sni.global.fastly.net
+157.230.239.206  301   Apache                writerbay.com
+18.160.143.43    301   CloudFront            www.zipjob.com
+52.88.167.61     302   Microsoft-IIS/10.0    writersdomain-473665889.us-west-2.elb.amazonaws.com
+18.160.143.40    301   CloudFront            zipjob.com
+172.217.12.14    301   ESF                   www.youtube.com
+35.185.237.72    301   nginx                 www.zippia.com
+193.5.93.80      301   Apache                www.wipo.int
+204.141.42.155   301   ZGS                   www.zoho.com
+198.54.121.189   301   LiteSpeed             ypp.ng
+206.223.184.15   301   nginx                 ylpl.bibliocommons.com
+143.244.38.136   301   BunnyCDN-UK1-886      wintips.b-cdn.net
+172.217.0.78     404                         youtube-ui.l.google.com
+184.27.156.252   301   AkamaiGHost           zety.com
+204.141.42.155   301   ZGS                   gsite.zohocdn.com

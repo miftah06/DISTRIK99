@@ -1,0 +1,119 @@
+host             code  server                hostname
+----             ----  ------                --------
+23.227.38.65     302   cloudflare            slot-anti-rungkad.baxterofcalifornia.com
+201.116.58.36    200   Apache/2.4.25 (Debian)  www.iztacalco.cdmx.gob.mx
+185.199.109.153  200   GitHub.com            mahkotaslot.ruby-no-kai.org
+104.21.78.23     301   cloudflare            queenjanedayspa.com
+104.21.3.135     301   cloudflare            hochatownlodge.com
+172.67.163.121   301   cloudflare            www.stjosephhealthcenter.com
+172.67.154.55    301   cloudflare            www.midchinaoysterbayny.com
+38.11.85.26      404   Apache                jltsv.watchworldwide.net
+104.21.10.229    200   cloudflare            losarcosmexicanrestaurante.com
+104.26.7.234     301   cloudflare            www.campspizza.com
+104.21.83.108    301   cloudflare            emmystimeouttavern.com
+104.21.10.82     301   cloudflare            www.thaistaunton.com
+172.67.175.43    301   cloudflare            www.drdavidchangmd.com
+36.66.194.162    200   Apache/2.4.7 (Ubuntu)  bagum3c.malangkab.go.id
+104.21.12.66     301   cloudflare            carbondenver.com
+172.67.205.42    301   cloudflare            mwlawca.com
+108.179.230.163  406   Apache                thehappycafeonforest.com
+104.21.48.185    301   cloudflare            www.pizzagianna.com
+182.255.2.105    302                         sister.undip.ac.id
+104.21.77.162    301   cloudflare            www.lechateauderilly.com
+104.21.29.71     301   cloudflare            lacandelanewyork.com
+104.21.36.214    301   cloudflare            myfavoriteplacemexicanfood.com
+172.67.161.24    301   cloudflare            www.startuponly.com
+45.76.183.240    301   nginx                 www.ferrosfamousnypizza.com
+172.67.174.23    301   cloudflare            sanfordlakebarandgrills.com
+205.185.216.42   404                         caspersuper.sgp1.cdn.digitaloceanspaces.com
+205.185.216.10   301   cloudflare            cds.b5g9b8e4.hwcdn.net
+104.21.78.80     200   cloudflare            www.briarpatchrestaurant.com
+172.67.212.235   301   cloudflare            www.unavainabienspanish.com
+103.186.0.62     200   nginx/1.18.0 (Ubuntu)  sister.una.ac.id
+45.76.183.240    301   nginx                 ferrosfamousnypizza.com
+104.21.48.46     301   cloudflare            www.healthcareforallwa.org
+127.0.0.1                                    slot303.alorkab.go.id
+104.21.46.56     301   cloudflare            www.eddiessince1955.com
+103.23.244.101   301   nginx                 student.upi.edu
+104.21.4.242     403   cloudflare            xn--42caajbbabafy7a7f5btky2hhcd0bjbb9c2bzeg1a1fi2l.com
+103.242.78.2     301   nginx                 perisai.unmuhjember.ac.id
+104.21.71.139    301   cloudflare            www.vandijktoys.nl
+104.21.46.144    301   cloudflare            grykopol.pl
+103.120.218.101  301   Apache                disnaker.pasuruankab.go.id
+199.34.229.100   404   Apache                fmen.people.ua.edu
+195.201.174.111  302   Apache                hoteldulys.com
+162.0.213.124    200   nginx                 slot-server-thailand.diskopumkm.karangasemkab.go.id
+121.123.29.55    301   Apache                fict.utar.edu.my
+103.155.105.1    301   Apache                smartcity.wonosobokab.go.id
+103.94.3.125     301   nginx                 disarpus.padangpariamankab.go.id
+104.21.27.176    301   cloudflare            www.multiculturalresourcecenter.org
+104.21.46.253    301   cloudflare            jyotilife.com
+172.67.72.173    200   cloudflare            pafisumbawabarat.org
+36.89.66.180     301   Apache/2.4.54 (cPanel) OpenSSL/1.1.1q mod_bwlimited/1.4 PHP/5.5.38  inspektorat.sambas.go.id
+103.163.138.13   301   LiteSpeed             akfarsam.ac.id
+81.2.195.31      301   Apache                www.mestovracov.cz
+104.21.86.131    403   cloudflare            permindok.org
+216.218.206.62   301   Apache                isucabagan.edu.ph
+104.26.10.229    301   cloudflare            www.cafiresci.org
+172.67.160.105   301   cloudflare            www.cyclocrossfayettevillear2022.com
+89.117.27.210    301   LiteSpeed             eurobench2020.eu
+104.21.53.162    200   cloudflare            www.skidefondcharlesbourg.com
+172.67.218.182   301   cloudflare            www.publicotapandkitchenatl.com
+172.67.153.12    301   cloudflare            koko138-login.centauruscloud.io
+185.82.93.54     302   Apache/2.4.18 (Ubuntu)  lithuania.travel
+36.66.172.247                                36.66.172.247
+172.67.222.198   301   cloudflare            wvedtk.agro-stan.com.pl
+216.239.32.177   301   GSE                   groups.google.com
+45.148.121.166   200                         toto4d.poltekkes-manado.ac.id
+216.239.38.177   404                         groups-alv.google.com
+103.140.206.13   301   nginx                 puskesbarat1.singkawangkota.go.id
+104.21.70.16     301   cloudflare            bulldogpizzaandgrill.com
+110.164.169.42   200   Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.11  thaime.nesdc.go.th
+99.84.252.110    301   CloudFront            currentaffairs.adda247.com
+99.84.252.28     301   CloudFront            dbktcrj6e741n.cloudfront.net
+63.250.41.143    200   Apache                joker-gaming-slot.stituwjombang.ac.id
+104.26.3.131     301   cloudflare            www.dvleap.org
+104.22.43.210    301   cloudflare            www.mumsnet.com
+192.53.112.99    200   Apache                pg-slot.marancar.tapselkab.go.id
+185.88.181.8     301   nginx                 www.xvideos.com
+15.235.192.12    200   LiteSpeed             rokokbet.pn.smansapa.sch.id
+103.131.51.24    301   LiteSpeed             dprd.pesawarankab.go.id
+172.67.217.48    301   cloudflare            www.lacasaca.com
+104.21.74.86     301   cloudflare            www.ghanahostels.org
+104.17.199.96    301   cloudflare            www.ghanaweb.com
+172.67.139.104   301   cloudflare            fossilcreekhotel.com
+104.21.89.154    301   cloudflare            starfiregrillrestaurant.com
+185.88.181.2     301   nginx                 xvideos.com
+217.21.73.75     200   LiteSpeed             inapras.org
+91.222.174.17    200   nginx                 gilaslot88.smkmuhmajenang.sch.id
+195.201.60.60    301   LiteSpeed             guldbech.dk
+199.188.206.63   301   LiteSpeed             joyfulculinarycreations.com
+107.6.184.126    301                         enfermeriadermatologica.org
+172.67.189.156   301   cloudflare            www.ambrosiaindiancuisine.com
+172.67.201.13    403   cloudflare            antiblokir-sistem-war138.org
+172.67.216.215   301   cloudflare            bubalacafe.com
+172.67.206.184   301   cloudflare            www.galandsmc.org
+162.0.229.141    301   LiteSpeed             www.thaidinerandsushi.com
+103.8.238.245                                ppid.sumbawabaratkab.go.id
+104.21.70.88     301   cloudflare            sinslot.org
+172.67.134.59    301   cloudflare            lotus-bet88krenzz.com
+38.180.5.110     301   nginx                 38.180.5.110
+104.21.27.127    301   cloudflare            cuan138z.io
+162.0.229.141    301   LiteSpeed             thaidinerandsushi.com
+184.168.111.168  200   Apache                www.angelsmexicanrestaurantsc.com
+103.129.221.29   200   Apache                sirintik.tapinkab.go.id
+103.134.152.2    302   LiteSpeed             femfest.unida.gontor.ac.id
+222.124.128.250  301   nginx                 kejari-gowa.kejaksaan.go.id
+172.67.205.240   301   cloudflare            www.mdka777.org
+172.67.69.200    301   cloudflare            www.ijpsonline.com
+172.67.194.83    301   cloudflare            1suge789.icu
+172.67.190.169   301   cloudflare            dewatri.com
+184.168.111.168  200   Apache                angelsmexicanrestaurantsc.com
+104.21.76.16     302   cloudflare            pafiacehbarat.org
+104.21.63.228    301   cloudflare            siga.pangkepkab.go.id
+103.122.128.234  200   Apache                ipr.telangana.gov.in
+35.213.166.122   301   nginx                 1suge789.info
+104.21.20.9      301   cloudflare            deluna4d23.co
+104.21.94.65     301   cloudflare            pmb-stikes-pertamedika.com
+172.67.165.216   200   cloudflare            kenzototo78.co
+150.107.142.34                               pbi.fkip.uika-bogor.ac.id

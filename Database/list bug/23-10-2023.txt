@@ -1,0 +1,2763 @@
+58.16.24.7 = NOT FOUND
+
+80.49.229.142 = 80.49.229.142.ipv4.supernova.orange.pl
+
+49.105.139.111 = dw49-105-139-111.m-zone.jp.
+
+ ns1.spmode.ne.jp.
+
+ ns2.spmode.ne.jp
+
+123.75.243.122 = NOT FOUND
+
+126.122.168.32 = softbank126122168032.bbtec.net.
+
+ ns001.bbtec.net.
+
+ ns002.bbtec.net
+
+69.191.209.250 = NOT FOUND
+
+148.119.121.41 = 41.121.119.148.in-addr.arpa.
+
+ ns1.telenor.no.
+
+ ns2.nextra.no
+
+65.41.120.31 = nv-65-41-120-31.sta.embarqhsd.net.
+
+ authns1.qwest.net.
+
+ authns2.qwest.net
+
+61.49.138.17 = NOT FOUND
+
+233.94.89.233 = NOT FOUND
+
+147.11.222.98 = unknown-222-98.windriver.com
+
+27.95.30.131 = KD027095030131.ppp-bb.dion.ne.jp.
+
+ dns16.dion.ne.jp.
+
+ dns15.dion.ne.jp
+
+155.207.180.53 = amfitheater-1.agro.auth.gr
+
+68.158.34.60 = NOT FOUND
+
+18.77.207.166 = NOT FOUND
+
+176.27.101.107 = b01b656b.bb.sky.com.
+
+ ns0.isp.sky.com.
+
+ ns1.isp.sky.com
+
+137.213.78.75 = NOT FOUND
+
+18.198.30.139 = ec2-18-198-30-139.eu-central-1.compute.amazonaws.com.
+
+ ns1-24-eu-central-1.ec2-rdns.amazonaws.com.
+
+ ns2-24-eu-central-1.ec2-rdns.amazonaws.com.
+
+ ns3-24-eu-central-1.ec2-rdns.amazonaws.com.
+
+ ns4-24-eu-central-1.ec2-rdns.amazonaws.com
+
+192.212.182.18 = NOT FOUND
+
+232.76.226.109 = NOT FOUND
+
+15.240.212.107 = NOT FOUND
+
+241.25.211.200 = NOT FOUND
+
+167.23.232.152 = NOT FOUND
+
+149.27.96.239 = 149-27-96-239.kcell.kz
+
+184.144.28.48 = bras-base-kmvlon1102w-grc-06-184-144-28-48.dsl.bell.ca
+
+154.5.235.140 = d154-5-235-140.bchsia.telus.net.
+
+ neon.nssi.telus.com.
+
+ helium.nssi.telus.com
+
+250.125.225.152 = NOT FOUND
+
+169.108.111.254 = NOT FOUND
+
+156.12.160.1 = NOT FOUND
+
+241.116.31.194 = NOT FOUND
+
+88.97.0.80 = 88-97-0-80.dsl.in-addr.zen.co.uk.
+
+ ns1.zen.co.uk.
+
+ ns0.zen.co.uk
+
+68.125.246.46 = adsl-68-125-246-46.dsl.lsan03.pacbell.net.
+
+ ns2.pbi.net.
+
+ ns1.pbi.net
+
+67.157.23.77 = NOT FOUND
+
+105.231.116.246 = 246-116-231-105.r.airtelkenya.com.
+
+ ns2.airtel.africa.
+
+ ns1.airtel.africa
+
+204.221.35.4 = NOT FOUND
+
+15.202.234.178 = NOT FOUND
+
+194.238.177.135 = NOT FOUND
+
+218.60.15.148 = NOT FOUND
+
+92.46.189.212 = 92.46.189.212.megaline.telecom.kz.
+
+ dnsr01.telecom.kz.
+
+ dnsr02.telecom.kz
+
+202.139.22.185 = NOT FOUND
+
+26.128.207.159 = NOT FOUND
+
+238.18.179.238 = NOT FOUND
+
+64.26.168.162 = res20.magma.ca.
+
+ dns2.datacentres.rogers.com.
+
+ dns3.datacentres.rogers.com.
+
+ dns1.datacentres.rogers.com
+
+88.146.1.250 = prg1-v-8-250.static.adsl.vol.cz.
+
+ names.dialtelecom.cz.
+
+ sns.dialtelecom.cz
+
+75.62.52.39 = NOT FOUND
+
+237.3.100.15 = NOT FOUND
+
+130.159.250.82 = NOT FOUND
+
+127.246.163.241 = NOT FOUND
+
+212.255.217.236 = NOT FOUND
+
+91.222.60.13 = pbx.miranet.sumy.ua.
+
+ ns2.slimhost.com.ua.
+
+ ns1.simtele.com.
+
+ ns2.simtele.com
+
+128.251.93.0 = NOT FOUND
+
+28.154.131.162 = NOT FOUND
+
+27.83.191.131 = KD027083191131.ppp-bb.dion.ne.jp.
+
+ dns15.dion.ne.jp.
+
+ dns16.dion.ne.jp
+
+112.29.217.135 = NOT FOUND
+
+20.10.138.228 = NOT FOUND
+
+214.60.2.68 = host-214-60-2-68.rev.pentagon.mil
+
+93.21.2.164 = 164.2.21.93.rev.sfr.net
+
+33.246.92.82 = NOT FOUND
+
+231.178.82.193 = NOT FOUND
+
+182.132.138.113 = NOT FOUND
+
+219.29.222.175 = softbank219029222175.bbtec.net.
+
+ ns001.bbtec.net.
+
+ ns002.bbtec.net
+
+225.166.68.209 = NOT FOUND
+
+107.234.7.36 = mobile-107-234-7-36.mycingular.net
+
+228.90.150.203 = NOT FOUND
+
+12.246.238.27 = NOT FOUND
+
+190.69.180.53 = NOT FOUND
+
+164.70.95.149 = 164-70-95-149.indigo.static.arena.ne.jp.
+
+ asns2.customer.ne.jp.
+
+ asns1.customer.ne.jp
+
+2.239.46.25 = 2-239-46-25.ip247.fastwebnet.it.
+
+ dns4.fastweb.it.
+
+ dns3.fastweb.it
+
+144.250.169.81 = NOT FOUND
+
+159.216.19.159 = NOT FOUND
+
+164.241.158.85 = NOT FOUND
+
+85.29.83.213 = host-85-29-83-213.kaisa-laajakaista.fi
+
+248.100.228.3 = NOT FOUND
+
+173.158.139.78 = NOT FOUND
+
+183.103.167.190 = NOT FOUND
+
+161.148.255.68 = NOT FOUND
+
+204.176.53.248 = NOT FOUND
+
+79.142.41.129 = NOT FOUND
+
+129.111.186.20 = NOT FOUND
+
+101.228.14.111 = NOT FOUND
+
+214.7.167.101 = NOT FOUND
+
+167.1.67.107 = NOT FOUND
+
+93.10.22.230 = 230.22.10.93.rev.sfr.net
+
+126.61.159.202 = softbank126061159202.bbtec.net.
+
+ ns002.bbtec.net.
+
+ ns001.bbtec.net
+
+164.58.27.3 = NOT FOUND
+
+232.246.253.92 = NOT FOUND
+
+197.152.179.90 = NOT FOUND
+
+125.229.186.158 = 125-229-186-158.hinet-ip.hinet.net
+
+8.248.182.64 = NOT FOUND
+
+26.145.190.222 = NOT FOUND
+
+175.67.7.175 = NOT FOUND
+
+66.247.60.140 = NOT FOUND
+
+185.239.154.104 = NOT FOUND
+
+59.242.60.188 = NOT FOUND
+
+182.97.103.163 = NOT FOUND
+
+88.238.169.164 = 88.238.169.164.dynamic.ttnet.com.tr.
+
+ rdns1.turktelekom.com.tr.
+
+ rdns2.turktelekom.com.tr.
+
+ rdns3.turktelekom.com.tr
+
+159.138.93.127 = ecs-159-138-93-127.compute.hwclouds-dns.com
+
+180.213.173.62 = NOT FOUND
+
+84.44.24.250 = NOT FOUND
+
+127.5.38.60 = NOT FOUND
+
+172.88.154.53 = cpe-172-88-154-53.socal.res.rr.com.
+
+ dns5.rr.com.
+
+ dns3.rr.com.
+
+ dns1.rr.com.
+
+ dns6.rr.com.
+
+ dns2.rr.com
+
+10.87.227.62 = NOT FOUND
+
+122.55.64.98 = 122.55.64.98.pldt.net.
+
+ ns1.pldt.net.
+
+ ns2.pldt.net
+
+205.196.66.229 = NOT FOUND
+
+129.83.231.123 = NOT FOUND
+
+55.97.28.247 = NOT FOUND
+
+115.105.38.107 = NOT FOUND
+
+184.40.16.243 = NOT FOUND
+
+112.104.10.67 = 112-104-10-67.adsl.dynamic.seed.net.tw
+
+62.201.105.216 = 3EC969D8.catv.pool.telekom.hu
+
+173.111.245.136 = NOT FOUND
+
+64.132.111.96 = NOT FOUND
+
+87.37.9.8 = 87-37-9-8.ptr.edu.ie
+
+227.64.11.255 = NOT FOUND
+
+252.172.198.190 = NOT FOUND
+
+31.189.229.169 = NOT FOUND
+
+135.4.90.239 = NOT FOUND
+
+135.136.103.124 = NOT FOUND
+
+123.192.80.250 = 123-192-80-250.dynamic.kbronet.com.tw
+
+53.25.60.241 = NOT FOUND
+
+53.196.237.41 = NOT FOUND
+
+122.23.124.189 = NOT FOUND
+
+215.31.151.152 = NOT FOUND
+
+123.233.193.245 = NOT FOUND
+
+222.174.179.95 = NOT FOUND
+
+100.227.16.98 = NOT FOUND
+
+152.51.86.119 = NOT FOUND
+
+96.1.70.247 = 96-1-70-247-staticipwest.wireless.telus.com.
+
+ dns9.telus.ca.
+
+ dns9.telus.com
+
+140.140.123.138 = NOT FOUND
+
+185.167.14.84 = NOT FOUND
+
+102.16.137.158 = NOT FOUND
+
+213.83.97.7 = NOT FOUND
+
+62.153.78.242 = NOT FOUND
+
+229.50.0.196 = NOT FOUND
+
+27.174.179.29 = NOT FOUND
+
+151.93.128.222 = NOT FOUND
+
+0.60.217.206 = NOT FOUND
+
+247.165.209.185 = NOT FOUND
+
+32.72.142.73 = NOT FOUND
+
+10.32.50.85 = NOT FOUND
+
+204.250.61.38 = NOT FOUND
+
+182.169.152.51 = pb6a99833.aicint01.ap.so-net.ne.jp.
+
+ zns3.so-net.ne.jp.
+
+ zns4.so-net.ne.jp
+
+114.251.55.78 = NOT FOUND
+
+212.24.133.80 = names.dialtelecom.c
+
+200.135.205.38 = NOT FOUND
+
+91.60.94.98 = p5b3c5e62.dip0.t-ipconnect.de
+
+34.69.128.138 = 138.128.69.34.bc.googleusercontent.com
+
+216.9.74.197 = NOT FOUND
+
+125.86.15.41 = NOT FOUND
+
+70.59.211.217 = 70-59-211-217.clsp.qwest.net.
+
+ authns2.qwest.net.
+
+ authns1.qwest.net
+
+53.218.161.169 = NOT FOUND
+
+21.27.47.236 = NOT FOUND
+
+176.155.140.210 = 176-155-140-210.abo.bbox.fr
+
+162.2.120.193 = NOT FOUND
+
+61.145.174.203 = NOT FOUND
+
+187.82.176.188 = NOT FOUND
+
+162.217.185.105 = NOT FOUND
+
+71.180.18.94 = NOT FOUND
+
+110.235.115.153 = 110235115153.ctinets.com.
+
+ ns2.hkbn.net.
+
+ ns1.hkbn.net
+
+57.145.16.9 = NOT FOUND
+
+160.168.127.69 = NOT FOUND
+
+101.207.93.139 = NOT FOUND
+
+216.164.171.59 = 216-164-171-59.pa.subnet.cable.rcncustomer.com.
+
+ auth3.dns.rcn.net.
+
+ auth1.dns.rcn.net.
+
+ auth2.dns.rcn.net.
+
+ auth4.dns.rcn.net
+
+187.194.152.116 = dsl-187-194-152-116-dyn.prod-infinitum.com.mx.
+
+ dnsadm-interno.uninet.net.mx.
+
+ nsgdl2.uninet.net.mx.
+
+ nsmex2.uninet.net.mx.
+
+ nsmty2.uninet.net.mx
+
+67.207.97.195 = 67-207-97-195.static.wiline.com.
+
+ ns1.wiline.com.
+
+ ns2.wiline.com.
+
+ ns3.wiline.com
+
+196.19.91.50 = NOT FOUND
+
+166.251.45.54 = 54.sub-166-251-45.myvzw.com
+
+252.132.217.78 = NOT FOUND
+
+178.246.189.97 = NOT FOUND
+
+159.200.66.8 = NOT FOUND
+
+250.80.116.93 = NOT FOUND
+
+96.77.179.247 = 96-77-179-247-static.hfc.comcastbusiness.net
+
+51.197.49.20 = NOT FOUND
+
+206.220.64.22 = NOT FOUND
+
+49.195.190.42 = pa49-195-190-42.pa.nsw.optusnet.com.au
+
+116.15.100.131 = bb116-15-100-131.singnet.com.sg.
+
+ dnssec2.singnet.com.sg.
+
+ dnssec3.singnet.com.sg.
+
+ dnssec1.singnet.com.sg
+
+88.192.1.172 = iptv-kpobng11-58c001-172.dhcp.inet.fi.
+
+ ns1-swe.global.sonera.se.
+
+ ns2-fin.global.sonera.fi.
+
+ ns2-usa.global.sonera.net.
+
+ ns1-fin.global.sonera.fi
+
+38.138.132.7 = NOT FOUND
+
+176.145.204.52 = jof81-h03-176-145-204-52.dsl.sta.abo.bbox.fr
+
+139.15.42.213 = NOT FOUND
+
+100.228.10.67 = NOT FOUND
+
+130.139.154.7 = NOT FOUND
+
+250.198.69.3 = NOT FOUND
+
+124.158.45.26 = NOT FOUND
+
+255.1.49.108 = NOT FOUND
+
+239.92.40.12 = NOT FOUND
+
+149.105.201.182 = NOT FOUND
+
+172.250.165.97 = cpe-172-250-165-97.socal.res.rr.com.
+
+ dns5.rr.com.
+
+ dns3.rr.com.
+
+ dns2.rr.com.
+
+ dns6.rr.com.
+
+ dns1.rr.com
+
+219.193.107.2 = softbank219193107002.bbtec.net.
+
+ ns002.bbtec.net.
+
+ ns001.bbtec.net
+
+190.206.44.200 = 190-206-44-200.dyn.dsl.cantv.net
+
+97.140.25.183 = 183.sub-97-140-25.myvzw.com
+
+0.60.204.193 = NOT FOUND
+
+197.208.146.136 = NOT FOUND
+
+99.230.79.233 = cpe84948c53c071-cm84948c53c070.cpe.net.cable.rogers.com
+
+228.39.182.201 = NOT FOUND
+
+149.222.147.82 = NOT FOUND
+
+84.114.3.48 = 84-114-3-48.cable.dynamic.surfer.at
+
+174.94.163.221 = NOT FOUND
+
+131.74.44.221 = NOT FOUND
+
+234.179.14.175 = NOT FOUND
+
+238.89.169.107 = NOT FOUND
+
+109.231.113.41 = ftth-109-231-113-41.cooptel.qc.ca.
+
+ ns1.cooptel.qc.ca.
+
+ ns2.cooptel.qc.ca
+
+201.218.186.190 = rv201-218-186-190.enjoi.com.mx.
+
+ ns1.enjoi.com.mx
+
+201.137.5.145 = dsl-201-137-5-145-dyn.prod-infinitum.com.mx.
+
+ nsmty2.uninet.net.mx.
+
+ dnsadm-interno.uninet.net.mx.
+
+ nsgdl2.uninet.net.mx.
+
+ nsmex2.uninet.net.mx
+
+33.138.105.164 = NOT FOUND
+
+13.18.219.229 = NOT FOUND
+
+190.219.31.39 = NOT FOUND
+
+64.42.58.47 = 64-42-58-47.atgi.net.
+
+ ns1.msp.eschelon.com.
+
+ ns0.msp.eschelon.com.
+
+ ns0.sea.eschelon.com
+
+236.213.220.203 = NOT FOUND
+
+196.76.124.139 = NOT FOUND
+
+252.162.124.189 = NOT FOUND
+
+250.117.91.159 = NOT FOUND
+
+96.151.67.170 = NOT FOUND
+
+85.63.67.154 = 154.pool85-63-67.static.orange.es.
+
+ ns2.orange.es.
+
+ ns1.orange.es
+
+231.140.135.42 = NOT FOUND
+
+87.175.75.215 = p57af4bd7.dip0.t-ipconnect.de
+
+155.132.60.56 = NOT FOUND
+
+33.204.240.162 = NOT FOUND
+
+104.76.170.29 = a104-76-170-29.deploy.static.akamaitechnologies.com
+
+24.121.212.15 = NOT FOUND
+
+161.235.141.175 = NOT FOUND
+
+127.59.153.66 = NOT FOUND
+
+7.181.182.115 = NOT FOUND
+
+228.11.95.10 = NOT FOUND
+
+24.150.255.87 = d24-150-255-87.home.cgocable.net.
+
+ vader.cogeco.net.
+
+ maul.cogeco.net
+
+221.59.120.223 = softbank221059120223.bbtec.net.
+
+ ns001.bbtec.net.
+
+ ns002.bbtec.net
+
+144.240.240.162 = NOT FOUND
+
+35.28.37.117 = NOT FOUND
+
+4.176.190.38 = NOT FOUND
+
+54.13.151.48 = NOT FOUND
+
+187.38.173.213 = bb26add5.virtua.com.br.
+
+ ns7.virtua.com.br.
+
+ ns8.virtua.com.br
+
+108.169.219.151 = NOT FOUND
+
+219.135.38.2 = 2.38.135.219.broad.fs.gd.dynamic.163data.com.cn.
+
+ ns.guangzhou.gd.cn.
+
+ dns.guangzhou.gd.cn
+
+26.191.209.109 = NOT FOUND
+
+65.126.153.93 = NOT FOUND
+
+235.137.188.96 = NOT FOUND
+
+216.197.140.133 = 216-197-140-133.regn.hsdb.sasknet.sk.ca
+
+189.2.199.142 = NOT FOUND
+
+32.206.61.40 = NOT FOUND
+
+154.198.39.244 = NOT FOUND
+
+38.192.225.7 = NOT FOUND
+
+136.191.72.177 = NOT FOUND
+
+221.97.51.175 = softbank221097051175.bbtec.net.
+
+ ns001.bbtec.net.
+
+ ns002.bbtec.net
+
+63.80.64.25 = NOT FOUND
+
+9.3.96.138 = NOT FOUND
+
+205.167.45.231 = NOT FOUND
+
+10.215.116.249 = NOT FOUND
+
+72.161.159.146 = 72-161-159-146.dyn.centurytel.net.
+
+ authns1.qwest.net.
+
+ authns2.qwest.net
+
+209.56.120.39 = NOT FOUND
+
+81.236.226.43 = 81-236-226-43-no51.tbcn.telia.com.
+
+ dns1.telia.com.
+
+ dns2.telia.com
+
+147.222.63.255 = NOT FOUND
+
+84.48.255.145 = NOT FOUND
+
+188.44.104.29 = host-188-44-104-29.bbcustomer.zsttk.net.
+
+ ns2.zsttk.net.
+
+ ns1.zsttk.net
+
+30.33.199.96 = NOT FOUND
+
+145.128.10.103 = static.kpnvdc.nl
+
+164.2.230.146 = NOT FOUND
+
+228.4.166.80 = NOT FOUND
+
+125.52.32.20 = KD125052032020.ppp-bb.dion.ne.jp.
+
+ dns16.dion.ne.jp.
+
+ dns15.dion.ne.jp
+
+135.48.75.182 = nothing.attdns.com.
+
+ ns3.attdns.com.
+
+ ns1.attdns.com.
+
+ ns2.attdns.com.
+
+ ns4.attdns.com
+
+4.248.87.47 = NOT FOUND
+
+172.244.174.247 = NOT FOUND
+
+67.25.181.4 = NOT FOUND
+
+25.175.210.2 = NOT FOUND
+
+35.140.178.114 = 035-140-178-114.dhcp.bhn.net.
+
+ auth4.charter.com.
+
+ auth1.charter.com.
+
+ auth2.charter.com.
+
+ auth3.charter.com
+
+190.186.209.177 = ip-adsl-190.186.209.177.cotas.com.bo.
+
+ dns2.cotas.com.bo.
+
+ dns1.cotas.com.bo
+
+224.144.221.2 = NOT FOUND
+
+74.52.116.239 = ef.74.344a.static.theplanet.com.
+
+ ns3.arpa.networklayer.com.
+
+ ns4.arpa.networklayer.com
+
+234.37.240.83 = NOT FOUND
+
+25.93.232.18 = NOT FOUND
+
+184.24.143.27 = a184-24-143-27.deploy.static.akamaitechnologies.com
+
+138.32.238.205 = NOT FOUND
+
+85.210.233.233 = NOT FOUND
+
+47.76.213.61 = NOT FOUND
+
+197.196.45.190 = host-197.196.45.190.etisalat.com.eg.
+
+ DNS04.etisalat.com.eg.
+
+ DNS03.etisalat.com.eg
+
+246.118.224.87 = NOT FOUND
+
+78.46.113.31 = static.31.113.46.78.clients.your-server.de.
+
+ ns3.second-ns.de.
+
+ ns.second-ns.com.
+
+ ns1.your-server.de
+
+10.79.54.132 = NOT FOUND
+
+78.23.81.109 = 78-23-81-109.access.telenet.be.
+
+ ns.telenet-ops.be.
+
+ ns2.telenet-ops.be
+
+247.100.241.24 = NOT FOUND
+
+1.64.108.189 = 1-64-108-189.static.netvigator.com.
+
+ ns4.netvigator.com.
+
+ ns6.netvigator.com
+
+127.156.64.115 = NOT FOUND
+
+31.222.215.46 = NOT FOUND
+
+98.184.94.235 = ip98-184-94-235.mc.at.cox.net.
+
+ ns.cox.net.
+
+ ns.west.cox.net.
+
+ ns.east.cox.net
+
+234.185.34.57 = NOT FOUND
+
+251.200.135.19 = NOT FOUND
+
+235.94.186.138 = NOT FOUND
+
+124.89.211.185 = NOT FOUND
+
+55.225.207.146 = NOT FOUND
+
+219.63.27.38 = softbank219063027038.bbtec.net.
+
+ ns002.bbtec.net.
+
+ ns001.bbtec.net
+
+96.108.124.176 = NOT FOUND
+
+241.184.79.231 = NOT FOUND
+
+56.154.28.7 = NOT FOUND
+
+67.101.74.195 = h-67-101-74-195.nycm.ny.globalcapacity.com.
+
+ ns3.gtt.net.
+
+ ns1.gtt.net.
+
+ ns2.gtt.net
+
+2.76.231.255 = 2-76-231-255.kcell.kz
+
+92.42.85.139 = NOT FOUND
+
+89.25.114.40 = NOT FOUND
+
+182.109.239.234 = NOT FOUND
+
+102.206.229.183 = NOT FOUND
+
+252.163.168.227 = NOT FOUND
+
+194.190.213.3 = mx.energospb.ru
+
+83.52.35.230 = 230.red-83-52-35.dynamicip.rima-tde.net.
+
+ rsdmno1-14.rima-tde.net.
+
+ rsdbgi1-11.rima-tde.net
+
+12.236.82.120 = NOT FOUND
+
+237.82.43.174 = NOT FOUND
+
+6.198.37.15 = NOT FOUND
+
+111.77.33.103 = NOT FOUND
+
+224.46.54.11 = NOT FOUND
+
+63.84.115.210 = NOT FOUND
+
+214.114.52.24 = NOT FOUND
+
+131.207.50.167 = NOT FOUND
+
+153.102.219.181 = NOT FOUND
+
+133.230.185.109 = NOT FOUND
+
+3.177.41.13 = NOT FOUND
+
+194.75.209.208 = NOT FOUND
+
+54.219.148.36 = ec2-54-219-148-36.us-west-1.compute.amazonaws.com.
+
+ ns1-24-us-west-1.ec2-rdns.amazonaws.com.
+
+ ns2-24-us-west-1.ec2-rdns.amazonaws.com.
+
+ ns3-24-us-west-1.ec2-rdns.amazonaws.com.
+
+ ns4-24-us-west-1.ec2-rdns.amazonaws.com
+
+28.241.206.55 = NOT FOUND
+
+22.127.246.12 = NOT FOUND
+
+207.38.184.69 = 207-38-184-69.s2115.c3-0.nyr-cbr2.nyr.ny.cable.rcncustomer.com.
+
+ auth4.dns.rcn.net.
+
+ auth3.dns.rcn.net.
+
+ auth1.dns.rcn.net.
+
+ auth2.dns.rcn.net
+
+180.226.69.205 = NOT FOUND
+
+69.117.119.80 = ool-45757750.dyn.optonline.net.
+
+ authns1.cv.net.
+
+ authns1.cvnet.com
+
+117.216.195.186 = NOT FOUND
+
+118.70.199.200 = NOT FOUND
+
+23.220.78.25 = a23-220-78-25.deploy.static.akamaitechnologies.com
+
+125.9.149.241 = 125-9-149-241.rev.home.ne.jp.
+
+ ns1.home.ne.jp.
+
+ ns2.home.ne.jp
+
+81.204.32.179 = 81-204-32-179.fixed.kpn.net
+
+211.152.104.2 = NOT FOUND
+
+219.194.80.36 = softbank219194080036.bbtec.net.
+
+ ns001.bbtec.net.
+
+ ns002.bbtec.net
+
+6.38.74.49 = NOT FOUND
+
+251.212.215.181 = NOT FOUND
+
+202.193.174.104 = NOT FOUND
+
+44.76.96.60 = NOT FOUND
+
+150.33.190.144 = NOT FOUND
+
+242.103.165.217 = NOT FOUND
+
+22.231.231.2 = NOT FOUND
+
+247.86.158.106 = NOT FOUND
+
+95.171.99.128 = user99-128.satfilm.com.pl.
+
+ ns.satfilm.pl.
+
+ ns2.satfilm.pl
+
+181.65.197.55 = NOT FOUND
+
+147.237.108.238 = NOT FOUND
+
+58.5.181.143 = 58x5x181x143.ap58.ftth.ucom.ne.jp.
+
+ ns03.usen.ad.jp.
+
+ ns02.usen.ad.jp.
+
+ ns01.usen.ad.jp
+
+47.67.222.70 = ltea-047-067-222-070.pools.arcor-ip.net
+
+206.189.30.201 = NOT FOUND
+
+223.204.83.93 = mx-ll-223.204.83-93.dynamic.3bb.co.th
+
+107.150.112.233 = NOT FOUND
+
+253.150.247.90 = NOT FOUND
+
+19.1.131.169 = NOT FOUND
+
+34.184.112.137 = NOT FOUND
+
+37.102.74.105 = NOT FOUND
+
+132.35.143.79 = NOT FOUND
+
+18.53.108.181 = NOT FOUND
+
+23.91.72.172 = 23.91.72.172.ipdns.io.
+
+ rdns1.asonoc.com.
+
+ rdns2.asonoc.com
+
+213.185.30.248 = NOT FOUND
+
+20.158.191.251 = NOT FOUND
+
+195.212.108.233 = NOT FOUND
+
+170.99.52.139 = NOT FOUND
+
+97.110.1.236 = NOT FOUND
+
+50.193.4.101 = 50-193-4-101-static.hfc.comcastbusiness.net
+
+213.134.99.183 = NOT FOUND
+
+222.225.75.212 = NOT FOUND
+
+236.3.97.236 = NOT FOUND
+
+53.199.217.123 = NOT FOUND
+
+63.50.44.120 = NOT FOUND
+
+196.120.179.72 = NOT FOUND
+
+210.179.110.78 = NOT FOUND
+
+113.241.228.28 = NOT FOUND
+
+181.184.150.156 = NOT FOUND
+
+49.225.255.138 = 138.255.225.49.dyn.cust.vf.net.nz.
+
+ isdnap02c.vodafone.co.nz.
+
+ ns1.vf.net.nz.
+
+ ns2.vf.net.nz
+
+168.165.92.104 = NOT FOUND
+
+45.246.237.197 = NOT FOUND
+
+177.89.241.219 = 177-89-241-219.cable.cabotelecom.com.br.
+
+ ns2.cabotelecom.com.br.
+
+ ns1.cabotelecom.com.br
+
+96.174.27.134 = NOT FOUND
+
+193.126.226.34 = NOT FOUND
+
+21.170.204.5 = NOT FOUND
+
+49.1.142.0 = NOT FOUND
+
+52.120.88.183 = NOT FOUND
+
+4.54.109.189 = NOT FOUND
+
+126.75.219.122 = softbank126075219122.bbtec.net.
+
+ ns001.bbtec.net.
+
+ ns002.bbtec.net
+
+152.80.119.38 = NOT FOUND
+
+220.208.242.18 = kc220-208-242-18.ccnw.ne.jp.
+
+ dns1.cnci.jp.
+
+ dns2.cnci.jp.
+
+ dns3.cnci.jp
+
+122.90.83.218 = NOT FOUND
+
+38.10.88.97 = NOT FOUND
+
+183.247.236.18 = NOT FOUND
+
+226.71.240.100 = NOT FOUND
+
+52.247.144.182 = NOT FOUND
+
+163.155.88.118 = NOT FOUND
+
+211.0.184.70 = p3695070-ipxg00g01tokaisakaetozai.aichi.ocn.ne.jp
+
+85.68.191.197 = 197.191.68.85.rev.sfr.net
+
+167.69.180.49 = NOT FOUND
+
+109.116.169.243 = net-109-116-169-243.cust.vodafonedsl.it
+
+143.133.62.81 = NOT FOUND
+
+10.248.134.128 = NOT FOUND
+
+161.171.128.80 = walmart.com.
+
+ ns10.wal-mart.com.
+
+ ns8.wal-mart.com.
+
+ ns9.wal-mart.com
+
+88.170.253.228 = vie38-3_migr-88-170-253-228.fbx.proxad.net
+
+222.217.59.249 = NOT FOUND
+
+145.90.103.136 = 136pc103.sshunet.nl
+
+175.49.122.193 = NOT FOUND
+
+216.39.73.83 = NOT FOUND
+
+134.40.42.121 = NOT FOUND
+
+213.216.129.216 = NOT FOUND
+
+18.142.222.34 = ec2-18-142-222-34.ap-southeast-1.compute.amazonaws.com.
+
+ ns1-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+
+ ns2-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+
+ ns3-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+
+ ns4-24-ap-southeast-1.ec2-rdns.amazonaws.com
+
+40.2.230.21 = mc1rpa4w.am.lilly.com
+
+3.112.27.114 = ec2-3-112-27-114.ap-northeast-1.compute.amazonaws.com.
+
+ ns1-24-ap-northeast-1.ec2-rdns.amazonaws.com.
+
+ ns2-24-ap-northeast-1.ec2-rdns.amazonaws.com.
+
+ ns3-24-ap-northeast-1.ec2-rdns.amazonaws.com.
+
+ ns4-24-ap-northeast-1.ec2-rdns.amazonaws.com
+
+224.208.82.71 = NOT FOUND
+
+182.127.92.97 = hn.kd.ny.adsl.
+
+ ns.halyptt.net.cn.
+
+ ns.hazzptt.net.cn
+
+239.100.220.215 = NOT FOUND
+
+104.114.248.215 = a104-114-248-215.deploy.static.akamaitechnologies.com
+
+238.197.241.7 = NOT FOUND
+
+242.209.62.159 = NOT FOUND
+
+127.42.1.162 = NOT FOUND
+
+63.115.85.196 = NOT FOUND
+
+241.119.82.146 = NOT FOUND
+
+141.177.114.253 = NOT FOUND
+
+104.198.139.70 = 70.139.198.104.bc.googleusercontent.com
+
+91.173.71.227 = 91-173-71-227.subs.proxad.net.
+
+ ns3.proxad.net.
+
+ ns.ripe.net.
+
+ ns2.proxad.net
+
+23.35.95.181 = a23-35-95-181.deploy.static.akamaitechnologies.com
+
+168.79.109.225 = NOT FOUND
+
+68.216.161.53 = NOT FOUND
+
+44.5.204.50 = NOT FOUND
+
+67.1.78.148 = 67-1-78-148.tcso.qwest.net.
+
+ authns1.qwest.net.
+
+ authns2.qwest.net
+
+51.55.72.33 = NOT FOUND
+
+27.198.69.93 = NOT FOUND
+
+216.64.79.171 = NOT FOUND
+
+95.160.42.38 = 095160042038.rzeszow.vectranet.pl
+
+51.146.56.23 = 33923817.skybroadband.com.
+
+ ns1.isp.sky.com.
+
+ ns0.isp.sky.com
+
+201.142.174.251 = 201.142.174.251.dsl.dyn.telnor.net.
+
+ nsa-bcn-piopico-1.uninet.net.mx.
+
+ nsgdl2.uninet.net.mx.
+
+ dnsadm-interno.uninet.net.mx.
+
+ nsa-bcn-arbol-1.uninet.net.mx
+
+152.40.88.72 = NOT FOUND
+
+66.71.189.57 = NOT FOUND
+
+144.27.125.37 = NOT FOUND
+
+208.197.255.8 = NOT FOUND
+
+201.37.190.193 = c925bec1.virtua.com.br.
+
+ ns.embratel.com.br.
+
+ dns2.virtua.com.br.
+
+ dns1.virtua.com.br
+
+128.29.126.250 = NOT FOUND
+
+87.27.160.252 = host-87-27-160-252.business.telecomitalia.it
+
+84.218.69.233 = NOT FOUND
+
+128.169.49.206 = NOT FOUND
+
+56.36.214.180 = NOT FOUND
+
+160.101.33.205 = NOT FOUND
+
+206.23.250.7 = NOT FOUND
+
+34.252.12.126 = ec2-34-252-12-126.eu-west-1.compute.amazonaws.com.
+
+ ns1-24-eu-west-1.ec2-rdns.amazonaws.com.
+
+ ns2-24-eu-west-1.ec2-rdns.amazonaws.com.
+
+ ns3-24-eu-west-1.ec2-rdns.amazonaws.com.
+
+ ns4-24-eu-west-1.ec2-rdns.amazonaws.com
+
+56.82.40.251 = NOT FOUND
+
+81.189.30.240 = dsl-30-240.utaonline.at
+
+149.36.32.6 = NOT FOUND
+
+186.250.157.23 = NOT FOUND
+
+31.163.191.122 = ws122.zone31-163-191.zaural.ru.
+
+ ns2.ural.rt.ru.
+
+ ns1.ural.rt.ru
+
+216.130.89.239 = 216-130-89-239.hspalte.dynamic.bellmts.net
+
+8.29.233.117 = NOT FOUND
+
+39.176.38.229 = NOT FOUND
+
+91.8.247.218 = p5b08f7da.dip0.t-ipconnect.de
+
+175.118.206.203 = NOT FOUND
+
+70.20.124.38 = pool-70-20-124-38.pitt.east.verizon.net.
+
+ ns6.verizon.net.
+
+ ns7.verizon.net.
+
+ ns8.verizon.net.
+
+ ns5.verizon.net
+
+128.69.117.153 = 128-69-117-153.broadband.corbina.ru
+
+36.134.24.13 = NOT FOUND
+
+207.165.62.225 = NOT FOUND
+
+201.25.244.59 = 201-25-244-59.fnsce703.dsl.brasiltelecom.net.br.
+
+ 201-25-244-59.user3p.brasiltelecom.net.br
+
+138.177.181.230 = NOT FOUND
+
+160.69.207.249 = NOT FOUND
+
+34.128.36.60 = 60.36.128.34.bc.googleusercontent.com
+
+128.204.189.173 = 128-204-189-173.broadband.signaltv.net.
+
+ ns1.signalservis.net.
+
+ ns2.signalservis.net
+
+60.99.120.231 = softbank060099120231.bbtec.net.
+
+ ns001.bbtec.net.
+
+ ns002.bbtec.net
+
+225.77.55.172 = NOT FOUND
+
+28.20.57.78 = NOT FOUND
+
+162.221.254.215 = NOT FOUND
+
+219.135.114.88 = 88.114.135.219.broad.fs.gd.dynamic.163data.com.cn.
+
+ ns.guangzhou.gd.cn.
+
+ dns.guangzhou.gd.cn
+
+167.105.180.190 = NOT FOUND
+
+34.44.56.148 = 148.56.44.34.bc.googleusercontent.com
+
+218.80.66.146 = NOT FOUND
+
+124.25.151.35 = p0441124-vcngn.tkyo.nt.ngn.ppp.ocn.ne.jp
+
+89.0.247.28 = xdsl-89-0-247-28.nc.de
+
+78.60.204.101 = 78-60-204-101.static.zebra.lt
+
+131.215.234.247 = NOT FOUND
+
+246.152.58.130 = NOT FOUND
+
+248.220.0.147 = NOT FOUND
+
+195.4.97.230 = NOT FOUND
+
+0.23.196.187 = NOT FOUND
+
+76.208.172.202 = adsl-76-208-172-202.dsl.lsan03.sbcglobal.net.
+
+ ns10a.attdns.net.
+
+ ns10b.attdns.net
+
+237.152.124.236 = NOT FOUND
+
+8.130.54.47 = NOT FOUND
+
+148.40.235.75 = NOT FOUND
+
+162.61.212.141 = NOT FOUND
+
+114.50.63.56 = softbank114050063056.bbtec.net.
+
+ ns001.bbtec.net.
+
+ ns002.bbtec.net
+
+115.197.53.254 = NOT FOUND
+
+94.15.174.76 = 5e0fae4c.bb.sky.com.
+
+ ns1.isp.sky.com.
+
+ ns0.isp.sky.com
+
+233.138.56.84 = NOT FOUND
+
+166.5.97.116 = NOT FOUND
+
+229.157.203.145 = NOT FOUND
+
+217.43.208.42 = host217-43-208-42.range217-43.btcentralplus.com.
+
+ ns21.bt.net.
+
+ ns20.bt.net
+
+186.133.185.17 = 186-133-185-17.speedy.com.ar.
+
+ dns3.mrse.com.ar.
+
+ dns1.mrse.com.ar.
+
+ dns4.mrse.com.ar.
+
+ dns2.mrse.com.ar
+
+57.1.41.152 = NOT FOUND
+
+5.162.119.236 = dynamic.isp.ooredoo.om.
+
+ ns2.isp.nawras.om.
+
+ ns1.isp.nawras.om
+
+25.78.103.133 = NOT FOUND
+
+0.217.173.165 = NOT FOUND
+
+36.1.139.167 = NOT FOUND
+
+245.251.249.113 = NOT FOUND
+
+254.245.15.151 = NOT FOUND
+
+78.76.94.9 = host-78-76-94-9.homerun.telia.com.
+
+ dns1.telia.com.
+
+ dns2.telia.com
+
+35.123.53.217 = NOT FOUND
+
+202.189.141.36 = NOT FOUND
+
+187.123.147.5 = bb7b9305.virtua.com.br.
+
+ ns8.virtua.com.br.
+
+ ns7.virtua.com.br
+
+143.132.13.120 = NOT FOUND
+
+90.55.71.122 = atoulouse-654-1-392-122.w90-55.abo.wanadoo.fr
+
+146.114.189.225 = NOT FOUND
+
+127.3.7.80 = NOT FOUND
+
+253.213.221.127 = NOT FOUND
+
+199.223.204.203 = NOT FOUND
+
+138.186.179.213 = NOT FOUND
+
+103.75.38.7 = NOT FOUND
+
+227.135.223.109 = NOT FOUND
+
+46.102.194.153 = NOT FOUND
+
+16.237.212.111 = NOT FOUND
+
+172.134.129.200 = NOT FOUND
+
+99.76.175.81 = NOT FOUND
+
+199.35.39.76 = NOT FOUND
+
+41.55.26.175 = NOT FOUND
+
+26.44.87.209 = NOT FOUND
+
+86.204.118.83 = anancy-653-1-38-83.w86-204.abo.wanadoo.fr
+
+35.11.254.120 = NOT FOUND
+
+213.115.21.217 = static-213-115-21-217.sme.telenor.se
+
+115.124.152.71 = 115-124-152-71.ppp.bbiq.jp.
+
+ dns2.qtnet.ne.jp.
+
+ dns1.qtnet.ne.jp.
+
+ dns1.bbiq.jp
+
+172.174.177.99 = NOT FOUND
+
+204.156.26.218 = NOT FOUND
+
+17.103.200.250 = NOT FOUND
+
+247.47.242.21 = NOT FOUND
+
+89.186.130.105 = 89.186.130.105.dyn.pyur.net
+
+157.191.82.86 = NOT FOUND
+
+11.215.73.163 = NOT FOUND
+
+56.1.107.170 = NOT FOUND
+
+251.129.10.97 = NOT FOUND
+
+250.45.10.53 = NOT FOUND
+
+207.67.203.53 = NOT FOUND
+
+236.74.178.2 = NOT FOUND
+
+120.145.17.245 = cpe-120-145-17-245.bpwt-r-032.wel.wa.bigpond.net.au.
+
+ adns01.bigpond.com.
+
+ adns02.bigpond.com.
+
+ adns03.bigpond.com.
+
+ adns04.bigpond.com
+
+143.27.155.141 = NOT FOUND
+
+1.206.134.216 = NOT FOUND
+
+174.72.60.88 = ip174-72-60-88.ph.ph.cox.net.
+
+ ns.cox.net.
+
+ ns.west.cox.net.
+
+ ns.east.cox.net
+
+218.49.41.48 = NOT FOUND
+
+65.187.210.31 = 065-187-210-031.res.spectrum.com.
+
+ auth2.charter.com.
+
+ auth1.charter.com.
+
+ auth4.charter.com.
+
+ auth3.charter.com
+
+208.146.152.160 = NOT FOUND
+
+160.76.55.134 = NOT FOUND
+
+130.42.153.10 = NOT FOUND
+
+28.125.158.8 = NOT FOUND
+
+82.188.160.242 = host-82-188-160-242.business.telecomitalia.it
+
+249.160.142.131 = NOT FOUND
+
+48.1.28.216 = NOT FOUND
+
+116.101.138.129 = dynamic-ip-adsl.viettel.vn
+
+173.131.80.43 = ip-173-131-80-43.prlchi.spcsdns.net.
+
+ ns3.spcsdns.net.
+
+ ns4.spcsdns.net.
+
+ ns1.spcsdns.net.
+
+ osscdns01.spcsdns.net.
+
+ osscdns02.spcsdns.net.
+
+ ns2.spcsdns.net
+
+213.197.89.174 = 213-197-89-174.pool.digikabel.hu.
+
+ ns1.hdsnet.hu.
+
+ ns2.digi.hu
+
+61.94.38.103 = NOT FOUND
+
+140.176.144.98 = NOT FOUND
+
+27.80.194.168 = 168194080027.ppp-oct.au-hikari.ne.jp.
+
+ dns16.dion.ne.jp.
+
+ dns15.dion.ne.jp
+
+124.145.194.65 = 124-145-194-65.rev.home.ne.jp.
+
+ ns1.home.ne.jp.
+
+ ns2.home.ne.jp
+
+52.220.159.103 = ec2-52-220-159-103.ap-southeast-1.compute.amazonaws.com.
+
+ ns1-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+
+ ns2-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+
+ ns3-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+
+ ns4-24-ap-southeast-1.ec2-rdns.amazonaws.com
+
+217.163.145.207 = NOT FOUND
+
+254.198.182.23 = NOT FOUND
+
+63.104.111.146 = NOT FOUND
+
+51.184.235.123 = NOT FOUND
+
+192.100.222.215 = NOT FOUND
+
+77.46.230.92 = 77-46-230-92.dynamic.isp.telekom.rs.
+
+ adonis.telekom.rs.
+
+ odisej.telekom.rs
+
+24.103.92.120 = rrcs-24-103-92-120.nyc.biz.rr.com.
+
+ ns2.biz.rr.com.
+
+ ns1.biz.rr.com.
+
+ dns4.rr.com
+
+129.132.33.201 = 129-132-33-201.net4.ethz.ch
+
+44.144.147.67 = NOT FOUND
+
+81.80.214.49 = NOT FOUND
+
+197.214.75.145 = NOT FOUND
+
+77.54.229.215 = 215.229.54.77.rev.vodafone.pt
+
+33.156.163.43 = NOT FOUND
+
+231.255.5.107 = NOT FOUND
+
+221.51.148.245 = softbank221051148245.bbtec.net.
+
+ ns002.bbtec.net.
+
+ ns001.bbtec.net
+
+60.239.38.116 = CMU1-60-239-38-116.aic.mesh.ad.jp.
+
+ ns32.mesh.ad.jp.
+
+ ns33.mesh.ad.jp
+
+224.226.178.186 = NOT FOUND
+
+223.40.115.195 = NOT FOUND
+
+91.252.80.8 = NOT FOUND
+
+95.70.10.252 = NOT FOUND
+
+2.60.28.12 = NOT FOUND
+
+36.38.140.8 = NOT FOUND
+
+86.237.113.127 = lfbn-mar-1-146-127.w86-237.abo.wanadoo.fr
+
+0.41.0.17 = NOT FOUND
+
+231.176.145.145 = NOT FOUND
+
+239.46.144.71 = NOT FOUND
+
+62.176.200.13 = h-esx05.funnit.no
+
+170.255.20.142 = NOT FOUND
+
+1.234.69.211 = NOT FOUND
+
+254.55.99.59 = NOT FOUND
+
+19.38.66.50 = NOT FOUND
+
+111.222.140.69 = NOT FOUND
+
+102.30.157.216 = NOT FOUND
+
+152.132.194.71 = NOT FOUND
+
+68.20.191.164 = adsl-68-20-191-164.dsl.chcgil.ameritech.net.
+
+ ns1.ameritech.net.
+
+ ns2.ameritech.net
+
+130.181.213.11 = NOT FOUND
+
+111.45.185.130 = NOT FOUND
+
+113.104.95.244 = NOT FOUND
+
+67.21.29.31 = NOT FOUND
+
+218.23.33.222 = NOT FOUND
+
+232.60.73.142 = NOT FOUND
+
+29.150.38.50 = NOT FOUND
+
+42.97.170.142 = NOT FOUND
+
+42.67.188.59 = 42-67-188-59.emome-ip.hinet.net
+
+56.1.153.81 = NOT FOUND
+
+254.138.251.72 = NOT FOUND
+
+28.168.103.101 = NOT FOUND
+
+186.22.154.92 = cpe-186-22-154-92.telecentro-reversos.com.ar.
+
+ ns1.telecentro.net.ar.
+
+ ns2.telecentro.net.ar
+
+113.128.64.197 = NOT FOUND
+
+230.195.66.51 = NOT FOUND
+
+215.202.107.72 = NOT FOUND
+
+6.155.137.154 = NOT FOUND
+
+137.245.43.217 = NOT FOUND
+
+156.195.182.250 = host-156.195.250.182-static.tedata.net.
+
+ ns2.tedata.net.
+
+ ns1.tedata.net
+
+37.139.58.76 = NOT FOUND
+
+250.4.162.169 = NOT FOUND
+
+169.242.167.241 = NOT FOUND
+
+86.19.197.251 = cpc80457-grim19-2-0-cust250.12-3.cable.virginm.net.
+
+ ns1.virginmedia.net.
+
+ ns2.virginmedia.net.
+
+ ns3.virginmedia.net.
+
+ ns4.virginmedia.net
+
+159.198.144.254 = NOT FOUND
+
+73.181.52.203 = c-73-181-52-203.hsd1.co.comcast.net
+
+42.111.244.143 = NOT FOUND
+
+59.124.38.129 = 59-124-38-129.hinet-ip.hinet.net
+
+87.98.47.74 = 87-98-47-74.pde.norby.ee.
+
+ ns.data.ee.
+
+ ns.eunet.ee
+
+92.124.136.4 = NOT FOUND
+
+172.136.178.75 = NOT FOUND
+
+84.65.17.34 = NOT FOUND
+
+9.155.184.20 = NOT FOUND
+
+72.116.57.244 = 244.sub-72-116-57.myvzw.com
+
+82.255.11.252 = lns-bzn-39-82-255-11-252.adsl.proxad.net.
+
+ ns2.proxad.net.
+
+ ns3.proxad.net
+
+13.72.207.68 = NOT FOUND
+
+187.248.241.237 = 187-248-241-237.internetmax.maxcom.net.mx
+
+146.218.77.6 = NOT FOUND
+
+223.125.102.45 = NOT FOUND
+
+198.208.44.82 = NOT FOUND
+
+60.233.235.152 = NOT FOUND
+
+201.46.251.204 = c92efbcc.virtua.com.br.
+
+ ns7.virtua.com.br.
+
+ ns8.virtua.com.br
+
+40.86.199.212 = NOT FOUND
+
+57.242.74.151 = NOT FOUND
+
+178.109.140.85 = NOT FOUND
+
+196.120.114.194 = NOT FOUND
+
+121.208.165.33 = cpe-121-208-165-33.cfui-cr-003.cha.qld.bigpond.net.au.
+
+ adns02.bigpond.com.
+
+ adns03.bigpond.com.
+
+ adns04.bigpond.com.
+
+ adns01.bigpond.com
+
+18.174.84.21 = NOT FOUND
+
+39.17.0.18 = NOT FOUND
+
+40.234.43.29 = NOT FOUND
+
+20.64.221.202 = NOT FOUND
+
+121.99.104.37 = default-rdns.vocus.co.nz.
+
+ ns-1184.awsdns-20.org.
+
+ ns-1583.awsdns-05.co.uk.
+
+ ns-291.awsdns-36.com.
+
+ ns-983.awsdns-58.net
+
+74.209.206.113 = 74-209-206-113.ash01.latisys.net.
+
+ ns2.iad.databank.com.
+
+ ns2.slc.databank.com.
+
+ ns2.dfw.databank.com.
+
+ ns2.msp.databank.com.
+
+ ns1.dfw.databank.com.
+
+ ns1.iad.databank.com.
+
+ ns1.msp.databank.com.
+
+ ns1.slc.databank.com
+
+65.75.91.28 = NOT FOUND
+
+59.231.84.91 = NOT FOUND
+
+107.82.122.156 = NOT FOUND
+
+33.132.41.27 = NOT FOUND
+
+103.87.185.179 = ip185-179.fiberstar.net.id
+
+183.191.144.81 = 81.144.191.183.adsl-pool.sx.cn.
+
+ ns2.sxtyptt.net.cn.
+
+ ns.sxtyptt.net.cn
+
+124.184.160.239 = cpe-124-184-160-239.sb05.sa.asp.telstra.net.
+
+ adns03.bigpond.com.
+
+ adns04.bigpond.com.
+
+ adns01.bigpond.com.
+
+ adns02.bigpond.com
+
+110.4.104.32 = NOT FOUND
+
+121.61.248.136 = NOT FOUND
+
+248.67.101.184 = NOT FOUND
+
+48.248.77.77 = NOT FOUND
+
+82.71.55.86 = 82-71-55-86.dsl.in-addr.zen.co.uk.
+
+ ns1.zen.co.uk.
+
+ ns0.zen.co.uk
+
+161.116.17.39 = NOT FOUND
+
+57.238.254.7 = NOT FOUND
+
+251.197.169.45 = NOT FOUND
+
+179.203.85.129 = NOT FOUND
+
+173.239.173.206 = NOT FOUND
+
+58.6.84.148 = 58-6-84-148.dyn.iinet.net.au.
+
+ ns3.iinet.net.au.
+
+ ns1.iinet.net.au.
+
+ ns2.iinet.net.au
+
+245.32.152.121 = NOT FOUND
+
+21.13.18.48 = NOT FOUND
+
+235.0.53.116 = NOT FOUND
+
+241.18.20.101 = NOT FOUND
+
+75.249.82.50 = 50.sub-75-249-82.myvzw.com
+
+148.40.160.27 = NOT FOUND
+
+102.122.156.129 = NOT FOUND
+
+197.127.176.215 = host-197.127.176.215.etisalat.com.eg.
+
+ DNS03.etisalat.com.eg.
+
+ DNS04.etisalat.com.eg
+
+158.209.106.172 = NOT FOUND
+
+101.237.163.230 = NOT FOUND
+
+33.186.230.242 = NOT FOUND
+
+201.205.236.221 = NOT FOUND
+
+29.18.45.165 = NOT FOUND
+
+164.154.3.118 = NOT FOUND
+
+93.180.67.221 = hosted.by.pcextreme
+
+244.41.252.148 = NOT FOUND
+
+129.141.20.227 = NOT FOUND
+
+88.15.18.189 = 189.red-88-15-18.dynamicip.rima-tde.net.
+
+ rsdmno1-14.rima-tde.net.
+
+ rsdbgi1-11.rima-tde.net
+
+67.59.233.149 = NOT FOUND
+
+135.241.232.40 = NOT FOUND
+
+139.188.123.248 = NOT FOUND
+
+23.222.162.127 = a23-222-162-127.deploy.static.akamaitechnologies.com
+
+129.86.117.242 = NOT FOUND
+
+39.108.243.12 = NOT FOUND
+
+172.246.156.52 = NOT FOUND
+
+203.79.209.88 = NOT FOUND
+
+58.114.13.137 = host-58-114-13-137.dynamic.kbtelecom.net
+
+186.178.28.213 = 213.28.178.186.static.anycast.cnt-grms.ec
+
+67.214.148.239 = NOT FOUND
+
+39.13.188.233 = 39-13-188-233.adsl.fetnet.net
+
+42.59.71.203 = NOT FOUND
+
+192.75.224.144 = NOT FOUND
+
+178.88.98.78 = 178.88.98.78.megaline.telecom.kz.
+
+ dnsr02.telecom.kz.
+
+ dnsr01.telecom.kz
+
+170.122.17.225 = NOT FOUND
+
+32.147.158.127 = NOT FOUND
+
+132.95.7.146 = NOT FOUND
+
+37.10.142.169 = 169.red-37-10-142.dynamicip.rima-tde.net.
+
+ rsdmno1-14.rima-tde.net.
+
+ rsdbgi1-11.rima-tde.net
+
+106.212.79.181 = NOT FOUND
+
+177.235.117.28 = b1eb751c.virtua.com.br.
+
+ ns7.virtua.com.br.
+
+ ns8.virtua.com.br
+
+43.11.215.232 = NOT FOUND
+
+12.31.252.183 = NOT FOUND
+
+7.70.70.78 = NOT FOUND
+
+149.17.244.243 = NOT FOUND
+
+214.217.195.247 = NOT FOUND
+
+185.172.116.144 = NOT FOUND
+
+223.129.211.40 = NOT FOUND
+
+91.244.249.163 = NOT FOUND
+
+240.28.232.202 = NOT FOUND
+
+226.227.79.1 = NOT FOUND
+
+202.204.201.254 = NOT FOUND
+
+115.102.36.249 = NOT FOUND
+
+171.226.69.227 = dynamic-ip-adsl.viettel.vn
+
+180.159.154.163 = NOT FOUND
+
+54.182.145.159 = server-54-182-145-159.lhr52.r.cloudfront.net.
+
+ x1.amazonaws.com.
+
+ x2.amazonaws.com.
+
+ x3.amazonaws.org.
+
+ x4.amazonaws.org.
+
+ pdns1.ultradns.net
+
+178.192.106.127 = 127.106.192.178.dynamic.wline.res.cust.swisscom.ch.
+
+ ns11.scs-ns.ch.
+
+ ns12.scs-ns.org
+
+44.113.99.227 = NOT FOUND
+
+185.83.246.170 = NOT FOUND
+
+119.235.100.27 = Broadband-Static-119-235-100-27.connect.com.fj.
+
+ drua.tfl.com.fj.
+
+ tabua.tfl.com.fj
+
+86.242.41.116 = lfbn-idf1-1-577-116.w86-242.abo.wanadoo.fr
+
+239.229.216.39 = NOT FOUND
+
+219.201.146.41 = softbank219201146041.bbtec.net.
+
+ ns001.bbtec.net.
+
+ ns002.bbtec.net
+
+223.225.178.41 = NOT FOUND
+
+240.139.73.126 = NOT FOUND
+
+25.212.126.229 = NOT FOUND
+
+105.73.187.113 = NOT FOUND
+
+212.166.254.240 = NOT FOUND
+
+35.184.173.228 = 228.173.184.35.bc.googleusercontent.com
+
+212.78.196.148 = static-148-196-78-212.thenetworkfactory.nl.
+
+ ns2.es.vodafone.nl.
+
+ ns1.es.vodafone.nl
+
+182.4.111.160 = NOT FOUND
+
+246.254.113.245 = NOT FOUND
+
+77.179.125.44 = dynamic-077-179-125-044.77.179.pool.telefonica.de.
+
+ ns2.telefonica.de.
+
+ ns3.telefonica.de.
+
+ ns1.telefonica.de
+
+96.32.178.213 = 096-032-178-213.res.spectrum.com.
+
+ auth2.charter.com.
+
+ auth3.charter.com.
+
+ auth4.charter.com.
+
+ auth1.charter.com
+
+62.18.99.196 = NOT FOUND
+
+73.118.196.33 = c-73-118-196-33.hsd1.wa.comcast.net
+
+185.32.18.148 = 185-32-18-148-guifi.ip4.guifi.net.
+
+ ns3.guifi.net.
+
+ ns1.guifi.net.
+
+ ns2.guifi.net
+
+128.188.58.239 = NOT FOUND
+
+127.62.3.61 = NOT FOUND
+
+134.120.180.123 = NOT FOUND
+
+105.118.93.109 = NOT FOUND
+
+35.179.128.243 = ec2-35-179-128-243.eu-west-2.compute.amazonaws.com.
+
+ ns1-24-eu-west-2.ec2-rdns.amazonaws.com.
+
+ ns2-24-eu-west-2.ec2-rdns.amazonaws.com.
+
+ ns3-24-eu-west-2.ec2-rdns.amazonaws.com.
+
+ ns4-24-eu-west-2.ec2-rdns.amazonaws.com
+
+253.255.84.176 = NOT FOUND
+
+98.25.3.116 = cpe-98-25-3-116.sc.res.rr.com.
+
+ dns3.rr.com.
+
+ dns6.rr.com.
+
+ dns5.rr.com.
+
+ dns2.rr.com.
+
+ dns1.rr.com
+
+58.63.225.16 = NOT FOUND
+
+148.75.64.253 = ool-944b40fd.dyn.optonline.net.
+
+ authns1.cv.net.
+
+ authns1.cvnet.com
+
+224.79.11.246 = NOT FOUND
+
+143.238.90.174 = cpe-143-238-90-174.nb07.nsw.asp.telstra.net.
+
+ adns01.bigpond.com.
+
+ adns02.bigpond.com.
+
+ adns03.bigpond.com.
+
+ adns04.bigpond.com
+
+22.36.138.35 = NOT FOUND
+
+63.241.186.70 = h-63-241-186-70.cashedge.com
+
+25.23.117.216 = NOT FOUND
+
+248.62.220.190 = NOT FOUND
+
+5.81.18.56 = host5-81-18-56.range5-81.btcentralplus.com.
+
+ ns21.bt.net.
+
+ ns20.bt.net
+
+201.131.203.219 = 201-131-203-219.blacom.net.
+
+ dns1.internetcomunicate.mx
+
+184.44.217.90 = NOT FOUND
+
+157.13.221.131 = NOT FOUND
+
+116.45.195.236 = NOT FOUND
+
+16.8.51.124 = NOT FOUND
+
+146.51.147.204 = NOT FOUND
+
+191.247.91.110 = 191-247-91-110.3g.claro.net.br.
+
+ ns01.3g.claro.net.br.
+
+ ns03.3g.claro.net.br.
+
+ ns02.3g.claro.net.br.
+
+ ns04.3g.claro.net.br
+
+66.155.236.127 = NOT FOUND
+
+75.39.182.148 = 75-39-182-148.lightspeed.sndgca.sbcglobal.net.
+
+ ns10b.attdns.net.
+
+ ns10a.attdns.net
+
+73.58.57.43 = c-73-58-57-43.hsd1.al.comcast.net
+
+79.247.231.6 = p4ff7e706.dip0.t-ipconnect.de
+
+143.69.195.150 = NOT FOUND
+
+187.181.246.10 = bbb5f60a.virtua.com.br.
+
+ ns8.virtua.com.br.
+
+ ns7.virtua.com.br
+
+232.245.172.9 = NOT FOUND
+
+23.71.249.0 = NOT FOUND
+
+68.195.230.20 = ool-44c3e614.static.optonline.net.
+
+ authns1.cv.net.
+
+ authns1.cvnet.com
+
+173.101.230.232 = NOT FOUND
+
+97.35.52.83 = 83.sub-97-35-52.myvzw.com
+
+38.31.130.90 = NOT FOUND
+
+236.214.21.166 = NOT FOUND
+
+241.244.241.184 = NOT FOUND
+
+207.202.55.118 = NOT FOUND
+
+2.59.146.158 = xdsl.2.59.146.158.srvc.fr.
+
+ ns4.unyc.io.
+
+ ns2.unyc.io
+
+109.43.53.207 = ip-109-43-53-207.web.vodafone.de
+
+59.44.220.239 = NOT FOUND
+
+229.200.173.17 = NOT FOUND
+
+33.185.113.56 = NOT FOUND
+
+244.90.33.127 = NOT FOUND
+
+112.154.122.252 = NOT FOUND
+
+61.203.199.238 = NOT FOUND
+
+75.134.185.139 = 075-134-185-139.res.spectrum.com.
+
+ auth4.charter.com.
+
+ auth1.charter.com.
+
+ auth2.charter.com.
+
+ auth3.charter.com
+
+118.56.10.246 = NOT FOUND
+
+116.152.130.243 = NOT FOUND
+
+120.56.47.196 = NOT FOUND
+
+123.141.171.181 = NOT FOUND
+
+37.58.115.225 = e1.73.3a25.ip4.static.sl-reverse.com
+
+127.5.234.172 = NOT FOUND
+
+105.45.9.82 = NOT FOUND
+
+193.104.138.93 = NOT FOUND
+
+52.153.140.218 = NOT FOUND
+
+32.35.0.149 = NOT FOUND
+
+127.233.154.4 = NOT FOUND
+
+24.192.193.32 = d192-24-32-193.try.wideopenwest.com.
+
+ dns2.wideopenwest.com.
+
+ dns1.wideopenwest.com
+
+152.92.115.92 = NOT FOUND
+
+17.138.32.103 = NOT FOUND
+
+231.96.104.167 = NOT FOUND
+
+18.119.134.18 = ec2-18-119-134-18.us-east-2.compute.amazonaws.com.
+
+ ns1-24-us-east-2.ec2-rdns.amazonaws.com.
+
+ ns2-24-us-east-2.ec2-rdns.amazonaws.com.
+
+ ns3-24-us-east-2.ec2-rdns.amazonaws.com.
+
+ ns4-24-us-east-2.ec2-rdns.amazonaws.com
+
+240.167.185.98 = NOT FOUND
+
+239.218.32.32 = NOT FOUND
+
+76.118.245.34 = c-76-118-245-34.hsd1.ma.comcast.net
+
+76.128.115.76 = NOT FOUND
+
+111.172.70.78 = NOT FOUND
+
+92.26.139.18 = host-92-26-139-18.as13285.net
+
+194.248.166.218 = 218.166.248.194.static.cust.telenor.com.
+
+ ns1.nextra.no.
+
+ ns2.nextra.no
+
+209.199.17.197 = NOT FOUND
+
+130.5.188.104 = nothing.attdns.com.
+
+ ns4.attdns.com.
+
+ ns2.attdns.com.
+
+ ns1.attdns.com.
+
+ ns3.attdns.com
+
+205.154.32.98 = NOT FOUND
+
+118.130.138.50 = NOT FOUND
+
+124.39.242.164 = 124x39x242x164.ap124.ftth.ucom.ne.jp.
+
+ ns01.usen.ad.jp.
+
+ ns02.usen.ad.jp.
+
+ ns03.usen.ad.jp
+
+227.82.60.59 = NOT FOUND
+
+188.106.188.185 = dslb-188-106-188-185.188.106.pools.vodafone-ip.de
+
+54.121.146.239 = NOT FOUND
+
+24.239.219.120 = dynamic-acs-24-239-219-120.zoominternet.net.
+
+ ns2.zbzoom.net.
+
+ ns1.zbzoom.net
+
+92.129.231.225 = NOT FOUND
+
+253.253.235.49 = NOT FOUND
+
+174.74.53.85 = ip174-74-53-85.om.om.cox.net.
+
+ ns.cox.net.
+
+ ns.east.cox.net.
+
+ ns.west.cox.net
+
+59.107.189.40 = NOT FOUND
+
+231.60.138.124 = NOT FOUND
+
+54.179.222.151 = ec2-54-179-222-151.ap-southeast-1.compute.amazonaws.com.
+
+ ns1-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+
+ ns2-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+
+ ns3-24-ap-southeast-1.ec2-rdns.amazonaws.com.
+
+ ns4-24-ap-southeast-1.ec2-rdns.amazonaws.com
+
+131.158.149.248 = NOT FOUND
+
+23.161.239.182 = NOT FOUND
+
+137.194.79.149 = NOT FOUND
+
+138.243.97.221 = NOT FOUND
+
+75.37.181.176 = NOT FOUND
+
+101.142.164.81 = 101-142-164-81f1.hyg1.eonet.ne.jp.
+
+ ns1.eonet.ne.jp.
+
+ ns7.eonet.ne.jp
+
+115.128.42.108 = NOT FOUND
+
+215.115.219.231 = NOT FOUND
+
+174.74.198.60 = ip174-74-198-60.ph.ph.cox.net.
+
+ ns.cox.net.
+
+ ns.west.cox.net.
+
+ ns.east.cox.net
+
+195.2.96.158 = NOT FOUND
+
+118.121.179.96 = NOT FOUND
+
+128.35.220.11 = epla1.corpnamesvcs.co
+
+91.96.218.223 = dyndsl-091-096-218-223.ewe-ip-backbone.de.
+
+ ans1.ewetel.net.
+
+ ans2.ewetel.de.
+
+ ans3.ewetel.net.
+
+ ans0.ewetel.de
+
+226.134.220.105 = NOT FOUND
+
+23.182.19.130 = NOT FOUND
+
+237.83.208.196 = NOT FOUND
+
+170.62.195.109 = NOT FOUND
+
+180.126.151.49 = NOT FOUND
+
+65.21.69.79 = static.79.69.21.65.clients.your-server.de.
+
+ ns1.your-server.de.
+
+ ns.second-ns.com.
+
+ ns3.second-ns.de
+
+116.176.16.99 = NOT FOUND
+
+174.172.20.192 = c-174-172-20-192.hsd1.md.comcast.net
+
+204.182.243.211 = NOT FOUND
+
+189.252.110.82 = dsl-189-252-110-82-dyn.prod-infinitum.com.mx.
+
+ nsmty2.uninet.net.mx.
+
+ dnsadm-interno.uninet.net.mx.
+
+ nsgdl2.uninet.net.mx.
+
+ nsmex2.uninet.net.mx
+
+12.47.36.22 = NOT FOUND
+
+7.58.196.13 = NOT FOUND
+
+229.3.133.24 = NOT FOUND
+
+231.140.234.173 = NOT FOUND
+
+135.206.14.88 = nothing.attdns.com.
+
+ ns1.attdns.com.
+
+ ns2.attdns.com.
+
+ ns3.attdns.com.
+
+ ns4.attdns.com
+
+89.85.114.70 = 89-85-114-70.abo.bbox.fr
+
+6.203.44.180 = NOT FOUND
+
+139.223.155.204 = NOT FOUND
+
+224.197.177.221 = NOT FOUND
+
+50.32.39.35 = 50-32-39-35.drr01.hrbg.pa.frontiernet.net
+
+68.118.185.196 = 068-118-185-196.res.spectrum.com.
+
+ auth4.charter.com.
+
+ auth1.charter.com.
+
+ auth2.charter.com.
+
+ auth3.charter.com
+
+133.228.192.37 = NOT FOUND
+
+101.190.117.174 = cpe-101-190-117-174.nb16.nsw.asp.telstra.net.
+
+ adns01.bigpond.com.
+
+ adns02.bigpond.com.
+
+ adns03.bigpond.com.
+
+ adns04.bigpond.com
+
+213.68.163.113 = NOT FOUND
+
+184.193.114.55 = ip-184-193-114-55.nymnny.spcsdns.net.
+
+ ns1.spcsdns.net.
+
+ ns3.spcsdns.net.
+
+ osscdns01.spcsdns.net.
+
+ ns2.spcsdns.net.
+
+ osscdns02.spcsdns.net.
+
+ ns4.spcsdns.net
+
+168.48.15.103 = NOT FOUND
+
+150.135.0.230 = NOT FOUND
+
+81.84.218.86 = a81-84-218-86.cpe.netcabo.pt.
+
+ ns1.zon.pt.
+
+ ns2.zon.pt
+
+103.157.112.66 = NOT FOUND
+
+75.31.12.75 = NOT FOUND
+
+69.35.230.37 = NOT FOUND
+
+98.173.81.122 = wsip-98-173-81-122.lv.lv.cox.net.
+
+ ns2.coxmail.com.
+
+ ns1.coxmail.com
+
+47.21.183.237 = ool-2f15b7ed.static.optonline.net.
+
+ authns1.cv.net.
+
+ authns1.cvnet.com
+
+110.14.27.112 = NOT FOUND
+
+43.198.36.35 = ec2-43-198-36-35.ap-east-1.compute.amazonaws.com.
+
+ ns1-24-ap-east-1.ec2-rdns.amazonaws.com.
+
+ ns2-24-ap-east-1.ec2-rdns.amazonaws.com.
+
+ ns3-24-ap-east-1.ec2-rdns.amazonaws.com.
+
+ ns4-24-ap-east-1.ec2-rdns.amazonaws.com
+
+3.155.57.206 = NOT FOUND
+
+170.0.207.118 = NOT FOUND
+
+221.199.169.101 = NOT FOUND
+
+245.220.1.218 = NOT FOUND
+
+196.58.85.244 = NOT FOUND
+
+250.194.65.86 = NOT FOUND
+
+109.103.14.178 = NOT FOUND
+
+254.144.34.69 = NOT FOUND
+
+55.198.24.191 = NOT FOUND
+
+163.136.147.130 = NOT FOUND
+
+203.10.179.106 = NOT FOUND
+
+233.176.220.221 = NOT FOUND
+
+183.38.178.168 = NOT FOUND
+
+252.180.200.149 = NOT FOUND
+
+242.210.245.186 = NOT FOUND
+
+190.91.9.9 = client-190-91-9-9.imovil.entelpcs.cl.
+
+ polux.entelchile.net.
+
+ castor.entelchile.net
+
+101.215.40.61 = NOT FOUND
+
+12.119.7.148 = NOT FOUND
+
+197.236.7.47 = NOT FOUND
+
+1.216.61.54 = NOT FOUND
+
+166.9.149.12 = c.95.09a6.ip4.static.sl-reverse.com
+
+193.73.90.166 = NOT FOUND
+
+25.137.219.237 = NOT FOUND
+
+234.200.50.149 = NOT FOUND
+
+220.120.186.135 = NOT FOUND
+
+105.124.129.193 = NOT FOUND
+
+227.35.81.5 = NOT FOUND
+
+125.34.63.192 = NOT FOUND
+
+13.247.133.1 = ec2-13-247-133-1.af-south-1.compute.amazonaws.com.
+
+ ns1-24-af-south-1.ec2-rdns.amazonaws.com.
+
+ ns2-24-af-south-1.ec2-rdns.amazonaws.com.
+
+ ns3-24-af-south-1.ec2-rdns.amazonaws.com.
+
+ ns4-24-af-south-1.ec2-rdns.amazonaws.com
+
+176.240.147.52 = NOT FOUND
+
+33.213.97.26 = NOT FOUND
+
+28.150.227.30 = NOT FOUND
+
+135.111.130.36 = 36.130.111.135.in-addr.arpa
+
+218.12.185.221 = NOT FOUND
+
+80.211.202.39 = 39.202.forpsi.net
+
+105.126.27.207 = NOT FOUND
+
+5.195.232.191 = NOT FOUND
+
+197.72.222.239 = NOT FOUND
+
+225.54.209.2 = NOT FOUND
+
+165.119.165.76 = NOT FOUND
+
+67.55.15.215 = NOT FOUND
+
+2.144.216.212 = NOT FOUND
+
+220.141.126.167 = 220-141-126-167.dynamic-ip.hinet.net
+
+68.15.24.117 = wsip-68-15-24-117.sd.sd.cox.net.
+
+ ns1.coxmail.com.
+
+ ns2.coxmail.com
+
+157.67.118.212 = NOT FOUND
+
+183.62.144.212 = NOT FOUND
+
+118.229.220.136 = NOT FOUND
+
+27.72.159.188 = dynamic-ip-adsl.viettel.vn
+
+236.234.46.35 = NOT FOUND
+
+241.166.58.136 = NOT FOUND
+
+212.43.162.218 = nrth-bb-1b-as4-0.network.virginmedia.net.
+
+ ns4.virginmedia.net.
+
+ ns1.virginmedia.net.
+
+ ns2.virginmedia.net.
+
+ ns3.virginmedia.net

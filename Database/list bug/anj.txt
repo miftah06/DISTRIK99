@@ -1,0 +1,50 @@
+useradd: user 'anu' already exists
+
+Informasi SSH & OpenVPN
+==============================
+Username: anu
+Password: 123
+Created: 2022-09-05
+Expired: 2025-05-31
+===========HOST-SSH===========
+IP/Host: 149.129.223.148
+Domain SSH: onichan-e3g9g.mantapxsl.my.id
+Domain Cloudflare: onichan-e3g9g.mantapxsl.my.id
+Domain CloudFront:
+===========SLOWDNS===========
+Domain Name System(DNS): 8.8.8.8
+Name Server(NS): zerosl-e3g9g.mantapxsl.my.id
+DNS PUBLIC KEY: 7fbd1f8aa0abfe15a7903e837f78aba39cf61d36f183bd604daa2fe4ef3b7b59
+Domain SlowDNS: zerosl-e3g9g.mantapxsl.my.id
+=========Service-Port=========
+SlowDNS: 443,22,109,143
+OpenSSH: 22
+Dropbear: 443, 109, 143
+SSL/TLS: 443
+SSH Websocket SSL/TLS: 443
+SSH Websocket HTTP: 8880
+BadVPN UDPGW: 7100,7200,7300
+Proxy CloudFront: [OFF]
+Proxy Squid: [OFF]
+OHP SSH: 8181
+OHP Dropbear: 8282
+OHP OpenVPN: 8383
+OVPN Websocket: 2086
+OVPN Port TCP: 1194
+OVPN Port UDP: 2200
+OVPN Port SSL: 990
+OVPN TCP: http://149.129.223.148:89/tcp.ovpn
+OVPN UDP: http://149.129.223.148:89/udp.ovpn
+OVPN SSL: http://149.129.223.148:89/ssl.ovpn
+==============================
+SNI/Server Spoof: isi dengan bug
+Payload Websocket SSL/TLS
+==============================
+GET wss://bug.com/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
+==============================
+Payload Websocket HTTP
+==============================
+GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
+==============================
+Script Mod By SL
+miftah@iZk1af0xw915jy67ajv9cuZ:~$

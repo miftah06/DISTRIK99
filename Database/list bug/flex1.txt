@@ -1,0 +1,689 @@
+1.0.0.0          409   cloudflare            test.cdo.net
+107.23.155.205   301                         3shop.tri.co.id
+116.206.10.74    302   BigIP                 4g.tri.co.id
+18.138.169.169   596   Mashery Proxy         api.tri.co.id
+116.206.10.74    302   BigIP                 4g.tri.co.id
+116.206.10.23    302   BigIP                 aplikasi.tri.co.id
+116.206.10.74    302   BigIP                 4g.tri.co.id
+18.138.169.169   596   Mashery Proxy         api.tri.co.id
+3.33.152.147     405   awselb/2.0            01az.com
+18.138.169.169   596   Mashery Proxy         api.tri.co.id
+116.206.10.23    302   BigIP                 aplikasi.tri.co.id
+162.241.30.106   406   Apache                01communication.com
+122.248.210.166  596   Mashery Proxy         tri.api.mashery.com
+194.124.73.141   301   nginx/1.18.0 (Ubuntu)  01machinery.com
+185.2.4.16       410   Apache                01rivadossi.com
+13.214.90.163    596   Mashery Proxy         tri.api.mashery.com
+3.140.13.188     404                         1000cose.com
+18.119.154.66    404                         traff-6.hugedomains.com
+18.119.154.66    404                         hdr-nlb10-d66bbad0736f8259.elb.us-east-2.amazonaws.com
+13.214.90.163    596   Mashery Proxy         tri.api.mashery.com
+89.46.110.56     301   aruba-proxy           1000areas.com
+13.214.90.163    596   Mashery Proxy         sb-tri.mashery.com
+122.248.210.166  596   Mashery Proxy         sb-tri.mashery.com
+122.248.210.166  596   Mashery Proxy         sb-tri.mashery.com
+1.0.0.1          301   cloudflare            1dot1dot1dot1.cloudflare-dns.com
+1.0.0.2          301   cloudflare            security.cloudflare-dns.com
+1.1.1.3          301   cloudflare            family.cloudflare-dns.com
+1.1.1.1          409   cloudflare            wlc.telecom.com.ar
+1.1.1.1          403   cloudflare            videos.co
+1.1.1.1          403   cloudflare            www.videos.co
+1.1.1.1          403   cloudflare            0800encoder.com
+1.1.1.1          403   cloudflare            allencoders.com
+1.1.1.1          409   cloudflare            kxd-pages.ihago.cn
+1.1.1.1          403   cloudflare            arrinet.com
+1.1.1.1          403   cloudflare            allsensorshop.com
+1.1.1.1          403   cloudflare            analogencoder.com
+1.1.1.1          403   cloudflare            aviado.com
+31.11.32.218     301   Microsoft-IIS/8.5     0331viaggi.com
+1.1.1.1          403   cloudflare            bestencoder.com
+1.1.1.1          403   cloudflare            boaretto.com
+1.1.1.1          403   cloudflare            buzzdive.com
+1.1.1.1          403   cloudflare            buyanovsky.com
+1.1.1.1          403   cloudflare            www.buzzdive.com
+1.1.1.1          403   cloudflare            cashwize.com
+1.1.1.1          403   cloudflare            car-truck-defect-lawyers.com
+1.1.1.2          409   cloudflare            game.arenaofvalor.com
+1.1.1.2          409   cloudflare            support.arenaofvalor.com
+1.1.1.3          409   cloudflare            www.claro.info
+152.32.188.17    200   nginx                 cf.stzo.cn
+5.161.47.233     302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.30  avaride.com
+31.11.33.125     301   Microsoft-IIS/8.5     01percent.com
+1.1.1.4          409   cloudflare            ocloud.tn
+152.32.188.17    200   nginx                 stzo.cn
+152.32.188.17    200   nginx                 cloudfare.sni.kakoyi.com
+50.28.29.84                                  081081.com
+1.2.3.4                                      10minutesweb.com
+13.107.229.23    400                         rbi.org.in
+184.168.253.1                                beckettdesigns.com
+69.64.147.243                                benreese.com
+14.140.169.71    307                         m.rbi.org.in
+1.2.3.5                                      www.artmobilis.sms.com
+1.7.141.36       200   nginx                 digi.mv1.in
+1.2.3.5                                      www.art.mobilis.sms.com
+1.2.3.5                                      www.mobilis.sms.com
+1.2.3.5                                      www.ooredoo.sms.com
+1.2.4.8                                      public1.sdns.cn
+1.9.58.113                                   ottweb.hypp.tv
+
+125.209.249.6                                adns2.naver.com
+125.209.249.6                                ns2.naver.com
+125.209.248.6                                adns1.naver.com
+147.92.152.224                               ns1.naver.jp
+125.209.248.6                                ns1.naver.com
+147.92.151.17                                mx2-common.line-apps.com
+147.92.151.17                                mx2-common.line-apps.com
+147.92.162.216                               ns2.naver.jp
+223.130.195.200  301   NWS                   naver.com
+147.92.243.206   302   openresty             line.me
+147.92.243.206   302   openresty             line.me
+147.92.191.92                                tr.line.me
+147.92.184.221                               monitoring.game.line.me
+147.92.240.164   404                         reward.line.me
+147.92.146.137   301                         pokopoko.game.line.me
+147.92.191.127   301   nginx/1.12.0          jumputiglobal.game.line.me
+147.92.146.211   301                         manga-blog-ja.line.me
+147.92.146.211   301                         official-blog-id.line.me
+125.209.244.46                               mail.game.line.me
+147.92.146.137   301                         monsterfarm.game.line.me
+125.209.244.46                               mail.game.line.me
+147.92.146.211   301                         official-blog-ja.line.me
+147.92.146.211   301                         cc.line.me
+125.209.222.43                               scc.line.me
+125.209.234.227  404   nginx                 quick.game.line.me
+147.92.241.50                                godtamazeiya.game.line.me
+147.92.243.152   501   nginx                 lush.game.line.me
+203.104.138.200  302   Apache                pointclub.line.me
+147.92.184.129   301                         game.line.me
+147.92.146.203                               mkt-tool.game.line.me
+147.92.146.211   301                         gift-blog-ja.line.me
+147.92.144.207                               pod-mobile.game.line.me
+147.92.184.128   301   envoy                 codelab.line.me
+147.92.150.13                                mx1-common.line-apps.com
+147.92.150.13                                mx1-common.line-apps.com
+147.92.151.16                                mx3-common.line-apps.com
+147.92.191.159                               mx-common.line-apps.com
+147.92.144.174                               refund.line.me
+147.92.151.16                                mx3-common.line-apps.com
+147.92.146.211   404                         pockeo.line.me
+147.92.146.137   301                         pop2.game.line.me
+147.92.184.33    301   nginx                 music.line.me
+147.92.191.12    308                         place.line.me
+147.92.243.179   301   nginx                 manga.line.me
+147.92.241.50                                tantan.game.line.me
+147.92.146.211   301                         creator-mag-ja.line.me
+147.92.146.211   301                         baito-mag-ja.line.me
+147.92.146.211   301                         official-blog-en.line.me
+125.209.210.132                              stage.line.me
+168.245.42.17                                o3.ptr5625.mobile.line.me
+168.245.42.17                                o3.ptr5625.mobile.line.me
+147.92.240.162                               bridgepage.game.line.me
+147.92.191.244                               mycard.line.me
+147.92.146.137   301                         chodaifugo.game.line.me
+10.113.191.232                               promotion-staging.game.line.me
+147.92.241.50                                makepositive.game.line.me
+147.92.146.211   301                         healthcare-blog.line.me
+147.92.146.211   301                         line-entry-blog.line.me
+147.92.146.137   301                         brownfarm.game.line.me
+125.209.222.241                              reconquista.game.line.me
+147.92.144.180                               access2.line.me
+147.92.146.119   301   nginx                 developers-admin.game.line.me
+147.92.191.86    404   nginx                 notice-o.line.me
+147.92.146.137   301                         ttstadium.game.line.me
+147.92.191.40    404   nginx                 notice2-o.line.me
+147.92.146.137   301                         home.game.line.me
+149.72.42.169                                o1.ptr7301.mobile.line.me
+147.92.146.137   301                         pokekure.game.line.me
+147.92.184.176   301   nginx                 mypage-mobile.line.me
+147.92.191.5     302   nginx                 contact-cc.line.me
+147.92.146.137   301                         chef.game.line.me
+147.92.146.137   301                         jumputi.game.line.me
+125.209.208.109  302   nfront-stage          alpha-nc.line.me
+149.72.42.169                                o1.ptr7301.mobile.line.me
+147.92.146.137   301                         drpk.game.line.me
+147.92.146.211   301                         creator-manual-ja.line.me
+10.118.128.94                                console-internal.game.line.me
+125.209.244.57                               bingo.game.line.me
+125.209.210.242                              payxoa-web.line.me
+10.118.128.94                                trident-admin.game.line.me
+147.92.146.199   301   nginx                 app-manga.line.me
+147.92.146.168                               schedule.line.me
+147.92.146.211   301                         lbc.line.me
+147.92.146.137   301                         lg10th-special.game.line.me
+147.92.144.220   301   nginx                 store-rc.line.me
+203.104.138.200  302   Apache                insurance.line.me
+147.92.146.166   302   nginx                 d.line.me
+147.92.144.175   307                         accountpage.line.me
+10.118.128.71                                promotion-api.game.line.me
+147.92.146.137   301                         magiccoin.game.line.me
+147.92.146.137   301                         tsumtsum.game.line.me
+147.92.146.137   301                         pokopangtown.game.line.me
+147.92.241.4                                 lg10th.game.line.me
+147.92.243.214   301   nginx                 ec.line.me
+147.92.146.137   301                         bubble2.game.line.me
+147.92.146.137   301                         hello-bt21.game.line.me
+10.115.214.58                                growthy-batch.game.line.me
+125.209.208.109  302   nfront-stage          alpha-ace.line.me
+147.92.146.211   301                         delima.line.me
+147.92.242.44    404   nginx                 agecheck-rc.line.me
+147.92.146.211   200                         ticket-mypage.line.me
+147.92.144.215                               game-oa.line.me
+147.92.184.51                                order-mobile.line.me
+147.92.191.129   301   nginx                 mobile.line.me
+125.209.244.46                               virtual.mail.game.line.me
+125.209.210.177                              sign-rehearsal.game.line.me
+10.113.230.219                               naro-staging.game.line.me
+10.233.126.80                                gcld-knife-stg.game.line.me
+10.118.128.71                                promotion.game.line.me
+147.92.191.211                               wallet-coupon-api-thailand.line.me
+147.92.144.180                               api2.line.me
+
+host             code  server                hostname
+----             ----  ------                --------
+125.209.222.14                               mx3.naver.com
+125.209.222.14                               mx3.naver.com
+125.209.238.137                              mx2.naver.com
+125.209.238.137                              mx2.naver.com
+125.209.238.100                              mx1.naver.com
+125.209.238.100                              mx1.naver.com
+125.209.209.251                              aspmx1.naver.com
+223.130.200.107  301   NWS                   naver.com
+125.209.209.251                              crcvmail.worksmobile.com
+223.130.200.107  301   NWS                   naver.com
+114.111.32.30                                crawl.114-111-32-30.web.naver.com
+114.111.32.30                                crawl.114-111-32-30.web.naver.com
+110.93.150.220                               crawl.110-93-150-220.web.naver.com
+182.162.200.90   301   nginx                 m.tvcast.naver.com
+110.93.150.220                               crawl.110-93-150-220.web.naver.com
+210.89.168.150   200   Apache                help.admin.pay.naver.com
+125.209.249.6                                ns2.naver.com
+125.209.249.6                                ns2.naver.com
+125.209.248.6                                ns1.naver.com
+125.209.248.6                                ns1.naver.com
+125.209.214.63   301   Apache                crossmedia.naver.com
+125.209.230.144  200   Apache                m.bboom2.naver.com
+61.247.200.101                               a51465.naver.com
+210.89.168.80    301                         m.searchad.naver.com
+61.247.200.84                                a51196.naver.com
+61.247.200.84                                a51196.naver.com
+125.209.218.19                               endic2009.naver.com
+125.209.238.153                              imap.naver.com
+202.131.27.109                               mail4.naver.com
+223.130.200.120                              mydata.ekyc.naver.com
+110.93.146.10                                crawl.110-93-146-10.web.naver.com
+125.209.229.59   302   Apache                hanja.naver.com
+110.93.146.10                                crawl.110-93-146-10.web.naver.com
+211.249.46.200                               crawl.211-249-46-200.web.naver.com
+223.130.195.97   404                         api.appnotice.naver.com
+61.247.200.103                               a51467.naver.com
+61.247.200.103                               a51467.naver.com
+125.209.226.200  301   Apache/2.4.53 (Unix)  100.naver.com
+61.247.200.101                               a51465.naver.com
+125.209.226.203  302   Apache                land.naver.com
+202.131.24.211                               s.lab.naver.com
+210.89.168.55                                m.searchad.naver.com.nheos.com
+202.131.27.109                               mail8.naver.com
+211.249.46.110                               crawl.211-249-46-110.web.naver.com
+211.249.46.110                               crawl.211-249-46-110.web.naver.com
+182.162.202.178                              info.finance.naver.com
+202.131.27.109                               mail10.naver.com
+125.209.218.81   301   Apache                accessibility.naver.com
+125.209.226.22   302   Apache                happyimg2.naver.com
+61.247.200.79                                a51185.naver.com
+210.89.168.155   302   Apache/2.4.57 (Unix) OpenSSL/1.1.1k mod_jk/1.2.42  ndim.da.naver.com
+211.249.46.210                               crawl.211-249-46-210.web.naver.com
+210.89.168.159   403   Apache/2.4.57 (Unix) OpenSSL/1.1.1k mod_jk/1.2.42  preview.ad.naver.com
+211.249.46.210                               crawl.211-249-46-210.web.naver.com
+125.209.226.143  301   Apache                scrapbook.naver.com
+125.209.229.59   302   Apache                m.endic.naver.com
+110.93.157.81    400   nginx                 stg.auth-clova.naver.com
+125.209.210.32   301   nginx                 ntax.naver.com
+61.247.201.179                               d79434.naver.com
+61.247.201.179                               d79434.naver.com
+61.247.200.79                                a51185.naver.com
+114.111.32.220                               crawl.114-111-32-220.web.naver.com
+114.111.32.220                               crawl.114-111-32-220.web.naver.com
+110.93.157.51    307   nginx                 clovanote.naver.com
+117.52.128.246   301   nginx                 sell.smartstore.naver.com
+110.93.150.100                               crawl.110-93-150-100.web.naver.com
+202.179.178.4                                auth-clova.naver.com
+125.209.210.43   301                         contact.naver.com
+110.93.151.11                                auth-clova.naver.com.nheos.com
+125.209.226.146  404   Apache                api.se2.naver.com
+125.209.248.6                                ns3.naver.com
+202.131.24.211                               t.lab.naver.com
+202.131.27.109                               mail7.naver.com
+175.158.2.171    403   nginx                 imgshopping2.naver.com
+117.52.128.9     302   Apache                edu.partners.naver.com
+61.247.200.82                                a51194.naver.com
+61.247.200.82                                a51194.naver.com
+110.93.157.2     301                         influencercenter.naver.com
+125.209.226.13   302   Apache                happylog.naver.com
+182.162.192.148  404                         mybox.naver.com
+211.249.46.100                               crawl.211-249-46-100.web.naver.com
+211.249.46.100                               crawl.211-249-46-100.web.naver.com
+114.111.32.120                               crawl.114-111-32-120.web.naver.com
+114.111.32.120                               crawl.114-111-32-120.web.naver.com
+210.89.168.199   302   Apache                help.sell.storefarm.naver.com
+125.209.230.135  403   nginx                 mail2.naver.com
+125.209.229.59   302   Apache                m.hanja.naver.com
+114.111.38.21                                a51180.naver.com
+61.247.200.80                                a51192.naver.com
+125.209.230.144  200   Apache                inkorea.naver.com
+125.209.249.6                                adns2.naver.com
+182.162.201.203                              alpha2-checkout.naver.com
+61.247.200.107                               a51477.naver.com
+110.93.150.210                               crawl.110-93-150-210.web.naver.com
+110.93.150.210                               crawl.110-93-150-210.web.naver.com
+61.247.200.107                               a51477.naver.com
+211.249.46.220                               crawl.211-249-46-220.web.naver.com
+211.249.46.220                               crawl.211-249-46-220.web.naver.com
+211.249.46.120                               crawl.211-249-46-120.web.naver.com
+211.249.46.120                               crawl.211-249-46-120.web.naver.com
+125.209.230.135  403   nginx                 mail1.naver.com
+125.209.226.13   403   Apache                happybean.naver.com
+61.247.200.102                               a51466.naver.com
+61.247.200.80                                a51192.naver.com
+61.247.200.102                               a51466.naver.com
+202.179.178.20   301   nginx                 shoppinglive.naver.com
+125.209.210.8    308   nginx                 lab.naver.com
+125.209.210.79   302   nginx                 map.naver.com
+175.158.5.171    404   nfront                store.naver.com
+110.93.151.18    301   nginx                 shoppinglive.naver.com.nheos.com
+43.227.116.236                               m.shop.ya9.naver.com
+61.247.200.72                                a51174.naver.com
+61.247.200.74                                a51178.naver.com
+110.93.158.163   404                         user.booking.naver.com.io.naver.com
+61.247.200.72                                a51174.naver.com
+61.247.200.87                                a51210.naver.com
+61.247.200.87                                a51210.naver.com
+125.209.238.155                              smtp.naver.com
+61.247.200.78                                a51183.naver.com
+110.93.158.167   301                         vtt.naver.com
+125.209.248.6                                adns1.naver.com
+117.52.128.233                               nsign-gw.naver.com
+110.93.145.199   404                         vtt.naver.com.io.naver.com
+61.247.200.74                                a51178.naver.com
+118.129.173.115                              land5.naver.com
+110.93.150.120                               crawl.110-93-150-120.web.naver.com
+61.247.200.88                                a51232.naver.com
+110.93.150.120                               crawl.110-93-150-120.web.naver.com
+114.111.32.100                               crawl.114-111-32-100.web.naver.com
+125.209.214.99   301   Apache                m.photoviewer.naver.com
+182.162.192.148  404                         cloud.naver.com
+125.209.230.144  200   Apache                vod.naver.com
+223.130.195.64   307   Apache                m.dic.naver.com
+61.247.200.88                                a51232.naver.com
+35.190.61.45     301                         HackerTarget.com
+172.104.213.248  301   nginx                 DNSdumpster.com
+35.190.61.45     301                         hackertarget.com
+210.89.172.8     200   Apache                help.shopping.naver.com
+171.67.68.36     308   Caddy                 scans.io
+61.247.200.81                                a51193.naver.com
+61.247.200.78                                a51183.naver.com
+61.247.200.86                                a51201.naver.com
+61.247.200.86                                a51201.naver.com
+125.209.218.78                               dna.naver.com
+61.247.200.81                                a51193.naver.com
+
+host             code  server                hostname
+----             ----  ------                --------
+223.130.200.107  301   NWS                   naver.com
+223.130.200.107  301   NWS                   naver.com
+223.130.200.107  301   NWS                   naver.com
+223.130.200.104  301   NWS                   naver.com
+223.130.200.104  301   NWS                   naver.com
+223.130.200.104  301   NWS                   naver.com
+223.130.200.107  301   NWS                   naver.com
+54.209.32.212    404                         boreenpoint.com
+52.71.57.184     404                         traff-1.hugedomains.com
+223.130.195.200  301   NWS                   naver.co.kr
+52.71.57.184     404                         hdr-nlb9-41371129e8304c29.elb.us-east-1.amazonaws.com
+3.19.116.195     404                         brisbaneseo.com
+185.199.111.153  301   GitHub.com            buddha101.com
+109.70.148.37    301   LiteSpeed             apg-global.com
+3.18.7.81        404                         traff-3.hugedomains.com
+3.18.7.81        404                         hdr-nlb4-0bbd2e21834cb637.elb.us-east-2.amazonaws.com
+50.87.216.65     406   Apache                carlmorgan.com
+3.19.116.195     404                         casstraining.com
+223.130.200.104  301   NWS                   naver.net
+23.227.38.32     301   cloudflare            cpapvictoria.com.au
+223.130.195.95   301   NWS                   naver.kr
+103.42.108.46    308   Caddy                 brocburndorpers.com
+103.42.108.46    308   Caddy                 carolsinthepark.com
+172.67.214.208   200   cloudflare            carinalee.com
+103.224.212.246  302   Apache                bizhound.com.au
+110.232.143.78   200   LiteSpeed             brisbanescan.com
+210.89.168.53    301                         linewebtoon.com
+223.130.200.104  301   NWS                   naver.co
+103.18.109.95    301   LiteSpeed             www.bellsremovals.com.au
+125.209.230.155  403   nginx                 api.webtoons.com
+223.130.195.137  403   nginx                 api.webtoons.com.nheos.com
+210.89.168.53    301                         www.linewebtoon.com
+103.18.109.95    301   LiteSpeed             bellsremovals.com.au
+223.130.200.107  302   NWS                   pstatic.net
+67.213.140.50                                jamell.com
+52.201.46.228                                fusionenglish.com.au
+223.130.200.227                              webtoon.com
+223.130.200.227                              m.webtoon.com
+223.130.192.238                              webtoons.com
+223.130.206.90   302   nginx                 camera.line.me
+110.93.151.132   308                         www.nts-corp.com
+65.60.10.226     404                         teri.duloh.nazuka.net
+65.60.10.226     404                         kokor.duloh.nazuka.net
+223.130.195.99                               cdnlog-ex.navercdn.com
+204.74.99.100    404                         portfolio.economictimes.indiatimes.com
+204.74.99.100    404                         crs.ultradns.net
+223.165.16.14    500   Lotus-Domino          mananua.com
+223.165.27.134   301   Bhoot                 chandigarhtimes.com
+223.165.27.134   301   Bhoot                 chennaitimes.com
+104.127.92.150   301   AkamaiGHost           www.timesofindia.indiatimes.com
+104.127.161.168  301   AkamaiGHost           indiatimes.com
+104.127.92.150   400   AkamaiGHost           www.timesofindia.indiatimes.com.edgekey.net
+104.127.92.150   400   AkamaiGHost           e13857.dsce12.akamaiedge.net
+3.18.7.81        404                         bloomingimpex.com
+3.94.41.167      404                         capitalzones.com
+223.165.27.40                                boxtv.com
+192.110.161.107  301   LiteSpeed             celfrost.com
+52.86.6.113      404                         traff-4.hugedomains.com
+52.86.6.113      404                         hdr-nlb8-39c51fa8696874ee.elb.us-east-1.amazonaws.com
+172.67.199.92    301   cloudflare            hotklix.com
+104.127.92.43    301   AkamaiGHost           www.idiva.com
+104.127.92.43    400   AkamaiGHost           www.idiva.com.edgekey.net
+104.127.92.43    400   AkamaiGHost           e8559.dsce12.akamaiedge.net
+52.58.78.16                                  utv3.com
+223.130.192.238                              www.webtoon.com
+162.159.128.7    403   cloudflare            support.starmakerstudios.com
+187.191.88.157   302   nginx                 www.claro.com
+162.159.138.6    301   cloudflare            starmaker.zendesk.com
+129.226.102.94   302   stgw                  www.wesingapp.com
+223.130.200.227                              webtoon.com
+104.21.52.253    406   cloudflare            poin.selaluada.com
+154.70.107.66    301   nginx                 mtn.cm
+172.253.115.18   301   GSE                   mail.google.com
+157.240.241.17   301   proxygen-bolt         graph.facebook.com
+157.240.241.17   301   proxygen-bolt         star.c10r.facebook.com
+147.92.191.123   200   nginx                 jp-col-tcp.nelo.linecorp.com
+172.67.139.111   301   cloudflare            beacon.liveon.id
+31.13.71.1       301   proxygen-bolt         messenger.com
+104.21.8.162     200   cloudflare            blog.sociomile.com
+104.21.22.186    403   cloudflare            opm.gov.jm
+104.18.140.51    301   cloudflare            api.midtrans.com
+104.16.125.175   301   cloudflare            unpkg.com
+212.227.95.98    200   Apache                wesing.com
+216.40.34.41                                 server.200ok.com
+3.64.163.50                                  dashboard.skull.id
+8.255.35.122     200   nginx/1.21.0          cf.shopee.co.id
+108.136.225.173  301   nginx                 skul.id
+202.81.96.4      308                         www.freefiremobile.com
+8.241.170.122    404   FP6.1.3831.220        route.idc.cf.shopee.co.id
+223.130.200.227                              m.webtoon.com
+202.81.96.3      308                         ff.garena.com
+104.18.27.189    301   cloudflare            pm.zendesk.com.mx
+104.18.26.189    301   cloudflare            secure.pageserve.co
+202.81.96.4      404                         sea.k8s.garenanow.com
+223.130.192.238                              webtoons.com
+13.32.208.71     301   CloudFront            sushiroll.co.id
+8.255.36.250     404   FP6.1.3831.219        cf.shopee.co.id.c.footprint.net
+104.18.23.136    403   cloudflare            cdn.appsflyer.com
+107.178.247.105  200   BKWS                  i.bossusun.com
+104.18.22.136    409   cloudflare            cdn.appsflyer.com.cdn.cloudflare.net
+104.16.158.72    200   cloudflare            www.veterinarianplus.com
+64.68.121.205    302                         webex.com
+90.84.240.161    301   elb                   msurvey.orange.com
+104.18.11.217    301   cloudflare            mali.opendataforafrica.org
+162.159.134.61   301   cloudflare            useinsider.com
+217.160.0.171    200   Apache                www.umeetmehere.com
+45.60.46.195     301                         moov-africa.tg
+110.93.151.162                               www.nts-corp.com.nheos.com
+75.2.123.169     301   awselb/2.0            xl.co.id
+164.160.35.253   200   Apache                www.moov.tg
+202.3.208.158                                telkomsel.co.id
+161.0.97.143     301   Apache                flowbusiness.co
+45.60.62.65      301   Apache                activate.discoverflow.co
+45.60.62.65      301   Apache                a2aofys.impervadns.net
+75.2.82.226      301   awselb/2.0            axis.co.id
+104.18.23.19     301   cloudflare            www.w3.org
+164.160.35.253   301   Apache                cpanel.moov-africa.tg
+104.18.22.19     409   cloudflare            www.w3.org.cdn.cloudflare.net
+157.240.241.60   403   proxygen-bolt         www.whatsapp.com
+157.240.241.60   403   proxygen-bolt         mmx-ds.cdn.whatsapp.net
+104.18.23.208    403   cloudflare            genius.com
+197.239.64.140   302                         www.orange.bf
+43.255.196.243   302   BigIP                 tsel.me
+103.163.138.44   301   LiteSpeed             zoom.id
+104.18.21.174    301   cloudflare            auth.mtn.ci
+104.18.20.174    301   cloudflare            mtnci-prod-cd-cwgqwhfmrhzxdi5q.edge.mtn.auth0.com
+52.30.116.180    301   nginx/1.19.6          digster-ml.com
+104.18.19.229    404   cloudflare            cvs-deo.shopeemobile.com
+202.56.4.144     302   BigIP                 www.grameenphone.com
+104.18.18.229    530   cloudflare            cvs-deo.shopeemobile.com.sea-sw.swiftserve.com
+43.255.196.211                               ns2.telkomsel.com
+107.23.155.205   302                         appcatalog.appsclub.ru
+104.18.18.229    307   cloudflare            cvs-deo.shopeemobile.com.ll-jns.swiftserve.com
+107.23.155.205   200                         store.appsclub.com
+196.200.80.85    200   MMOG                  adnweb.orangemali.com
+185.88.105.121   301                         s1.dimelo.typhon.net
+104.17.74.206    302   cloudflare            vimeo.livestream.com
+104.17.70.206    409   cloudflare            livestream.mktoweb.com
+104.17.71.206    302   cloudflare            ab15.mktossl.com
+172.67.139.111   403   cloudflare            shopee.baguno.my.id
+217.64.98.116    200   nginx/1.22.0          malitelda.sotelma.ml
+154.118.162.238  301   nginx/1.18.0 (Ubuntu)  kshop.ml
+43.229.254.195   101                         ids-3.opensvr.net
+146.75.37.230    403   AmazonS3              assets.kampyle.com
+146.75.37.230    500   Varnish               medallia2.map.fastly.net
+41.66.15.246     301   nginx                 orange.ci
+165.160.15.20    301                         orange.ml
+148.141.109.50   301                         varnish.com
+190.112.224.170                              flowjamaica.com
+104.16.210.12    301   cloudflare            www.speedtest.net
+104.16.209.12    409   cloudflare            www.speedtest.net.cdn.cloudflare.net
+157.240.241.61                               g.whatsapp.net
+157.240.241.61                               chat.cdn.whatsapp.net
+217.64.98.114    302   Microsoft-IIS/10.0    malitel.ml
+151.101.130.217  301   Varnish               wtop.com
+64.190.63.111    403   NginX                 spotity.com
+104.18.21.226    301   cloudflare            www.globalsign.com
+104.18.160.90                                api.udemy.com
+104.18.21.14     301   cloudflare            zynn.egifter.com
+104.18.20.226    403   cloudflare            global.prd.cdn.globalsign.com
+104.18.20.226    409   cloudflare            cdn.globalsigncdn.com.cdn.cloudflare.net
+76.223.54.146    404   openresty             unitel.co
+35.186.224.25    301   envoy                 www.spotify.com
+35.186.224.25    301   envoy                 edge-web.dual-gslb.spotify.com
+76.223.54.146    404   openresty             angonet.com
+196.31.201.156                               srd.sassa.gov.za
+41.78.18.49                                  unitel.ao
+47.241.14.229    200   Apache/2.4.39 (Win32) mod_fcgid/2.3.9 OpenSSL/1.1.1b  dito.com.ph
+162.159.138.6    409   cloudflare            msupport.pubg.com
+34.98.99.30      200   openresty             unitel.com
+162.159.128.7    301   cloudflare            pubgmsupport.zendesk.com
+196.168.88.83    301   Apache                togocel.tg
+104.247.81.51    403   nginx                 axisjabar.point.net
+115.238.23.240                               alicdn.com
+52.85.151.43     301   CloudFront            app.dtac.co.th
+52.85.151.10     301   CloudFront            d17yxeq059ymu1.cloudfront.net
+172.67.69.106    301   cloudflare            airtel.td
+41.78.195.140                                www.vodacom.cd
+64.71.33.93      200   Apache                shabi.org
+104.22.24.131    301   cloudflare            tawk.to
+23.37.123.210    301   AkamaiGHost           www.tiktok.com
+41.77.223.187    301   nginx                 www.orange.cd
+41.202.220.92    301   nginx                 orange.cm
+23.37.123.203    400   AkamaiGHost           www.tiktok.com.edgesuite.net
+23.37.123.232    400   AkamaiGHost           a2047.api10.akamai.net
+172.67.73.168    301   cloudflare            cakap.com
+172.253.115.94   404   sffe                  connectivitycheck.gstatic.com
+172.253.63.19    301   sffe                  gmail.com
+104.22.14.19     301   cloudflare            bakikart.az
+199.59.243.224   200                         id.duobingo.com
+199.59.243.224   200                         77980.bodis.com
+188.64.188.232   301   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/8.1.21  tigosports.co.tz
+52.86.60.248     290   awselb/2.0            tigoid-cdn.tigocloud.net
+52.95.120.34     301   Server                amazon.de
+104.18.2.2       301   cloudflare            ruangguru.com
+52.58.78.16                                  glamcouture.com
+104.18.8.218     301   cloudflare            www.communityneedles.com
+108.138.64.44    301   CloudFront            www.adtech.yahooinc.com
+108.138.64.102   403   CloudFront            adtech-yahooinc-com.b2bmarketing-adtech-prod.aws.oath.cloud
+34.255.111.231   301   Brand Embassy         brandembassy.com
+96.6.42.234      301   AkamaiGHost           hulu.com
+54.37.254.121    301                         moovafrica.td
+104.21.39.204    301   cloudflare            exechack.cc
+15.197.142.173   405   awselb/2.0            www.line.com
+34.252.0.243     301   n/a                   monobank.ua
+3.33.152.147     405   awselb/2.0            line.com
+104.17.92.72     403   cloudflare            firstcommunitycuhb.com
+141.193.213.20   403   cloudflare            regent.ac.za
+104.26.5.84      301   cloudflare            3333s.com
+196.168.88.83    301   Apache                togocom.tg
+51.104.149.90    301                         o2.co.uk
+162.159.129.86   301   cloudflare            www.betika.com
+104.247.81.53    403   nginx                 airtel.cd.cd
+41.205.208.9     301                         www.orange.ma
+199.59.243.224   200                         altan.com
+31.13.71.37      301   proxygen-bolt         0.freebasics.com
+104.26.5.84      301   cloudflare            airtel.cd
+31.13.71.37      301   proxygen-bolt         z-m.c10r.facebook.com
+170.114.52.2     301   cloudflare            zoom.us
+192.0.66.32      301   nginx                 movistar.com
+72.21.81.200     404   ECAcc (dcb/7EDB)      az739826.vo.msecnd.net
+72.21.81.200     404   ECAcc (dcb/7EDB)      cs9.wpc.v0cdn.net
+20.236.44.162    301   Kestrel               microsoft.com
+195.60.68.81     301                         axis.com
+54.191.231.216   301   awselb/2.0            freedompop.mx
+185.151.204.101  301                         adjust.com
+154.73.23.105    301   nginx/1.14.0 (Ubuntu)  africell.cd
+34.241.47.232    301   awselb/2.0            www.africell.com
+217.70.184.38    200   nginx                 malitel.com
+63.33.133.21     301   awselb/2.0            app-d-Appli-51VBSRSYQ7LS-1404004107.eu-west-1.elb.amazonaws.com
+194.233.169.194  301   nginx                 madar.com
+51.255.119.246   301   nginx                 bladi.net
+104.17.24.14     200   cloudflare            cdnjs.cloudflare.com
+44.231.12.235    301   Apache/2.4.29 (Unix) OpenSSL/1.1.0f PHP/7.0.25  www.freedompop.com
+64.190.63.111    403   NginX                 almadar.net
+172.253.115.102  301   ESF                   m.youtube.com
+103.224.182.253  302   Apache                libyana.com
+197.201.96.116                               pauwes.dz
+85.10.215.10     301   Apache                mtn-investor.com
+34.149.46.130    301                         snapchat.com
+103.6.198.106    200   Apache                borer.mschosting.com
+104.18.8.218     301   cloudflare            gn.total.com
+104.244.42.198   301   tsa_b                 mobile.twitter.com
+199.59.243.224   200                         savefrom.com
+3.94.41.167      404                         javpee.com
+45.76.86.110                                 de1.tunnel.cx
+41.159.3.111     301   Microsoft-IIS/10.0    www.moov-africa.ga
+3.221.84.136     307   openresty/1.19.3.2    mi.brandvno.com
+20.212.64.11     301                         kplus.vn
+104.26.11.155    301   cloudflare            www.opensignal.com
+172.67.68.224    409   cloudflare            www.opensignal.com.cdn.cloudflare.net
+52.0.229.131     301   nginx                 tigo.co
+104.18.3.43      301   cloudflare            cdn2-staging.signal.org
+104.18.2.43      409   cloudflare            cdn2-staging.signal.org.cdn.cloudflare.net
+18.165.83.118    401   CloudFront            claro.portal-universal.com
+185.148.104.5    301   cloudflare            gbo5000.pro
+157.185.177.205  301   Cdn Cache Server V2.0  mobilelegends.com
+157.185.179.12                               mobilelegends.com.wsoversea.com
+181.214.154.196  301   nginx                 mobillegends.com
+104.21.13.236                                konferensi.id
+41.78.18.49                                  unitel.co.ao
+104.18.248.91    301   cloudflare            www.getepic.com
+164.160.35.253   301   Apache                moov.ci
+151.101.1.124    301                         www.wom.co
+151.101.193.124  500   Varnish               prod.magentocloud.map.fastly.net
+202.70.53.123    302   BigIP                 smartfren.com
+69.162.80.54     302   nginx                 www.whatsap.com
+137.184.2.115    400   nginx                 us2udp.sshsrv.com
+172.67.75.9      301   cloudflare            www.airtel.ga
+41.79.216.44     302                         mtn.bj
+104.18.215.59    301   cloudflare            cdn.onesignal.com
+18.160.18.62     301   CloudFront            www.msdmanuals.com
+18.160.18.3      301   CloudFront            cf-www.msdmanuals.com
+18.160.18.34     301   CloudFront            d1uagiuenk2uwy.cloudfront.net
+52.38.114.247                                carriersignal.info
+80.88.14.96                                  support.ooredoo.dz
+72.52.179.174    302   Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9  moov.net
+103.230.106.208  301   Apache/2.4.46 (Ubuntu)  www.teletalk.com.bd
+151.101.2.62     301                         www.telegram.com
+151.101.194.62   500   Varnish               domains.gannett.map.fastly.net
+104.238.94.3     403   Microsoft-IIS/8.5     telecelmali.com
+104.17.112.188   301   cloudflare            eurohealthobservatory.who.int
+178.128.18.94                                server5.vpnsplit.com
+142.251.16.94    404                         id.google.pk
+15.197.161.106   200   Apache                free.com
+154.70.107.66    301   nginx                 mtncameroon.net
+20.22.207.36     302   Microsoft-IIS/10.0    g.microsoftonline.com
+20.22.207.36     302   Microsoft-IIS/10.0    g.live.com
+20.22.207.36     302   Microsoft-IIS/10.0    g.msn.com
+20.22.207.36     302   Microsoft-IIS/10.0    g-msn-com-nsatc.trafficmanager.net
+172.66.47.76     301   cloudflare            devs.quipper.com
+172.66.44.180    301   cloudflare            quipper-github-io.pages.dev
+104.18.2.198     301   cloudflare            cdn.noice.id
+52.222.174.94    301   CloudFront            airteltigo.com.gh
+154.70.107.66    301   nginx                 www.minesecpay.cm
+154.70.118.80                                cotoc.cm
+159.223.70.17                                m.sg2.ssl.speedssh.com
+81.192.44.66     302   Microsoft-IIS/10.0    iam.ma
+18.138.44.77                                 api-sit-superapps.xlaxiata.id
+
+host             code  server                hostname
+----             ----  ------                --------
+108.162.193.101  301   cloudflare            andy.ns.cloudflare.com
+108.162.193.101  301   cloudflare            andy.ns.cloudflare.com
+172.64.34.104    301   cloudflare            isabel.ns.cloudflare.com
+142.250.27.27    404                         alt3.aspmx.l.google.com
+172.253.63.27    404                         aspmx.l.google.com
+142.250.27.27    404                         ra-in-f27.1e100.net
+142.250.153.27   404                         alt4.aspmx.l.google.com
+209.85.202.26    404                         alt1.aspmx.l.google.com
+162.159.38.104   301   cloudflare            isabel.ns.cloudflare.com
+172.253.62.101   301   gws                   google.com
+64.233.184.26    404                         alt2.aspmx.l.google.com
+216.239.32.27    404                         cb-in-f27.1e100.net
+66.102.12.26     404                         dg-in-f26.1e100.net
+34.111.81.59     301                         59.81.111.34.bc.googleusercontent.com
+104.18.3.198     301   cloudflare            images.noice.id
+34.111.81.59     301                         studio.dev.noice.id
+104.18.2.198     301   cloudflare            open.noice.id
+173.194.212.26   404                         vq-in-f26.1e100.net
+64.233.184.26    404                         wa-in-f26.1e100.net
+52.221.254.251                               ec2-52-221-254-251.ap-southeast-1.compute.amazonaws.com
+52.221.254.251                               apidemo.noice.id
+104.18.2.198     301   cloudflare            www.noice.id
+52.221.254.251                               sharedemo.noice.id
+52.221.254.251                               ec2-52-221-254-251.ap-southeast-1.compute.amazonaws.com
+3.0.234.188                                  ec2-3-0-234-188.ap-southeast-1.compute.amazonaws.com
+104.18.3.198     301   cloudflare            cdn.noice.id
+103.246.184.150                              dev-socket.noice.id
+103.246.184.150                              dev-cms.noice.id
+103.246.184.150                              IP-150.184.oixp.sim-indonesia.com
+34.120.106.123   404                         123.106.120.34.bc.googleusercontent.com
+34.117.133.146   405                         api.beta.noice.id
+34.117.133.146   404                         146.133.117.34.bc.googleusercontent.com
+34.120.106.123   405                         api.uat.noice.id
+130.211.26.75    403   UploadServer          ec.noice.id
+130.211.26.75    403   UploadServer          75.26.211.130.bc.googleusercontent.com
+34.117.55.164    404                         164.55.117.34.bc.googleusercontent.com
+34.117.55.164    405                         api.dev.noice.id
+34.110.154.74    301                         studio.uat.noice.id
+34.110.154.74    301                         74.154.110.34.bc.googleusercontent.com
+34.117.150.24    200   nginx/1.25.1          proxy.beta.noice.id
+34.117.150.24    404                         24.150.117.34.bc.googleusercontent.com
+18.136.128.232                               ec2-18-136-128-232.ap-southeast-1.compute.amazonaws.com
+18.136.128.232                               socket.noice.id
+199.36.158.100   301   Varnish               open.beta.noice.id
+34.149.46.206    200   nginx/1.25.1          proxy.uat.noice.id
+103.246.184.150                              dev-api.noice.id
+34.111.81.59     301                         allorigin.dev.noice.id
+34.149.46.206    404                         206.46.149.34.bc.googleusercontent.com
+52.221.254.251                               cmsdemo.noice.id
+34.111.16.213    301                         studio.noice.id
+10.184.0.181                                 cms.uat.noice.id
+10.184.0.180                                 cms.dev.noice.id
+184.72.174.126                               mail.zendesk.com
+34.128.95.199                                kibana.beta.noice.id
+34.101.117.144                               144.117.101.34.bc.googleusercontent.com
+34.101.166.249                               249.166.101.34.bc.googleusercontent.com
+34.101.166.249                               cms.beta.noice.id
